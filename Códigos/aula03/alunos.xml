@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alunos>
+    <aluno>
+        <nome>Felipe</nome>
+        <matricula>1234</matricula>
+        <nota>8.7</nota>
+    </aluno>
+    <aluno>
+        <nome>Vitória</nome>
+        <matricula>5678</matricula>
+        <nota>9.1</nota>
+    </aluno>
+</alunos>

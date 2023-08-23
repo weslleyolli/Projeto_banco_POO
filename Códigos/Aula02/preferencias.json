@@ -1,0 +1,28 @@
+[
+    {
+        "Nome do H\u00f3spede": "H\u00f3spede 1",
+        "Prefer\u00eancia de Alimenta\u00e7\u00e3o": "Vegetariana",
+        "Solicita\u00e7\u00f5es Especiais": "Ber\u00e7o",
+        "Atividades de Lazer": [
+            "Piscina",
+            "Spa"
+        ]
+    },
+    {
+        "Nome do H\u00f3spede": "H\u00f3spede 2",
+        "Prefer\u00eancia de Alimenta\u00e7\u00e3o": "Carn\u00edvora",
+        "Solicita\u00e7\u00f5es Especiais": "",
+        "Atividades de Lazer": [
+            "Academia",
+            "Passeios"
+        ]
+    },
+    {
+        "Nome do H\u00f3spede": "H\u00f3spede 3",
+        "Prefer\u00eancia de Alimenta\u00e7\u00e3o": "Vegana",
+        "Solicita\u00e7\u00f5es Especiais": "Travesseiros Extras",
+        "Atividades de Lazer": [
+            "Piscina"
+        ]
+    }
+]

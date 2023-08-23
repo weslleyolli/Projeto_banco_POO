@@ -1,0 +1,19 @@
+[ {
+  "id" : 1,
+  "nome" : "Lucas",
+  "idade" : 21,
+  "sexo" : "masculino",
+  "nacionalidade" : "brasileiro"
+}, {
+  "id" : 2,
+  "nome" : "Maria",
+  "idade" : 23,
+  "sexo" : "feminino",
+  "nacionalidade" : "turquistanesa"
+}, {
+  "id" : 3,
+  "nome" : "Jose",
+  "idade" : 69,
+  "sexo" : "masculino",
+  "nacionalidade" : "israelita"
+} ]

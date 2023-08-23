@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<passageiros>
+    <passageiro>
+        <nome>Felipe</nome>
+        <ticket>1234</ticket>
+        <idade>23</idade>
+        <origem>Campina Grande</origem>
+        <destino>Recife</destino>
+    </passageiro>
+    <passageiro>
+        <nome>Weslley</nome>
+        <ticket>2341</ticket>
+        <idade>24</idade>
+        <origem>Fortaleza</origem>
+        <destino>Rio Grande do Sul</destino>
+    </passageiro>
+    <passageiro>
+        <nome>Victor</nome>
+        <ticket>3241</ticket>
+        <idade>23</idade>
+        <origem>Natal</origem>
+        <destino>João Pessoa</destino>
+    </passageiro>
+    <passageiro>
+        <nome>Arthur</nome>
+        <ticket>4321</ticket>
+        <idade>22</idade>
+        <origem>Cabaceiras</origem>
+        <destino>Brasília</destino>
+    </passageiro>
+    <passageiro>
+        <nome>Paulo</nome>
+        <ticket>1423</ticket>
+        <idade>21</idade>
+        <origem>Sousa</origem>
+        <destino>Fortaleza</destino>
+    </passageiro>
+</passageiros>

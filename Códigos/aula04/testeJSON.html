@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aula 05 JSON</title>
+</head>
+<body>
+    <script>
+        var frutas = `{
+            "fruta":"banana",
+            "preço": 15.50,
+            "tipo": [
+                "prata",
+                "maçã",
+                "nanica",
+                "da terra",
+                "ouro"
+            ],
+            "origem":"Brasil",
+            "caractere": "\u3071"
+        }`;
+
+        console.log(frutas);
+        console.log(JSON.parse(frutas));
+        console.log(JSON.parse(frutas).origem);
+
+    </script>
+</body>
+</html>
