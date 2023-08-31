@@ -1,0 +1,285 @@
+year,tournament_id,match_id,stage_name,group_name,match_date,match_time,stadium_name,country_name,country_id_iso_3,knockout_stage,team_a_id_iso_3,team_a_name,team_a_code,team_b_id_iso_3,team_b_name,team_b_code,score,team_a_score,team_b_score,team_a_score_margin,team_b_score_margin,extra_time,penalty_shootout,score_penalties,team_a_score_penalties,team_b_score_penalties,team_a_win,team_b_win,draw
+1991,WC-1991,M-1991-1,Groups,Group A,1991-11-16,20:45:00,Tianhe Stadium, China PR ,CHN,0,CHN,China PR,CHN,NOR,Norway,NOR,4 - 0,4,0,4,-4,0,0,,0,0,1,0,0
+1991,WC-1991,M-1991-6,Groups,Group C,1991-11-17,15:30:00,Jiangmen Stadium, China PR ,CHN,0,DEU,Germany,DEU,NGA,Nigeria,NGA,4 - 0,4,0,4,-4,0,0,,0,0,1,0,0
+1991,WC-1991,M-1991-2,Groups,Group A,1991-11-17,19:45:00,Tianhe Stadium, China PR ,CHN,0,DNK,Denmark,DNK,NZL,New Zealand,NZL,3 - 0,3,0,3,-3,0,0,,0,0,1,0,0
+1991,WC-1991,M-1991-3,Groups,Group B,1991-11-17,19:45:00,New Plaza Stadium, China PR ,CHN,0,JPN,Japan,JPN,BRA,Brazil,BRA,0 - 1,0,1,-1,1,0,0,,0,0,0,1,0
+1991,WC-1991,M-1991-4,Groups,Group B,1991-11-17,19:45:00,Ying Dong Stadium, China PR ,CHN,0,SWE,Sweden,SWE,USA,USA,USA,2 - 3,2,3,-1,1,0,0,,0,0,0,1,0
+1991,WC-1991,M-1991-5,Groups,Group C,1991-11-17,19:45:00,Jiangmen Stadium, China PR ,CHN,0,TWN,Chinese Taipei,TWN,ITA,Italy,ITA,0 - 5,0,5,-5,5,0,0,,0,0,0,1,0
+1991,WC-1991,M-1991-8,Groups,Group A,1991-11-19,15:30:00,Guangdong Provincial Stadium, China PR ,CHN,0,NOR,Norway,NOR,NZL,New Zealand,NZL,4 - 0,4,0,4,-4,0,0,,0,0,1,0,0
+1991,WC-1991,M-1991-12,Groups,Group C,1991-11-19,15:30:00,Zhongshan Stadium, China PR ,CHN,0,ITA,Italy,ITA,NGA,Nigeria,NGA,1 - 0,1,0,1,-1,0,0,,0,0,1,0,0
+1991,WC-1991,M-1991-7,Groups,Group A,1991-11-19,19:45:00,Guangdong Provincial Stadium, China PR ,CHN,0,CHN,China PR,CHN,DNK,Denmark,DNK,2 - 2,2,2,0,0,0,0,,0,0,0,0,1
+1991,WC-1991,M-1991-9,Groups,Group B,1991-11-19,19:45:00,New Plaza Stadium, China PR ,CHN,0,JPN,Japan,JPN,SWE,Sweden,SWE,0 - 8,0,8,-8,8,0,0,,0,0,0,1,0
+1991,WC-1991,M-1991-10,Groups,Group B,1991-11-19,19:45:00,Ying Dong Stadium, China PR ,CHN,0,BRA,Brazil,BRA,USA,USA,USA,0 - 5,0,5,-5,5,0,0,,0,0,0,1,0
+1991,WC-1991,M-1991-11,Groups,Group C,1991-11-19,19:45:00,Zhongshan Stadium, China PR ,CHN,0,TWN,Chinese Taipei,TWN,DEU,Germany,DEU,0 - 3,0,3,-3,3,0,0,,0,0,0,1,0
+1991,WC-1991,M-1991-15,Groups,Group B,1991-11-21,15:30:00,New Plaza Stadium, China PR ,CHN,0,JPN,Japan,JPN,USA,USA,USA,0 - 3,0,3,-3,3,0,0,,0,0,0,1,0
+1991,WC-1991,M-1991-16,Groups,Group B,1991-11-21,15:30:00,Ying Dong Stadium, China PR ,CHN,0,BRA,Brazil,BRA,SWE,Sweden,SWE,0 - 2,0,2,-2,2,0,0,,0,0,0,1,0
+1991,WC-1991,M-1991-13,Groups,Group A,1991-11-21,19:45:00,New Plaza Stadium, China PR ,CHN,0,CHN,China PR,CHN,NZL,New Zealand,NZL,4 - 1,4,1,3,-3,0,0,,0,0,1,0,0
+1991,WC-1991,M-1991-14,Groups,Group A,1991-11-21,19:45:00,Ying Dong Stadium, China PR ,CHN,0,NOR,Norway,NOR,DNK,Denmark,DNK,2 - 1,2,1,1,-1,0,0,,0,0,1,0,0
+1991,WC-1991,M-1991-17,Groups,Group C,1991-11-21,19:45:00,Jiangmen Stadium, China PR ,CHN,0,TWN,Chinese Taipei,TWN,NGA,Nigeria,NGA,2 - 0,2,0,2,-2,0,0,,0,0,1,0,0
+1991,WC-1991,M-1991-18,Groups,Group C,1991-11-21,19:45:00,Zhongshan Stadium, China PR ,CHN,0,ITA,Italy,ITA,DEU,Germany,DEU,0 - 2,0,2,-2,2,0,0,,0,0,0,1,0
+1991,WC-1991,M-1991-21,Quarter-final,Not applicable,1991-11-24,15:30:00,Zhongshan Stadium, China PR ,CHN,1,DNK,Denmark,DNK,DEU,Germany,DEU,1 - 2,1,2,-1,1,1,0,,0,0,0,1,0
+1991,WC-1991,M-1991-19,Quarter-final,Not applicable,1991-11-24,19:45:00,Tianhe Stadium, China PR ,CHN,1,CHN,China PR,CHN,SWE,Sweden,SWE,0 - 1,0,1,-1,1,0,0,,0,0,0,1,0
+1991,WC-1991,M-1991-20,Quarter-final,Not applicable,1991-11-24,19:45:00,Jiangmen Stadium, China PR ,CHN,1,NOR,Norway,NOR,ITA,Italy,ITA,3 - 2,3,2,1,-1,1,0,,0,0,1,0,0
+1991,WC-1991,M-1991-22,Quarter-final,Not applicable,1991-11-24,19:45:00,New Plaza Stadium, China PR ,CHN,1,USA,USA,USA,TWN,Chinese Taipei,TWN,7 - 0,7,0,7,-7,0,0,,0,0,1,0,0
+1991,WC-1991,M-1991-23,Semi-final,Not applicable,1991-11-27,15:30:00,Ying Dong Stadium, China PR ,CHN,1,SWE,Sweden,SWE,NOR,Norway,NOR,1 - 4,1,4,-3,3,0,0,,0,0,0,1,0
+1991,WC-1991,M-1991-24,Semi-final,Not applicable,1991-11-27,19:45:00,Guangdong Provincial Stadium, China PR ,CHN,1,DEU,Germany,DEU,USA,USA,USA,2 - 5,2,5,-3,3,0,0,,0,0,0,1,0
+1991,WC-1991,M-1991-25,Match for third place,Not applicable,1991-11-29,19:45:00,Guangdong Provincial Stadium, China PR ,CHN,1,SWE,Sweden,SWE,DEU,Germany,DEU,4 - 0,4,0,4,-4,0,0,,0,0,1,0,0
+1991,WC-1991,M-1991-26,Final,Not applicable,1991-11-30,19:45:00,Tianhe Stadium, China PR ,CHN,1,NOR,Norway,NOR,USA,USA,USA,1 - 2,1,2,-1,1,0,0,,0,0,0,1,0
+1995,WC-1995,M-1995-2,Groups,Group A,1995-06-05,14:00:00,Tingvalla, Sweden ,SWE,0,DEU,Germany,DEU,JPN,Japan,JPN,1 - 0,1,0,1,-1,0,0,,0,0,1,0,0
+1995,WC-1995,M-1995-1,Groups,Group A,1995-06-05,18:00:00,Olympia Stadium, Sweden ,SWE,0,SWE,Sweden,SWE,BRA,Brazil,BRA,0 - 1,0,1,-1,1,0,0,,0,0,0,1,0
+1995,WC-1995,M-1995-3,Groups,Group B,1995-06-06,19:00:00,Tingvalla, Sweden ,SWE,0,NOR,Norway,NOR,NGA,Nigeria,NGA,8 - 0,8,0,8,-8,0,0,,0,0,1,0,0
+1995,WC-1995,M-1995-4,Groups,Group B,1995-06-06,19:00:00,Olympia Stadium, Sweden ,SWE,0,GBR,England,ENG,CAN,Canada,CAN,3 - 2,3,2,1,-1,0,0,,0,0,1,0,0
+1995,WC-1995,M-1995-5,Groups,Group C,1995-06-06,19:00:00,Stroemvallen, Sweden ,SWE,0,USA,USA,USA,CHN,China PR,CHN,3 - 3,3,3,0,0,0,0,,0,0,0,0,1
+1995,WC-1995,M-1995-6,Groups,Group C,1995-06-06,19:00:00,Arosvallen, Sweden ,SWE,0,DNK,Denmark,DNK,AUS,Australia,AUS,5 - 0,5,0,5,-5,0,0,,0,0,1,0,0
+1995,WC-1995,M-1995-7,Groups,Group A,1995-06-07,19:00:00,Olympia Stadium, Sweden ,SWE,0,SWE,Sweden,SWE,DEU,Germany,DEU,3 - 2,3,2,1,-1,0,0,,0,0,1,0,0
+1995,WC-1995,M-1995-8,Groups,Group A,1995-06-07,19:00:00,Tingvalla, Sweden ,SWE,0,BRA,Brazil,BRA,JPN,Japan,JPN,1 - 2,1,2,-1,1,0,0,,0,0,0,1,0
+1995,WC-1995,M-1995-9,Groups,Group B,1995-06-08,19:00:00,Tingvalla, Sweden ,SWE,0,NOR,Norway,NOR,GBR,England,ENG,2 - 0,2,0,2,-2,0,0,,0,0,1,0,0
+1995,WC-1995,M-1995-10,Groups,Group B,1995-06-08,19:00:00,Olympia Stadium, Sweden ,SWE,0,NGA,Nigeria,NGA,CAN,Canada,CAN,3 - 3,3,3,0,0,0,0,,0,0,0,0,1
+1995,WC-1995,M-1995-11,Groups,Group C,1995-06-08,19:00:00,Stroemvallen, Sweden ,SWE,0,USA,USA,USA,DNK,Denmark,DNK,2 - 0,2,0,2,-2,0,0,,0,0,1,0,0
+1995,WC-1995,M-1995-12,Groups,Group C,1995-06-08,19:00:00,Arosvallen, Sweden ,SWE,0,CHN,China PR,CHN,AUS,Australia,AUS,4 - 2,4,2,2,-2,0,0,,0,0,1,0,0
+1995,WC-1995,M-1995-13,Groups,Group A,1995-06-09,19:00:00,Arosvallen, Sweden ,SWE,0,SWE,Sweden,SWE,JPN,Japan,JPN,2 - 0,2,0,2,-2,0,0,,0,0,1,0,0
+1995,WC-1995,M-1995-14,Groups,Group A,1995-06-09,19:00:00,Tingvalla, Sweden ,SWE,0,BRA,Brazil,BRA,DEU,Germany,DEU,1 - 6,1,6,-5,5,0,0,,0,0,0,1,0
+1995,WC-1995,M-1995-15,Groups,Group B,1995-06-10,16:00:00,Stroemvallen, Sweden ,SWE,0,NOR,Norway,NOR,CAN,Canada,CAN,7 - 0,7,0,7,-7,0,0,,0,0,1,0,0
+1995,WC-1995,M-1995-16,Groups,Group B,1995-06-10,16:00:00,Tingvalla, Sweden ,SWE,0,NGA,Nigeria,NGA,GBR,England,ENG,2 - 3,2,3,-1,1,0,0,,0,0,0,1,0
+1995,WC-1995,M-1995-17,Groups,Group C,1995-06-10,16:00:00,Olympia Stadium, Sweden ,SWE,0,USA,USA,USA,AUS,Australia,AUS,4 - 1,4,1,3,-3,0,0,,0,0,1,0,0
+1995,WC-1995,M-1995-18,Groups,Group C,1995-06-10,16:00:00,Arosvallen, Sweden ,SWE,0,CHN,China PR,CHN,DNK,Denmark,DNK,3 - 1,3,1,2,-2,0,0,,0,0,1,0,0
+1995,WC-1995,M-1995-21,Quarter-final,Not applicable,1995-06-13,17:15:00,Stroemvallen, Sweden ,SWE,1,JPN,Japan,JPN,USA,USA,USA,0 - 4,0,4,-4,4,0,0,,0,0,0,1,0
+1995,WC-1995,M-1995-22,Quarter-final,Not applicable,1995-06-13,17:15:00,Tingvalla, Sweden ,SWE,1,NOR,Norway,NOR,DNK,Denmark,DNK,3 - 1,3,1,2,-2,0,0,,0,0,1,0,0
+1995,WC-1995,M-1995-19,Quarter-final,Not applicable,1995-06-13,20:15:00,Arosvallen, Sweden ,SWE,1,DEU,Germany,DEU,GBR,England,ENG,3 - 0,3,0,3,-3,0,0,,0,0,1,0,0
+1995,WC-1995,M-1995-20,Quarter-final,Not applicable,1995-06-13,20:15:00,Olympia Stadium, Sweden ,SWE,1,SWE,Sweden,SWE,CHN,China PR,CHN,1 - 1,1,1,0,0,0,1,3 - 4,3,4,0,1,0
+1995,WC-1995,M-1995-24,Semi-final,Not applicable,1995-06-15,17:15:00,Arosvallen, Sweden ,SWE,1,USA,USA,USA,NOR,Norway,NOR,0 - 1,0,1,-1,1,0,0,,0,0,0,1,0
+1995,WC-1995,M-1995-23,Semi-final,Not applicable,1995-06-15,20:15:00,Olympia Stadium, Sweden ,SWE,1,DEU,Germany,DEU,CHN,China PR,CHN,1 - 0,1,0,1,-1,0,0,,0,0,1,0,0
+1995,WC-1995,M-1995-25,Match for third place,Not applicable,1995-06-17,16:00:00,Stroemvallen, Sweden ,SWE,1,CHN,China PR,CHN,USA,USA,USA,0 - 2,0,2,-2,2,0,0,,0,0,0,1,0
+1995,WC-1995,M-1995-26,Final,Not applicable,1995-06-18,18:00:00,Rasunda Stadium, Sweden ,SWE,1,DEU,Germany,DEU,NOR,Norway,NOR,0 - 2,0,2,-2,2,0,0,,0,0,0,1,0
+1999,WC-1999,M-1999-1,Groups,Group A,1999-06-19,15:00:00,Giants Stadium, USA ,USA,0,USA,USA,USA,DNK,Denmark,DNK,3 - 0,3,0,3,-3,0,0,,0,0,1,0,0
+1999,WC-1999,M-1999-4,Groups,Group B,1999-06-19,17:30:00,Giants Stadium, USA ,USA,0,BRA,Brazil,BRA,MEX,Mexico,MEX,7 - 1,7,1,6,-6,0,0,,0,0,1,0,0
+1999,WC-1999,M-1999-7,Groups,Group D,1999-06-19,17:00:00,Spartan Stadium, USA ,USA,0,CHN,China PR,CHN,SWE,Sweden,SWE,2 - 1,2,1,1,-1,0,0,,0,0,1,0,0
+1999,WC-1999,M-1999-6,Groups,Group C,1999-06-19,19:00:00,Spartan Stadium, USA ,USA,0,JPN,Japan,JPN,CAN,Canada,CAN,1 - 1,1,1,0,0,0,0,,0,0,0,0,1
+1999,WC-1999,M-1999-5,Groups,Group C,1999-06-20,16:00:00,Foxboro Stadium, USA ,USA,0,NOR,Norway,NOR,RUS,Russia,RUS,2 - 1,2,1,1,-1,0,0,,0,0,1,0,0
+1999,WC-1999,M-1999-3,Groups,Group B,1999-06-20,16:00:00,Rose Bowl, USA ,USA,0,DEU,Germany,DEU,ITA,Italy,ITA,1 - 1,1,1,0,0,0,0,,0,0,0,0,1
+1999,WC-1999,M-1999-8,Groups,Group D,1999-06-20,19:30:00,Foxboro Stadium, USA ,USA,0,AUS,Australia,AUS,GHA,Ghana,GHA,1 - 1,1,1,0,0,0,0,,0,0,0,0,1
+1999,WC-1999,M-1999-2,Groups,Group A,1999-06-20,18:30:00,Rose Bowl, USA ,USA,0,PRK,Korea DPR,PRK,NGA,Nigeria,NGA,1 - 2,1,2,-1,1,0,0,,0,0,0,1,0
+1999,WC-1999,M-1999-13,Groups,Group C,1999-06-23,18:00:00,FedEx Field, USA ,USA,0,NOR,Norway,NOR,CAN,Canada,CAN,7 - 1,7,1,6,-6,0,0,,0,0,1,0,0
+1999,WC-1999,M-1999-16,Groups,Group D,1999-06-23,20:30:00,FedEx Field, USA ,USA,0,AUS,Australia,AUS,SWE,Sweden,SWE,1 - 3,1,3,-2,2,0,0,,0,0,0,1,0
+1999,WC-1999,M-1999-14,Groups,Group C,1999-06-23,18:00:00,Jeld-Wen Field, USA ,USA,0,JPN,Japan,JPN,RUS,Russia,RUS,0 - 5,0,5,-5,5,0,0,,0,0,0,1,0
+1999,WC-1999,M-1999-15,Groups,Group D,1999-06-23,20:30:00,Jeld-Wen Field, USA ,USA,0,CHN,China PR,CHN,GHA,Ghana,GHA,7 - 0,7,0,7,-7,0,0,,0,0,1,0,0
+1999,WC-1999,M-1999-12,Groups,Group B,1999-06-24,17:00:00,Soldier Field, USA ,USA,0,BRA,Brazil,BRA,ITA,Italy,ITA,2 - 0,2,0,2,-2,0,0,,0,0,1,0,0
+1999,WC-1999,M-1999-9,Groups,Group A,1999-06-24,19:00:00,Soldier Field, USA ,USA,0,USA,USA,USA,NGA,Nigeria,NGA,7 - 1,7,1,6,-6,0,0,,0,0,1,0,0
+1999,WC-1999,M-1999-10,Groups,Group A,1999-06-24,18:00:00,Jeld-Wen Field, USA ,USA,0,PRK,Korea DPR,PRK,DNK,Denmark,DNK,3 - 1,3,1,2,-2,0,0,,0,0,1,0,0
+1999,WC-1999,M-1999-11,Groups,Group B,1999-06-24,20:30:00,Jeld-Wen Field, USA ,USA,0,DEU,Germany,DEU,MEX,Mexico,MEX,6 - 0,6,0,6,-6,0,0,,0,0,1,0,0
+1999,WC-1999,M-1999-22,Groups,Group C,1999-06-26,12:00:00,Giants Stadium, USA ,USA,0,CAN,Canada,CAN,RUS,Russia,RUS,1 - 4,1,4,-3,3,0,0,,0,0,0,1,0
+1999,WC-1999,M-1999-23,Groups,Group D,1999-06-26,14:30:00,Giants Stadium, USA ,USA,0,CHN,China PR,CHN,AUS,Australia,AUS,3 - 1,3,1,2,-2,0,0,,0,0,1,0,0
+1999,WC-1999,M-1999-24,Groups,Group D,1999-06-26,16:00:00,Soldier Field, USA ,USA,0,GHA,Ghana,GHA,SWE,Sweden,SWE,0 - 2,0,2,-2,2,0,0,,0,0,0,1,0
+1999,WC-1999,M-1999-21,Groups,Group C,1999-06-26,18:30:00,Soldier Field, USA ,USA,0,NOR,Norway,NOR,JPN,Japan,JPN,4 - 0,4,0,4,-4,0,0,,0,0,1,0,0
+1999,WC-1999,M-1999-19,Groups,Group B,1999-06-27,13:30:00,FedEx Field, USA ,USA,0,DEU,Germany,DEU,BRA,Brazil,BRA,3 - 3,3,3,0,0,0,0,,0,0,0,0,1
+1999,WC-1999,M-1999-18,Groups,Group A,1999-06-27,16:00:00,FedEx Field, USA ,USA,0,NGA,Nigeria,NGA,DNK,Denmark,DNK,2 - 0,2,0,2,-2,0,0,,0,0,1,0,0
+1999,WC-1999,M-1999-20,Groups,Group B,1999-06-27,16:30:00,Foxboro Stadium, USA ,USA,0,MEX,Mexico,MEX,ITA,Italy,ITA,0 - 2,0,2,-2,2,0,0,,0,0,0,1,0
+1999,WC-1999,M-1999-17,Groups,Group A,1999-06-27,19:00:00,Foxboro Stadium, USA ,USA,0,USA,USA,USA,PRK,Korea DPR,PRK,3 - 0,3,0,3,-3,0,0,,0,0,1,0,0
+1999,WC-1999,M-1999-28,Quarter-final,Not applicable,1999-06-30,17:00:00,Spartan Stadium, USA ,USA,1,CHN,China PR,CHN,RUS,Russia,RUS,2 - 0,2,0,2,-2,0,0,,0,0,1,0,0
+1999,WC-1999,M-1999-27,Quarter-final,Not applicable,1999-06-30,19:30:00,Spartan Stadium, USA ,USA,1,NOR,Norway,NOR,SWE,Sweden,SWE,3 - 1,3,1,2,-2,0,0,,0,0,1,0,0
+1999,WC-1999,M-1999-25,Quarter-final,Not applicable,1999-07-01,19:00:00,FedEx Field, USA ,USA,1,USA,USA,USA,DEU,Germany,DEU,3 - 2,3,2,1,-1,0,0,,0,0,1,0,0
+1999,WC-1999,M-1999-26,Quarter-final,Not applicable,1999-07-01,21:30:00,FedEx Field, USA ,USA,1,BRA,Brazil,BRA,NGA,Nigeria,NGA,4 - 3,4,3,1,-1,0,0,,0,0,1,0,0
+1999,WC-1999,M-1999-29,Semi-final,Not applicable,1999-07-04,13:30:00,Stanford Stadium, USA ,USA,1,USA,USA,USA,BRA,Brazil,BRA,2 - 0,2,0,2,-2,0,0,,0,0,1,0,0
+1999,WC-1999,M-1999-30,Semi-final,Not applicable,1999-07-04,19:30:00,Foxboro Stadium, USA ,USA,1,NOR,Norway,NOR,CHN,China PR,CHN,0 - 5,0,5,-5,5,0,0,,0,0,0,1,0
+1999,WC-1999,M-1999-31,Match for third place,Not applicable,1999-07-10,10:15:00,Rose Bowl, USA ,USA,1,BRA,Brazil,BRA,NOR,Norway,NOR,0 - 0,0,0,0,0,0,1,5 - 4,5,4,1,0,0
+1999,WC-1999,M-1999-32,Final,Not applicable,1999-07-10,12:50:00,Rose Bowl, USA ,USA,1,USA,USA,USA,CHN,China PR,CHN,0 - 0,0,0,0,0,0,1,5 - 4,5,4,1,0,0
+2003,WC-2003,M-2003-1,Groups,Group B,2003-09-20,12:00:00,Lincoln Financial Field, USA ,USA,0,NOR,Norway,NOR,FRA,France,FRA,2 - 0,2,0,2,-2,0,0,,0,0,1,0,0
+2003,WC-2003,M-2003-2,Groups,Group A,2003-09-20,14:45:00,Lincoln Financial Field, USA ,USA,0,NGA,Nigeria,NGA,PRK,Korea DPR,PRK,0 - 3,0,3,-3,3,0,0,,0,0,0,1,0
+2003,WC-2003,M-2003-3,Groups,Group C,2003-09-20,17:45:00,MAPFRE Stadium, USA ,USA,0,DEU,Germany,DEU,CAN,Canada,CAN,4 - 1,4,1,3,-3,0,0,,0,0,1,0,0
+2003,WC-2003,M-2003-4,Groups,Group C,2003-09-20,20:30:00,MAPFRE Stadium, USA ,USA,0,JPN,Japan,JPN,ARG,Argentina,ARG,6 - 0,6,0,6,-6,0,0,,0,0,1,0,0
+2003,WC-2003,M-2003-5,Groups,Group A,2003-09-21,12:30:00,RFK Stadium, USA ,USA,0,USA,USA,USA,SWE,Sweden,SWE,3 - 1,3,1,2,-2,0,0,,0,0,1,0,0
+2003,WC-2003,M-2003-6,Groups,Group B,2003-09-21,15:15:00,RFK Stadium, USA ,USA,0,BRA,Brazil,BRA,KOR,Korea Republic,KOR,3 - 0,3,0,3,-3,0,0,,0,0,1,0,0
+2003,WC-2003,M-2003-7,Groups,Group D,2003-09-21,17:30:00,StubHub Center, USA ,USA,0,AUS,Australia,AUS,RUS,Russia,RUS,1 - 2,1,2,-1,1,0,0,,0,0,0,1,0
+2003,WC-2003,M-2003-8,Groups,Group D,2003-09-21,20:15:00,StubHub Center, USA ,USA,0,CHN,China PR,CHN,GHA,Ghana,GHA,1 - 0,1,0,1,-1,0,0,,0,0,1,0,0
+2003,WC-2003,M-2003-9,Groups,Group B,2003-09-24,17:01:00,RFK Stadium, USA ,USA,0,NOR,Norway,NOR,BRA,Brazil,BRA,1 - 4,1,4,-3,3,0,0,,0,0,0,1,0
+2003,WC-2003,M-2003-11,Groups,Group C,2003-09-24,17:45:00,MAPFRE Stadium, USA ,USA,0,DEU,Germany,DEU,JPN,Japan,JPN,3 - 0,3,0,3,-3,0,0,,0,0,1,0,0
+2003,WC-2003,M-2003-10,Groups,Group B,2003-09-24,19:45:00,RFK Stadium, USA ,USA,0,FRA,France,FRA,KOR,Korea Republic,KOR,1 - 0,1,0,1,-1,0,0,,0,0,1,0,0
+2003,WC-2003,M-2003-12,Groups,Group C,2003-09-24,20:30:00,MAPFRE Stadium, USA ,USA,0,CAN,Canada,CAN,ARG,Argentina,ARG,3 - 0,3,0,3,-3,0,0,,0,0,1,0,0
+2003,WC-2003,M-2003-13,Groups,Group A,2003-09-25,16:45:00,Lincoln Financial Field, USA ,USA,0,SWE,Sweden,SWE,PRK,Korea DPR,PRK,1 - 0,1,0,1,-1,0,0,,0,0,1,0,0
+2003,WC-2003,M-2003-15,Groups,Group D,2003-09-25,16:15:00,StubHub Center, USA ,USA,0,GHA,Ghana,GHA,RUS,Russia,RUS,0 - 3,0,3,-3,3,0,0,,0,0,0,1,0
+2003,WC-2003,M-2003-14,Groups,Group A,2003-09-25,19:31:00,Lincoln Financial Field, USA ,USA,0,USA,USA,USA,NGA,Nigeria,NGA,5 - 0,5,0,5,-5,0,0,,0,0,1,0,0
+2003,WC-2003,M-2003-16,Groups,Group D,2003-09-25,19:01:00,StubHub Center, USA ,USA,0,CHN,China PR,CHN,AUS,Australia,AUS,1 - 1,1,1,0,0,0,0,,0,0,0,0,1
+2003,WC-2003,M-2003-17,Groups,Group B,2003-09-27,12:45:00,Gillette Stadium, USA ,USA,0,KOR,Korea Republic,KOR,NOR,Norway,NOR,1 - 7,1,7,-6,6,0,0,,0,0,0,1,0
+2003,WC-2003,M-2003-19,Groups,Group B,2003-09-27,12:45:00,RFK Stadium, USA ,USA,0,FRA,France,FRA,BRA,Brazil,BRA,1 - 1,1,1,0,0,0,0,,0,0,0,0,1
+2003,WC-2003,M-2003-18,Groups,Group C,2003-09-27,15:30:00,Gillette Stadium, USA ,USA,0,CAN,Canada,CAN,JPN,Japan,JPN,3 - 1,3,1,2,-2,0,0,,0,0,1,0,0
+2003,WC-2003,M-2003-20,Groups,Group C,2003-09-27,15:30:00,RFK Stadium, USA ,USA,0,ARG,Argentina,ARG,DEU,Germany,DEU,1 - 6,1,6,-5,5,0,0,,0,0,0,1,0
+2003,WC-2003,M-2003-21,Groups,Group A,2003-09-28,13:00:00,MAPFRE Stadium, USA ,USA,0,SWE,Sweden,SWE,NGA,Nigeria,NGA,3 - 0,3,0,3,-3,0,0,,0,0,1,0,0
+2003,WC-2003,M-2003-22,Groups,Group A,2003-09-28,15:45:00,MAPFRE Stadium, USA ,USA,0,PRK,Korea DPR,PRK,USA,USA,USA,0 - 3,0,3,-3,3,0,0,,0,0,0,1,0
+2003,WC-2003,M-2003-23,Groups,Group D,2003-09-28,17:15:00,Jeld-Wen Field, USA ,USA,0,GHA,Ghana,GHA,AUS,Australia,AUS,2 - 1,2,1,1,-1,0,0,,0,0,1,0,0
+2003,WC-2003,M-2003-24,Groups,Group D,2003-09-28,20:00:00,Jeld-Wen Field, USA ,USA,0,CHN,China PR,CHN,RUS,Russia,RUS,1 - 0,1,0,1,-1,0,0,,0,0,1,0,0
+2003,WC-2003,M-2003-26,Quarter-final,Not applicable,2003-10-01,16:30:00,Gillette Stadium, USA ,USA,1,BRA,Brazil,BRA,SWE,Sweden,SWE,1 - 2,1,2,-1,1,0,0,,0,0,0,1,0
+2003,WC-2003,M-2003-25,Quarter-final,Not applicable,2003-10-01,19:30:00,Gillette Stadium, USA ,USA,1,USA,USA,USA,NOR,Norway,NOR,1 - 0,1,0,1,-1,0,0,,0,0,1,0,0
+2003,WC-2003,M-2003-27,Quarter-final,Not applicable,2003-10-02,16:30:00,Jeld-Wen Field, USA ,USA,1,DEU,Germany,DEU,RUS,Russia,RUS,7 - 1,7,1,6,-6,0,0,,0,0,1,0,0
+2003,WC-2003,M-2003-28,Quarter-final,Not applicable,2003-10-02,19:30:00,Jeld-Wen Field, USA ,USA,1,CHN,China PR,CHN,CAN,Canada,CAN,0 - 1,0,1,-1,1,0,0,,0,0,0,1,0
+2003,WC-2003,M-2003-29,Semi-final,Not applicable,2003-10-05,16:36:00,Jeld-Wen Field, USA ,USA,1,USA,USA,USA,DEU,Germany,DEU,0 - 3,0,3,-3,3,0,0,,0,0,0,1,0
+2003,WC-2003,M-2003-30,Semi-final,Not applicable,2003-10-05,19:30:00,Jeld-Wen Field, USA ,USA,1,SWE,Sweden,SWE,CAN,Canada,CAN,2 - 1,2,1,1,-1,0,0,,0,0,1,0,0
+2003,WC-2003,M-2003-31,Match for third place,Not applicable,2003-10-11,12:30:00,StubHub Center, USA ,USA,1,USA,USA,USA,CAN,Canada,CAN,3 - 1,3,1,2,-2,0,0,,0,0,1,0,0
+2003,WC-2003,M-2003-32,Final,Not applicable,2003-10-12,10:00:00,StubHub Center, USA ,USA,1,DEU,Germany,DEU,SWE,Sweden,SWE,2 - 1,2,1,1,-1,0,0,,0,0,1,0,0
+2007,WC-2007,M-2007-1,Groups,Group A,2007-09-10,20:00:00,Shanghai Hongkou Football Stadium, China ,CHN,0,DEU,Germany,DEU,ARG,Argentina,ARG,11 - 0,11,0,11,-11,0,0,,0,0,1,0,0
+2007,WC-2007,M-2007-3,Groups,Group B,2007-09-11,17:00:00,Chengdu Sports Center Stadium, China ,CHN,0,USA,USA,USA,PRK,Korea DPR,PRK,2 - 2,2,2,0,0,0,0,,0,0,0,0,1
+2007,WC-2007,M-2007-2,Groups,Group A,2007-09-11,20:00:00,Shanghai Hongkou Football Stadium, China ,CHN,0,JPN,Japan,JPN,GBR,England,ENG,2 - 2,2,2,0,0,0,0,,0,0,0,0,1
+2007,WC-2007,M-2007-4,Groups,Group B,2007-09-11,20:00:00,Chengdu Sports Center Stadium, China ,CHN,0,NGA,Nigeria,NGA,SWE,Sweden,SWE,1 - 1,1,1,0,0,0,0,,0,0,0,0,1
+2007,WC-2007,M-2007-5,Groups,Group C,2007-09-12,17:00:00,Hangzhou Dragon Stadium, China ,CHN,0,GHA,Ghana,GHA,AUS,Australia,AUS,1 - 4,1,4,-3,3,0,0,,0,0,0,1,0
+2007,WC-2007,M-2007-7,Groups,Group D,2007-09-12,17:00:00,Wuhan Sports Center Stadium, China ,CHN,0,NZL,New Zealand,NZL,BRA,Brazil,BRA,0 - 5,0,5,-5,5,0,0,,0,0,0,1,0
+2007,WC-2007,M-2007-6,Groups,Group C,2007-09-12,20:00:00,Hangzhou Dragon Stadium, China ,CHN,0,NOR,Norway,NOR,CAN,Canada,CAN,2 - 1,2,1,1,-1,0,0,,0,0,1,0,0
+2007,WC-2007,M-2007-8,Groups,Group D,2007-09-12,20:00:00,Wuhan Sports Center Stadium, China ,CHN,0,CHN,China PR,CHN,DNK,Denmark,DNK,3 - 2,3,2,1,-1,0,0,,0,0,1,0,0
+2007,WC-2007,M-2007-9,Groups,Group A,2007-09-14,17:00:00,Shanghai Hongkou Football Stadium, China ,CHN,0,ARG,Argentina,ARG,JPN,Japan,JPN,0 - 1,0,1,-1,1,0,0,,0,0,0,1,0
+2007,WC-2007,M-2007-11,Groups,Group B,2007-09-14,17:00:00,Chengdu Sports Center Stadium, China ,CHN,0,SWE,Sweden,SWE,USA,USA,USA,0 - 2,0,2,-2,2,0,0,,0,0,0,1,0
+2007,WC-2007,M-2007-10,Groups,Group A,2007-09-14,20:00:00,Shanghai Hongkou Football Stadium, China ,CHN,0,GBR,England,ENG,DEU,Germany,DEU,0 - 0,0,0,0,0,0,0,,0,0,0,0,1
+2007,WC-2007,M-2007-12,Groups,Group B,2007-09-14,20:00:00,Chengdu Sports Center Stadium, China ,CHN,0,PRK,Korea DPR,PRK,NGA,Nigeria,NGA,2 - 0,2,0,2,-2,0,0,,0,0,1,0,0
+2007,WC-2007,M-2007-13,Groups,Group C,2007-09-15,17:00:00,Hangzhou Dragon Stadium, China ,CHN,0,CAN,Canada,CAN,GHA,Ghana,GHA,4 - 0,4,0,4,-4,0,0,,0,0,1,0,0
+2007,WC-2007,M-2007-15,Groups,Group D,2007-09-15,17:00:00,Wuhan Sports Center Stadium, China ,CHN,0,DNK,Denmark,DNK,NZL,New Zealand,NZL,2 - 0,2,0,2,-2,0,0,,0,0,1,0,0
+2007,WC-2007,M-2007-14,Groups,Group C,2007-09-15,20:00:00,Hangzhou Dragon Stadium, China ,CHN,0,AUS,Australia,AUS,NOR,Norway,NOR,1 - 1,1,1,0,0,0,0,,0,0,0,0,1
+2007,WC-2007,M-2007-16,Groups,Group D,2007-09-15,20:00:00,Wuhan Sports Center Stadium, China ,CHN,0,BRA,Brazil,BRA,CHN,China PR,CHN,4 - 0,4,0,4,-4,0,0,,0,0,1,0,0
+2007,WC-2007,M-2007-17,Groups,Group A,2007-09-17,20:00:00,Hangzhou Dragon Stadium, China ,CHN,0,DEU,Germany,DEU,JPN,Japan,JPN,2 - 0,2,0,2,-2,0,0,,0,0,1,0,0
+2007,WC-2007,M-2007-18,Groups,Group A,2007-09-17,20:00:00,Chengdu Sports Center Stadium, China ,CHN,0,GBR,England,ENG,ARG,Argentina,ARG,6 - 1,6,1,5,-5,0,0,,0,0,1,0,0
+2007,WC-2007,M-2007-19,Groups,Group B,2007-09-18,20:00:00,Shanghai Hongkou Football Stadium, China ,CHN,0,NGA,Nigeria,NGA,USA,USA,USA,0 - 1,0,1,-1,1,0,0,,0,0,0,1,0
+2007,WC-2007,M-2007-20,Groups,Group B,2007-09-18,20:00:00,Tianjin Olympic Sports Center Stadium, China ,CHN,0,PRK,Korea DPR,PRK,SWE,Sweden,SWE,1 - 2,1,2,-1,1,0,0,,0,0,0,1,0
+2007,WC-2007,M-2007-21,Groups,Group C,2007-09-20,17:00:00,Hangzhou Dragon Stadium, China ,CHN,0,NOR,Norway,NOR,GHA,Ghana,GHA,7 - 2,7,2,5,-5,0,0,,0,0,1,0,0
+2007,WC-2007,M-2007-22,Groups,Group C,2007-09-20,17:00:00,Chengdu Sports Center Stadium, China ,CHN,0,AUS,Australia,AUS,CAN,Canada,CAN,2 - 2,2,2,0,0,0,0,,0,0,0,0,1
+2007,WC-2007,M-2007-23,Groups,Group D,2007-09-20,20:00:00,Tianjin Olympic Sports Center Stadium, China ,CHN,0,CHN,China PR,CHN,NZL,New Zealand,NZL,2 - 0,2,0,2,-2,0,0,,0,0,1,0,0
+2007,WC-2007,M-2007-24,Groups,Group D,2007-09-20,20:00:00,Hangzhou Dragon Stadium, China ,CHN,0,BRA,Brazil,BRA,DNK,Denmark,DNK,1 - 0,1,0,1,-1,0,0,,0,0,1,0,0
+2007,WC-2007,M-2007-25,Quarter-final,Not applicable,2007-09-22,17:00:00,Wuhan Sports Center Stadium, China ,CHN,1,DEU,Germany,DEU,PRK,Korea DPR,PRK,3 - 0,3,0,3,-3,0,0,,0,0,1,0,0
+2007,WC-2007,M-2007-26,Quarter-final,Not applicable,2007-09-22,20:00:00,Tianjin Olympic Sports Center Stadium, China ,CHN,1,USA,USA,USA,GBR,England,ENG,3 - 0,3,0,3,-3,0,0,,0,0,1,0,0
+2007,WC-2007,M-2007-27,Quarter-final,Not applicable,2007-09-23,17:00:00,Wuhan Sports Center Stadium, China ,CHN,1,NOR,Norway,NOR,CHN,China PR,CHN,1 - 0,1,0,1,-1,0,0,,0,0,1,0,0
+2007,WC-2007,M-2007-28,Quarter-final,Not applicable,2007-09-23,20:00:00,Tianjin Olympic Sports Center Stadium, China ,CHN,1,BRA,Brazil,BRA,AUS,Australia,AUS,3 - 2,3,2,1,-1,0,0,,0,0,1,0,0
+2007,WC-2007,M-2007-29,Semi-final,Not applicable,2007-09-26,20:00:00,Tianjin Olympic Sports Center Stadium, China ,CHN,1,DEU,Germany,DEU,NOR,Norway,NOR,3 - 0,3,0,3,-3,0,0,,0,0,1,0,0
+2007,WC-2007,M-2007-30,Semi-final,Not applicable,2007-09-27,20:00:00,Hangzhou Dragon Stadium, China ,CHN,1,USA,USA,USA,BRA,Brazil,BRA,0 - 4,0,4,-4,4,0,0,,0,0,0,1,0
+2007,WC-2007,M-2007-31,Match for third place,Not applicable,2007-09-30,17:00:00,Shanghai Hongkou Football Stadium, China ,CHN,1,NOR,Norway,NOR,USA,USA,USA,1 - 4,1,4,-3,3,0,0,,0,0,0,1,0
+2007,WC-2007,M-2007-32,Final,Not applicable,2007-09-30,20:00:00,Shanghai Hongkou Football Stadium, China ,CHN,1,DEU,Germany,DEU,BRA,Brazil,BRA,2 - 0,2,0,2,-2,0,0,,0,0,1,0,0
+2011,WC-2011,M-2011-2,Groups,Group A,2011-06-26,15:00:00,Rhein-Neckar-Arena, Germany ,DEU,0,NGA,Nigeria,NGA,FRA,France,FRA,0 - 1,0,1,-1,1,0,0,,0,0,0,1,0
+2011,WC-2011,M-2011-1,Groups,Group A,2011-06-26,18:00:00,Olympiastadion, Germany ,DEU,0,DEU,Germany,DEU,CAN,Canada,CAN,2 - 1,2,1,1,-1,0,0,,0,0,1,0,0
+2011,WC-2011,M-2011-3,Groups,Group B,2011-06-27,15:00:00,rewirpowerSTADION, Germany ,DEU,0,JPN,Japan,JPN,NZL,New Zealand,NZL,2 - 1,2,1,1,-1,0,0,,0,0,1,0,0
+2011,WC-2011,M-2011-4,Groups,Group B,2011-06-27,18:00:00,Volkswagen-Arena, Germany ,DEU,0,MEX,Mexico,MEX,GBR,England,ENG,1 - 1,1,1,0,0,0,0,,0,0,0,0,1
+2011,WC-2011,M-2011-6,Groups,Group C,2011-06-28,15:00:00,Bay-Arena, Germany ,DEU,0,COL,Colombia,COL,SWE,Sweden,SWE,0 - 1,0,1,-1,1,0,0,,0,0,0,1,0
+2011,WC-2011,M-2011-5,Groups,Group C,2011-06-28,18:15:00,Rudolf-Harbig-Stadion, Germany ,DEU,0,USA,USA,USA,PRK,Korea DPR,PRK,2 - 0,2,0,2,-2,0,0,,0,0,1,0,0
+2011,WC-2011,M-2011-8,Groups,Group D,2011-06-29,15:00:00,WWK Arena, Germany ,DEU,0,NOR,Norway,NOR,GNQ,Equatorial Guinea,GNQ,1 - 0,1,0,1,-1,0,0,,0,0,1,0,0
+2011,WC-2011,M-2011-7,Groups,Group D,2011-06-29,18:15:00,Stadion im Borussia-Park, Germany ,DEU,0,BRA,Brazil,BRA,AUS,Australia,AUS,1 - 0,1,0,1,-1,0,0,,0,0,1,0,0
+2011,WC-2011,M-2011-10,Groups,Group A,2011-06-30,18:00:00,rewirpowerSTADION, Germany ,DEU,0,CAN,Canada,CAN,FRA,France,FRA,0 - 4,0,4,-4,4,0,0,,0,0,0,1,0
+2011,WC-2011,M-2011-9,Groups,Group A,2011-06-30,20:45:00,Commerzbank Arena, Germany ,DEU,0,DEU,Germany,DEU,NGA,Nigeria,NGA,1 - 0,1,0,1,-1,0,0,,0,0,1,0,0
+2011,WC-2011,M-2011-11,Groups,Group B,2011-07-01,15:00:00,Bay-Arena, Germany ,DEU,0,JPN,Japan,JPN,MEX,Mexico,MEX,4 - 0,4,0,4,-4,0,0,,0,0,1,0,0
+2011,WC-2011,M-2011-12,Groups,Group B,2011-07-01,18:15:00,Rudolf-Harbig-Stadion, Germany ,DEU,0,NZL,New Zealand,NZL,GBR,England,ENG,1 - 2,1,2,-1,1,0,0,,0,0,0,1,0
+2011,WC-2011,M-2011-14,Groups,Group C,2011-07-02,14:00:00,WWK Arena, Germany ,DEU,0,PRK,Korea DPR,PRK,SWE,Sweden,SWE,0 - 1,0,1,-1,1,0,0,,0,0,0,1,0
+2011,WC-2011,M-2011-13,Groups,Group C,2011-07-02,18:00:00,Rhein-Neckar-Arena, Germany ,DEU,0,USA,USA,USA,COL,Colombia,COL,3 - 0,3,0,3,-3,0,0,,0,0,1,0,0
+2011,WC-2011,M-2011-16,Groups,Group D,2011-07-03,14:00:00,rewirpowerSTADION, Germany ,DEU,0,AUS,Australia,AUS,GNQ,Equatorial Guinea,GNQ,3 - 2,3,2,1,-1,0,0,,0,0,1,0,0
+2011,WC-2011,M-2011-15,Groups,Group D,2011-07-03,18:15:00,Volkswagen-Arena, Germany ,DEU,0,BRA,Brazil,BRA,NOR,Norway,NOR,3 - 0,3,0,3,-3,0,0,,0,0,1,0,0
+2011,WC-2011,M-2011-19,Groups,Group B,2011-07-05,18:15:00,WWK Arena, Germany ,DEU,0,GBR,England,ENG,JPN,Japan,JPN,2 - 0,2,0,2,-2,0,0,,0,0,1,0,0
+2011,WC-2011,M-2011-20,Groups,Group B,2011-07-05,18:15:00,Rhein-Neckar-Arena, Germany ,DEU,0,NZL,New Zealand,NZL,MEX,Mexico,MEX,2 - 2,2,2,0,0,0,0,,0,0,0,0,1
+2011,WC-2011,M-2011-17,Groups,Group A,2011-07-05,20:45:00,Stadion im Borussia-Park, Germany ,DEU,0,FRA,France,FRA,DEU,Germany,DEU,2 - 4,2,4,-2,2,0,0,,0,0,0,1,0
+2011,WC-2011,M-2011-18,Groups,Group A,2011-07-05,20:45:00,Rudolf-Harbig-Stadion, Germany ,DEU,0,CAN,Canada,CAN,NGA,Nigeria,NGA,0 - 1,0,1,-1,1,0,0,,0,0,0,1,0
+2011,WC-2011,M-2011-23,Groups,Group D,2011-07-06,18:00:00,Commerzbank Arena, Germany ,DEU,0,GNQ,Equatorial Guinea,GNQ,BRA,Brazil,BRA,0 - 3,0,3,-3,3,0,0,,0,0,0,1,0
+2011,WC-2011,M-2011-24,Groups,Group D,2011-07-06,18:00:00,Bay-Arena, Germany ,DEU,0,AUS,Australia,AUS,NOR,Norway,NOR,2 - 1,2,1,1,-1,0,0,,0,0,1,0,0
+2011,WC-2011,M-2011-21,Groups,Group C,2011-07-06,20:45:00,Volkswagen-Arena, Germany ,DEU,0,SWE,Sweden,SWE,USA,USA,USA,2 - 1,2,1,1,-1,0,0,,0,0,1,0,0
+2011,WC-2011,M-2011-22,Groups,Group C,2011-07-06,20:45:00,rewirpowerSTADION, Germany ,DEU,0,PRK,Korea DPR,PRK,COL,Colombia,COL,0 - 0,0,0,0,0,0,0,,0,0,0,0,1
+2011,WC-2011,M-2011-26,Quarter-final,Not applicable,2011-07-09,18:00:00,Bay-Arena, Germany ,DEU,1,GBR,England,ENG,FRA,France,FRA,1 - 1,1,1,0,0,0,1,3 - 4,3,4,0,1,0
+2011,WC-2011,M-2011-25,Quarter-final,Not applicable,2011-07-09,20:45:00,Volkswagen-Arena, Germany ,DEU,1,DEU,Germany,DEU,JPN,Japan,JPN,0 - 1,0,1,-1,1,1,0,,0,0,0,1,0
+2011,WC-2011,M-2011-27,Quarter-final,Not applicable,2011-07-10,13:00:00,WWK Arena, Germany ,DEU,1,SWE,Sweden,SWE,AUS,Australia,AUS,3 - 1,3,1,2,-2,0,0,,0,0,1,0,0
+2011,WC-2011,M-2011-28,Quarter-final,Not applicable,2011-07-10,17:30:00,Rudolf-Harbig-Stadion, Germany ,DEU,1,BRA,Brazil,BRA,USA,USA,USA,2 - 2,2,2,0,0,0,1,3 - 5,3,5,0,1,0
+2011,WC-2011,M-2011-30,Semi-final,Not applicable,2011-07-13,18:00:00,Stadion im Borussia-Park, Germany ,DEU,1,FRA,France,FRA,USA,USA,USA,1 - 3,1,3,-2,2,0,0,,0,0,0,1,0
+2011,WC-2011,M-2011-29,Semi-final,Not applicable,2011-07-13,20:45:00,Commerzbank Arena, Germany ,DEU,1,JPN,Japan,JPN,SWE,Sweden,SWE,3 - 1,3,1,2,-2,0,0,,0,0,1,0,0
+2011,WC-2011,M-2011-31,Match for third place,Not applicable,2011-07-16,17:30:00,Rhein-Neckar-Arena, Germany ,DEU,1,SWE,Sweden,SWE,FRA,France,FRA,2 - 1,2,1,1,-1,0,0,,0,0,1,0,0
+2011,WC-2011,M-2011-32,Final,Not applicable,2011-07-17,20:45:00,Commerzbank Arena, Germany ,DEU,1,JPN,Japan,JPN,USA,USA,USA,2 - 2,2,2,0,0,0,1,3 - 1,3,1,1,0,0
+2015,WC-2015,M-2015-1,Groups,Group A,2015-06-06,16:00:00,Commonwealth Stadium, Canada ,CAN,0,CAN,Canada,CAN,CHN,China PR,CHN,1 - 0,1,0,1,-1,0,0,,0,0,1,0,0
+2015,WC-2015,M-2015-2,Groups,Group A,2015-06-06,19:00:00,Commonwealth Stadium, Canada ,CAN,0,NZL,New Zealand,NZL,NLD,Netherlands,NLD,0 - 1,0,1,-1,1,0,0,,0,0,0,1,0
+2015,WC-2015,M-2015-4,Groups,Group B,2015-06-07,13:00:00,TD Place Stadium, Canada ,CAN,0,NOR,Norway,NOR,THA,Thailand,THA,4 - 0,4,0,4,-4,0,0,,0,0,1,0,0
+2015,WC-2015,M-2015-3,Groups,Group B,2015-06-07,16:00:00,TD Place Stadium, Canada ,CAN,0,DEU,Germany,DEU,CIV,Côte d'Ivoire,CIV,10 - 0,10,0,10,-10,0,0,,0,0,1,0,0
+2015,WC-2015,M-2015-8,Groups,Group D,2015-06-08,15:00:00,Investors Group Field, Canada ,CAN,0,SWE,Sweden,SWE,NGA,Nigeria,NGA,3 - 3,3,3,0,0,0,0,,0,0,0,0,1
+2015,WC-2015,M-2015-6,Groups,Group C,2015-06-08,16:00:00,BC Place Stadium, Canada ,CAN,0,CMR,Cameroon,CMR,ECU,Ecuador,ECU,6 - 0,6,0,6,-6,0,0,,0,0,1,0,0
+2015,WC-2015,M-2015-7,Groups,Group D,2015-06-08,18:30:00,Investors Group Field, Canada ,CAN,0,USA,USA,USA,AUS,Australia,AUS,3 - 1,3,1,2,-2,0,0,,0,0,1,0,0
+2015,WC-2015,M-2015-5,Groups,Group C,2015-06-08,19:00:00,BC Place Stadium, Canada ,CAN,0,JPN,Japan,JPN,CHE,Switzerland,CHE,1 - 0,1,0,1,-1,0,0,,0,0,1,0,0
+2015,WC-2015,M-2015-11,Groups,Group F,2015-06-09,14:00:00,Moncton Stadium, Canada ,CAN,0,FRA,France,FRA,GBR,England,ENG,1 - 0,1,0,1,-1,0,0,,0,0,1,0,0
+2015,WC-2015,M-2015-10,Groups,Group E,2015-06-09,16:00:00,Olympic Stadium, Canada ,CAN,0,ESP,Spain,ESP,CRI,Costa Rica,CRI,1 - 1,1,1,0,0,0,0,,0,0,0,0,1
+2015,WC-2015,M-2015-12,Groups,Group F,2015-06-09,17:00:00,Moncton Stadium, Canada ,CAN,0,COL,Colombia,COL,MEX,Mexico,MEX,1 - 1,1,1,0,0,0,0,,0,0,0,0,1
+2015,WC-2015,M-2015-9,Groups,Group E,2015-06-09,19:00:00,Olympic Stadium, Canada ,CAN,0,BRA,Brazil,BRA,KOR,Korea Republic,KOR,2 - 0,2,0,2,-2,0,0,,0,0,1,0,0
+2015,WC-2015,M-2015-15,Groups,Group B,2015-06-11,16:00:00,TD Place Stadium, Canada ,CAN,0,DEU,Germany,DEU,NOR,Norway,NOR,1 - 1,1,1,0,0,0,0,,0,0,0,0,1
+2015,WC-2015,M-2015-14,Groups,Group A,2015-06-11,16:00:00,Commonwealth Stadium, Canada ,CAN,0,CHN,China PR,CHN,NLD,Netherlands,NLD,1 - 0,1,0,1,-1,0,0,,0,0,1,0,0
+2015,WC-2015,M-2015-16,Groups,Group B,2015-06-11,19:00:00,TD Place Stadium, Canada ,CAN,0,CIV,Côte d'Ivoire,CIV,THA,Thailand,THA,2 - 3,2,3,-1,1,0,0,,0,0,0,1,0
+2015,WC-2015,M-2015-13,Groups,Group A,2015-06-11,19:00:00,Commonwealth Stadium, Canada ,CAN,0,CAN,Canada,CAN,NZL,New Zealand,NZL,0 - 0,0,0,0,0,0,0,,0,0,0,0,1
+2015,WC-2015,M-2015-20,Groups,Group D,2015-06-12,16:00:00,Investors Group Field, Canada ,CAN,0,AUS,Australia,AUS,NGA,Nigeria,NGA,2 - 0,2,0,2,-2,0,0,,0,0,1,0,0
+2015,WC-2015,M-2015-18,Groups,Group C,2015-06-12,16:00:00,BC Place Stadium, Canada ,CAN,0,CHE,Switzerland,CHE,ECU,Ecuador,ECU,10 - 1,10,1,9,-9,0,0,,0,0,1,0,0
+2015,WC-2015,M-2015-19,Groups,Group D,2015-06-12,19:00:00,Investors Group Field, Canada ,CAN,0,USA,USA,USA,SWE,Sweden,SWE,0 - 0,0,0,0,0,0,0,,0,0,0,0,1
+2015,WC-2015,M-2015-17,Groups,Group C,2015-06-12,19:00:00,BC Place Stadium, Canada ,CAN,0,JPN,Japan,JPN,CMR,Cameroon,CMR,2 - 1,2,1,1,-1,0,0,,0,0,1,0,0
+2015,WC-2015,M-2015-23,Groups,Group F,2015-06-13,14:00:00,Moncton Stadium, Canada ,CAN,0,FRA,France,FRA,COL,Colombia,COL,0 - 2,0,2,-2,2,0,0,,0,0,0,1,0
+2015,WC-2015,M-2015-21,Groups,Group E,2015-06-13,16:00:00,Olympic Stadium, Canada ,CAN,0,BRA,Brazil,BRA,ESP,Spain,ESP,1 - 0,1,0,1,-1,0,0,,0,0,1,0,0
+2015,WC-2015,M-2015-24,Groups,Group F,2015-06-13,17:00:00,Moncton Stadium, Canada ,CAN,0,GBR,England,ENG,MEX,Mexico,MEX,2 - 1,2,1,1,-1,0,0,,0,0,1,0,0
+2015,WC-2015,M-2015-22,Groups,Group E,2015-06-13,19:00:00,Olympic Stadium, Canada ,CAN,0,KOR,Korea Republic,KOR,CRI,Costa Rica,CRI,2 - 2,2,2,0,0,0,0,,0,0,0,0,1
+2015,WC-2015,M-2015-27,Groups,Group B,2015-06-15,15:00:00,Investors Group Field, Canada ,CAN,0,THA,Thailand,THA,DEU,Germany,DEU,0 - 4,0,4,-4,4,0,0,,0,0,0,1,0
+2015,WC-2015,M-2015-28,Groups,Group B,2015-06-15,17:00:00,Moncton Stadium, Canada ,CAN,0,CIV,Côte d'Ivoire,CIV,NOR,Norway,NOR,1 - 3,1,3,-2,2,0,0,,0,0,0,1,0
+2015,WC-2015,M-2015-25,Groups,Group A,2015-06-15,19:30:00,Olympic Stadium, Canada ,CAN,0,NLD,Netherlands,NLD,CAN,Canada,CAN,1 - 1,1,1,0,0,0,0,,0,0,0,0,1
+2015,WC-2015,M-2015-26,Groups,Group A,2015-06-15,18:30:00,Investors Group Field, Canada ,CAN,0,CHN,China PR,CHN,NZL,New Zealand,NZL,2 - 2,2,2,0,0,0,0,,0,0,0,0,1
+2015,WC-2015,M-2015-29,Groups,Group C,2015-06-16,16:00:00,Investors Group Field, Canada ,CAN,0,ECU,Ecuador,ECU,JPN,Japan,JPN,0 - 1,0,1,-1,1,0,0,,0,0,0,1,0
+2015,WC-2015,M-2015-30,Groups,Group C,2015-06-16,15:00:00,Commonwealth Stadium, Canada ,CAN,0,CHE,Switzerland,CHE,CMR,Cameroon,CMR,1 - 2,1,2,-1,1,0,0,,0,0,0,1,0
+2015,WC-2015,M-2015-31,Groups,Group D,2015-06-16,17:00:00,BC Place Stadium, Canada ,CAN,0,NGA,Nigeria,NGA,USA,USA,USA,0 - 1,0,1,-1,1,0,0,,0,0,0,1,0
+2015,WC-2015,M-2015-32,Groups,Group D,2015-06-16,18:00:00,Commonwealth Stadium, Canada ,CAN,0,AUS,Australia,AUS,SWE,Sweden,SWE,1 - 1,1,1,0,0,0,0,,0,0,0,0,1
+2015,WC-2015,M-2015-35,Groups,Group F,2015-06-17,16:00:00,TD Place Stadium, Canada ,CAN,0,MEX,Mexico,MEX,FRA,France,FRA,0 - 5,0,5,-5,5,0,0,,0,0,0,1,0
+2015,WC-2015,M-2015-36,Groups,Group F,2015-06-17,16:00:00,Olympic Stadium, Canada ,CAN,0,GBR,England,ENG,COL,Colombia,COL,2 - 1,2,1,1,-1,0,0,,0,0,1,0,0
+2015,WC-2015,M-2015-33,Groups,Group E,2015-06-17,20:00:00,Moncton Stadium, Canada ,CAN,0,CRI,Costa Rica,CRI,BRA,Brazil,BRA,0 - 1,0,1,-1,1,0,0,,0,0,0,1,0
+2015,WC-2015,M-2015-34,Groups,Group E,2015-06-17,19:00:00,TD Place Stadium, Canada ,CAN,0,KOR,Korea Republic,KOR,ESP,Spain,ESP,2 - 1,2,1,1,-1,0,0,,0,0,1,0,0
+2015,WC-2015,M-2015-39,Round of 16,Not applicable,2015-06-20,16:00:00,TD Place Stadium, Canada ,CAN,1,DEU,Germany,DEU,SWE,Sweden,SWE,4 - 1,4,1,3,-3,0,0,,0,0,1,0,0
+2015,WC-2015,M-2015-37,Round of 16,Not applicable,2015-06-20,17:30:00,Commonwealth Stadium, Canada ,CAN,1,CHN,China PR,CHN,CMR,Cameroon,CMR,1 - 0,1,0,1,-1,0,0,,0,0,1,0,0
+2015,WC-2015,M-2015-41,Round of 16,Not applicable,2015-06-21,14:00:00,Moncton Stadium, Canada ,CAN,1,BRA,Brazil,BRA,AUS,Australia,AUS,0 - 1,0,1,-1,1,0,0,,0,0,0,1,0
+2015,WC-2015,M-2015-40,Round of 16,Not applicable,2015-06-21,16:00:00,Olympic Stadium, Canada ,CAN,1,FRA,France,FRA,KOR,Korea Republic,KOR,3 - 0,3,0,3,-3,0,0,,0,0,1,0,0
+2015,WC-2015,M-2015-44,Round of 16,Not applicable,2015-06-21,16:30:00,BC Place Stadium, Canada ,CAN,1,CAN,Canada,CAN,CHE,Switzerland,CHE,1 - 0,1,0,1,-1,0,0,,0,0,1,0,0
+2015,WC-2015,M-2015-43,Round of 16,Not applicable,2015-06-22,17:00:00,TD Place Stadium, Canada ,CAN,1,NOR,Norway,NOR,GBR,England,ENG,1 - 2,1,2,-1,1,0,0,,0,0,0,1,0
+2015,WC-2015,M-2015-38,Round of 16,Not applicable,2015-06-22,18:00:00,Commonwealth Stadium, Canada ,CAN,1,USA,USA,USA,COL,Colombia,COL,2 - 0,2,0,2,-2,0,0,,0,0,1,0,0
+2015,WC-2015,M-2015-42,Round of 16,Not applicable,2015-06-23,19:00:00,BC Place Stadium, Canada ,CAN,1,JPN,Japan,JPN,NLD,Netherlands,NLD,2 - 1,2,1,1,-1,0,0,,0,0,1,0,0
+2015,WC-2015,M-2015-46,Quarter-final,Not applicable,2015-06-26,16:00:00,Olympic Stadium, Canada ,CAN,1,DEU,Germany,DEU,FRA,France,FRA,1 - 1,1,1,0,0,0,1,5 - 4,5,4,1,0,0
+2015,WC-2015,M-2015-45,Quarter-final,Not applicable,2015-06-26,19:30:00,TD Place Stadium, Canada ,CAN,1,CHN,China PR,CHN,USA,USA,USA,0 - 1,0,1,-1,1,0,0,,0,0,0,1,0
+2015,WC-2015,M-2015-47,Quarter-final,Not applicable,2015-06-27,14:00:00,Commonwealth Stadium, Canada ,CAN,1,AUS,Australia,AUS,JPN,Japan,JPN,0 - 1,0,1,-1,1,0,0,,0,0,0,1,0
+2015,WC-2015,M-2015-48,Quarter-final,Not applicable,2015-06-27,16:30:00,BC Place Stadium, Canada ,CAN,1,GBR,England,ENG,CAN,Canada,CAN,2 - 1,2,1,1,-1,0,0,,0,0,1,0,0
+2015,WC-2015,M-2015-49,Semi-final,Not applicable,2015-06-30,19:00:00,Olympic Stadium, Canada ,CAN,1,USA,USA,USA,DEU,Germany,DEU,2 - 0,2,0,2,-2,0,0,,0,0,1,0,0
+2015,WC-2015,M-2015-50,Semi-final,Not applicable,2015-07-01,17:00:00,Commonwealth Stadium, Canada ,CAN,1,JPN,Japan,JPN,GBR,England,ENG,2 - 1,2,1,1,-1,0,0,,0,0,1,0,0
+2015,WC-2015,M-2015-51,Match for third place,Not applicable,2015-07-04,14:00:00,Commonwealth Stadium, Canada ,CAN,1,DEU,Germany,DEU,GBR,England,ENG,0 - 1,0,1,-1,1,1,0,,0,0,0,1,0
+2015,WC-2015,M-2015-52,Final,Not applicable,2015-07-05,16:00:00,BC Place Stadium, Canada ,CAN,1,USA,USA,USA,JPN,Japan,JPN,5 - 2,5,2,3,-3,0,0,,0,0,1,0,0
+2019,WC-2019,M-2019-1,Groups,Group A,2019-06-07,21:00:00,Parc des Princes, France ,FRA,0,FRA,France,FRA,KOR,Korea Republic,KOR,4 - 0,4,0,4,-4,0,0,,0,0,1,0,0
+2019,WC-2019,M-2019-3,Groups,Group B,2019-06-08,15:00:00,Roazhon Park, France ,FRA,0,DEU,Germany,DEU,CHN,China PR,CHN,1 - 0,1,0,1,-1,0,0,,0,0,1,0,0
+2019,WC-2019,M-2019-4,Groups,Group B,2019-06-08,18:00:00,Stade Océane, France ,FRA,0,ESP,Spain,ESP,ZAF,South Africa,ZAF,3 - 1,3,1,2,-2,0,0,,0,0,1,0,0
+2019,WC-2019,M-2019-2,Groups,Group A,2019-06-08,21:00:00,Stade Auguste-Delaune, France ,FRA,0,NOR,Norway,NOR,NGA,Nigeria,NGA,3 - 0,3,0,3,-3,0,0,,0,0,1,0,0
+2019,WC-2019,M-2019-5,Groups,Group C,2019-06-09,13:00:00,Stade du Hainaut, France ,FRA,0,AUS,Australia,AUS,ITA,Italy,ITA,1 - 2,1,2,-1,1,0,0,,0,0,0,1,0
+2019,WC-2019,M-2019-6,Groups,Group C,2019-06-09,15:30:00,Stade des Alpes, France ,FRA,0,BRA,Brazil,BRA,JAM,Jamaica,JAM,3 - 0,3,0,3,-3,0,0,,0,0,1,0,0
+2019,WC-2019,M-2019-7,Groups,Group D,2019-06-09,18:00:00,Stade de Nice, France ,FRA,0,GBR,England,ENG,GBR,Scotland,SCO,2 - 1,2,1,1,-1,0,0,,0,0,1,0,0
+2019,WC-2019,M-2019-8,Groups,Group D,2019-06-10,18:00:00,Parc des Princes, France ,FRA,0,ARG,Argentina,ARG,JPN,Japan,JPN,0 - 0,0,0,0,0,0,0,,0,0,0,0,1
+2019,WC-2019,M-2019-9,Groups,Group E,2019-06-10,21:00:00,Stade de la Mosson, France ,FRA,0,CAN,Canada,CAN,CMR,Cameroon,CMR,1 - 0,1,0,1,-1,0,0,,0,0,1,0,0
+2019,WC-2019,M-2019-10,Groups,Group E,2019-06-11,15:00:00,Stade Océane, France ,FRA,0,NZL,New Zealand,NZL,NLD,Netherlands,NLD,0 - 1,0,1,-1,1,0,0,,0,0,0,1,0
+2019,WC-2019,M-2019-12,Groups,Group F,2019-06-11,18:00:00,Roazhon Park, France ,FRA,0,CHL,Chile,CHL,SWE,Sweden,SWE,0 - 2,0,2,-2,2,0,0,,0,0,0,1,0
+2019,WC-2019,M-2019-11,Groups,Group F,2019-06-11,21:00:00,Stade Auguste-Delaune, France ,FRA,0,USA,USA,USA,THA,Thailand,THA,13 - 0,13,0,13,-13,0,0,,0,0,1,0,0
+2019,WC-2019,M-2019-14,Groups,Group A,2019-06-12,15:00:00,Stade des Alpes, France ,FRA,0,NGA,Nigeria,NGA,KOR,Korea Republic,KOR,2 - 0,2,0,2,-2,0,0,,0,0,1,0,0
+2019,WC-2019,M-2019-15,Groups,Group B,2019-06-12,18:00:00,Stade du Hainaut, France ,FRA,0,DEU,Germany,DEU,ESP,Spain,ESP,1 - 0,1,0,1,-1,0,0,,0,0,1,0,0
+2019,WC-2019,M-2019-13,Groups,Group A,2019-06-12,21:00:00,Stade de Nice, France ,FRA,0,FRA,France,FRA,NOR,Norway,NOR,2 - 1,2,1,1,-1,0,0,,0,0,1,0,0
+2019,WC-2019,M-2019-17,Groups,Group C,2019-06-13,18:00:00,Stade de la Mosson, France ,FRA,0,AUS,Australia,AUS,BRA,Brazil,BRA,3 - 2,3,2,1,-1,0,0,,0,0,1,0,0
+2019,WC-2019,M-2019-16,Groups,Group B,2019-06-13,21:00:00,Parc des Princes, France ,FRA,0,ZAF,South Africa,ZAF,CHN,China PR,CHN,0 - 1,0,1,-1,1,0,0,,0,0,0,1,0
+2019,WC-2019,M-2019-20,Groups,Group D,2019-06-14,15:00:00,Roazhon Park, France ,FRA,0,JPN,Japan,JPN,GBR,Scotland,SCO,2 - 1,2,1,1,-1,0,0,,0,0,1,0,0
+2019,WC-2019,M-2019-18,Groups,Group C,2019-06-14,18:00:00,Stade Auguste-Delaune, France ,FRA,0,JAM,Jamaica,JAM,ITA,Italy,ITA,0 - 5,0,5,-5,5,0,0,,0,0,0,1,0
+2019,WC-2019,M-2019-19,Groups,Group D,2019-06-14,21:00:00,Stade Océane, France ,FRA,0,GBR,England,ENG,ARG,Argentina,ARG,1 - 0,1,0,1,-1,0,0,,0,0,1,0,0
+2019,WC-2019,M-2019-22,Groups,Group E,2019-06-15,15:00:00,Stade du Hainaut, France ,FRA,0,NLD,Netherlands,NLD,CMR,Cameroon,CMR,3 - 1,3,1,2,-2,0,0,,0,0,1,0,0
+2019,WC-2019,M-2019-21,Groups,Group E,2019-06-15,21:00:00,Stade des Alpes, France ,FRA,0,CAN,Canada,CAN,NZL,New Zealand,NZL,2 - 0,2,0,2,-2,0,0,,0,0,1,0,0
+2019,WC-2019,M-2019-24,Groups,Group F,2019-06-16,15:00:00,Stade de Nice, France ,FRA,0,SWE,Sweden,SWE,THA,Thailand,THA,5 - 1,5,1,4,-4,0,0,,0,0,1,0,0
+2019,WC-2019,M-2019-23,Groups,Group F,2019-06-16,18:00:00,Parc des Princes, France ,FRA,0,USA,USA,USA,CHL,Chile,CHL,3 - 0,3,0,3,-3,0,0,,0,0,1,0,0
+2019,WC-2019,M-2019-27,Groups,Group B,2019-06-17,18:00:00,Stade de la Mosson, France ,FRA,0,ZAF,South Africa,ZAF,DEU,Germany,DEU,0 - 4,0,4,-4,4,0,0,,0,0,0,1,0
+2019,WC-2019,M-2019-28,Groups,Group B,2019-06-17,18:00:00,Stade Océane, France ,FRA,0,CHN,China PR,CHN,ESP,Spain,ESP,0 - 0,0,0,0,0,0,0,,0,0,0,0,1
+2019,WC-2019,M-2019-25,Groups,Group A,2019-06-17,21:00:00,Roazhon Park, France ,FRA,0,NGA,Nigeria,NGA,FRA,France,FRA,0 - 1,0,1,-1,1,0,0,,0,0,0,1,0
+2019,WC-2019,M-2019-26,Groups,Group A,2019-06-17,21:00:00,Stade Auguste-Delaune, France ,FRA,0,KOR,Korea Republic,KOR,NOR,Norway,NOR,1 - 2,1,2,-1,1,0,0,,0,0,0,1,0
+2019,WC-2019,M-2019-29,Groups,Group C,2019-06-18,21:00:00,Stade des Alpes, France ,FRA,0,JAM,Jamaica,JAM,AUS,Australia,AUS,1 - 4,1,4,-3,3,0,0,,0,0,0,1,0
+2019,WC-2019,M-2019-30,Groups,Group C,2019-06-18,21:00:00,Stade du Hainaut, France ,FRA,0,ITA,Italy,ITA,BRA,Brazil,BRA,0 - 1,0,1,-1,1,0,0,,0,0,0,1,0
+2019,WC-2019,M-2019-31,Groups,Group D,2019-06-19,21:00:00,Stade de Nice, France ,FRA,0,JPN,Japan,JPN,GBR,England,ENG,0 - 2,0,2,-2,2,0,0,,0,0,0,1,0
+2019,WC-2019,M-2019-32,Groups,Group D,2019-06-19,21:00:00,Parc des Princes, France ,FRA,0,GBR,Scotland,SCO,ARG,Argentina,ARG,3 - 3,3,3,0,0,0,0,,0,0,0,0,1
+2019,WC-2019,M-2019-33,Groups,Group E,2019-06-20,18:00:00,Stade Auguste-Delaune, France ,FRA,0,NLD,Netherlands,NLD,CAN,Canada,CAN,2 - 1,2,1,1,-1,0,0,,0,0,1,0,0
+2019,WC-2019,M-2019-34,Groups,Group E,2019-06-20,18:00:00,Stade de la Mosson, France ,FRA,0,CMR,Cameroon,CMR,NZL,New Zealand,NZL,2 - 1,2,1,1,-1,0,0,,0,0,1,0,0
+2019,WC-2019,M-2019-35,Groups,Group F,2019-06-20,21:00:00,Stade Océane, France ,FRA,0,SWE,Sweden,SWE,USA,USA,USA,0 - 2,0,2,-2,2,0,0,,0,0,0,1,0
+2019,WC-2019,M-2019-36,Groups,Group F,2019-06-20,21:00:00,Roazhon Park, France ,FRA,0,THA,Thailand,THA,CHL,Chile,CHL,0 - 2,0,2,-2,2,0,0,,0,0,0,1,0
+2019,WC-2019,M-2019-38,Round of 16,Not applicable,2019-06-22,17:30:00,Stade des Alpes, France ,FRA,1,DEU,Germany,DEU,NGA,Nigeria,NGA,3 - 0,3,0,3,-3,0,0,,0,0,1,0,0
+2019,WC-2019,M-2019-37,Round of 16,Not applicable,2019-06-22,21:00:00,Stade de Nice, France ,FRA,1,NOR,Norway,NOR,AUS,Australia,AUS,1 - 1,1,1,0,0,0,1,4 - 1,4,1,1,0,0
+2019,WC-2019,M-2019-39,Round of 16,Not applicable,2019-06-23,17:30:00,Stade du Hainaut, France ,FRA,1,GBR,England,ENG,CMR,Cameroon,CMR,3 - 0,3,0,3,-3,0,0,,0,0,1,0,0
+2019,WC-2019,M-2019-40,Round of 16,Not applicable,2019-06-23,21:00:00,Stade Océane, France ,FRA,1,FRA,France,FRA,BRA,Brazil,BRA,2 - 1,2,1,1,-1,1,0,,0,0,1,0,0
+2019,WC-2019,M-2019-41,Round of 16,Not applicable,2019-06-24,18:00:00,Stade Auguste-Delaune, France ,FRA,1,ESP,Spain,ESP,USA,USA,USA,1 - 2,1,2,-1,1,0,0,,0,0,0,1,0
+2019,WC-2019,M-2019-42,Round of 16,Not applicable,2019-06-24,21:00:00,Parc des Princes, France ,FRA,1,SWE,Sweden,SWE,CAN,Canada,CAN,1 - 0,1,0,1,-1,0,0,,0,0,1,0,0
+2019,WC-2019,M-2019-43,Round of 16,Not applicable,2019-06-25,18:00:00,Stade de la Mosson, France ,FRA,1,ITA,Italy,ITA,CHN,China PR,CHN,2 - 0,2,0,2,-2,0,0,,0,0,1,0,0
+2019,WC-2019,M-2019-44,Round of 16,Not applicable,2019-06-25,21:00:00,Roazhon Park, France ,FRA,1,NLD,Netherlands,NLD,JPN,Japan,JPN,2 - 1,2,1,1,-1,0,0,,0,0,1,0,0
+2019,WC-2019,M-2019-45,Quarter-final,Not applicable,2019-06-27,21:00:00,Stade Océane, France ,FRA,1,NOR,Norway,NOR,GBR,England,ENG,0 - 3,0,3,-3,3,0,0,,0,0,0,1,0
+2019,WC-2019,M-2019-46,Quarter-final,Not applicable,2019-06-28,21:00:00,Parc des Princes, France ,FRA,1,FRA,France,FRA,USA,USA,USA,1 - 2,1,2,-1,1,0,0,,0,0,0,1,0
+2019,WC-2019,M-2019-47,Quarter-final,Not applicable,2019-06-29,15:00:00,Stade du Hainaut, France ,FRA,1,ITA,Italy,ITA,NLD,Netherlands,NLD,0 - 2,0,2,-2,2,0,0,,0,0,0,1,0
+2019,WC-2019,M-2019-48,Quarter-final,Not applicable,2019-06-29,18:30:00,Roazhon Park, France ,FRA,1,DEU,Germany,DEU,SWE,Sweden,SWE,1 - 2,1,2,-1,1,0,0,,0,0,0,1,0
+2019,WC-2019,M-2019-49,Semi-final,Not applicable,2019-07-02,21:00:00,Stade de Lyon, France ,FRA,1,GBR,England,ENG,USA,USA,USA,1 - 2,1,2,-1,1,0,0,,0,0,0,1,0
+2019,WC-2019,M-2019-50,Semi-final,Not applicable,2019-07-03,21:00:00,Stade de Lyon, France ,FRA,1,NLD,Netherlands,NLD,SWE,Sweden,SWE,1 - 0,1,0,1,-1,1,0,,0,0,1,0,0
+2019,WC-2019,M-2019-51,Match for third place,Not applicable,2019-07-06,17:00:00,Stade de Nice, France ,FRA,1,GBR,England,ENG,SWE,Sweden,SWE,1 - 2,1,2,-1,1,0,0,,0,0,0,1,0
+2019,WC-2019,M-2019-52,Final,Not applicable,2019-07-07,17:00:00,Stade de Lyon, France ,FRA,1,USA,USA,USA,NLD,Netherlands,NLD,2 - 0,2,0,2,-2,0,0,,0,0,1,0,0

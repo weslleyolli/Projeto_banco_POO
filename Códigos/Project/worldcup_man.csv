@@ -1,0 +1,901 @@
+year,tournament_id,match_id,stage_name,group_name,replayed,replay,match_date,match_time,stadium_id,stadium_name,city_name,country_name,team_a_id,team_a_name,team_a_code,team_b_id,team_b_name,team_b_id_code,score,team_a_score,team_b_score,team_a_score_margin,team_b_score_margin,extra_time,penalty_shootout,score_penalties,team_a_score_penalties,team_b_score_penalties,team_a_win,team_b_win,draw
+1930,WC-1930,M-1930-01,group stage,Group 1,0,0,1930-07-13,,S-185,Estadio Pocitos,Montevideo,Uruguay,T-28,France,FRA,T-44,Mexico,MEX,4–1,4,1,3,-3,0,0,0-0,0,0,1,0,0
+1930,WC-1930,M-1930-02,group stage,Group 4,0,0,1930-07-13,,S-184,Estadio Gran Parque Central,Montevideo,Uruguay,T-79,United States,USA,T-06,Belgium,BEL,3–0,3,0,3,-3,0,0,0-0,0,0,1,0,0
+1930,WC-1930,M-1930-03,group stage,Group 2,0,0,1930-07-14,,S-184,Estadio Gran Parque Central,Montevideo,Uruguay,T-83,Yugoslavia,YUG,T-09,Brazil,BRA,2–1,2,1,1,-1,0,0,0-0,0,0,1,0,0
+1930,WC-1930,M-1930-04,group stage,Group 3,0,0,1930-07-14,,S-185,Estadio Pocitos,Montevideo,Uruguay,T-58,Romania,ROU,T-54,Peru,PER,3–1,3,1,2,-2,0,0,0-0,0,0,1,0,0
+1930,WC-1930,M-1930-05,group stage,Group 1,0,0,1930-07-15,,S-184,Estadio Gran Parque Central,Montevideo,Uruguay,T-03,Argentina,ARG,T-28,France,FRA,1–0,1,0,1,-1,0,0,0-0,0,0,1,0,0
+1930,WC-1930,M-1930-06,group stage,Group 1,0,0,1930-07-16,,S-184,Estadio Gran Parque Central,Montevideo,Uruguay,T-13,Chile,CHL,T-44,Mexico,MEX,3–0,3,0,3,-3,0,0,0-0,0,0,1,0,0
+1930,WC-1930,M-1930-07,group stage,Group 2,0,0,1930-07-17,,S-184,Estadio Gran Parque Central,Montevideo,Uruguay,T-83,Yugoslavia,YUG,T-07,Bolivia,BOL,4–0,4,0,4,-4,0,0,0-0,0,0,1,0,0
+1930,WC-1930,M-1930-08,group stage,Group 4,0,0,1930-07-17,,S-184,Estadio Gran Parque Central,Montevideo,Uruguay,T-79,United States,USA,T-53,Paraguay,PRY,3–0,3,0,3,-3,0,0,0-0,0,0,1,0,0
+1930,WC-1930,M-1930-09,group stage,Group 3,0,0,1930-07-18,,S-183,Estadio Centenario,Montevideo,Uruguay,T-80,Uruguay,URY,T-54,Peru,PER,1–0,1,0,1,-1,0,0,0-0,0,0,1,0,0
+1930,WC-1930,M-1930-10,group stage,Group 1,0,0,1930-07-19,,S-183,Estadio Centenario,Montevideo,Uruguay,T-13,Chile,CHL,T-28,France,FRA,1–0,1,0,1,-1,0,0,0-0,0,0,1,0,0
+1930,WC-1930,M-1930-11,group stage,Group 1,0,0,1930-07-19,,S-183,Estadio Centenario,Montevideo,Uruguay,T-03,Argentina,ARG,T-44,Mexico,MEX,6–3,6,3,3,-3,0,0,0-0,0,0,1,0,0
+1930,WC-1930,M-1930-12,group stage,Group 2,0,0,1930-07-20,,S-183,Estadio Centenario,Montevideo,Uruguay,T-09,Brazil,BRA,T-07,Bolivia,BOL,4–0,4,0,4,-4,0,0,0-0,0,0,1,0,0
+1930,WC-1930,M-1930-13,group stage,Group 4,0,0,1930-07-20,,S-183,Estadio Centenario,Montevideo,Uruguay,T-53,Paraguay,PRY,T-06,Belgium,BEL,1–0,1,0,1,-1,0,0,0-0,0,0,1,0,0
+1930,WC-1930,M-1930-14,group stage,Group 3,0,0,1930-07-21,,S-183,Estadio Centenario,Montevideo,Uruguay,T-80,Uruguay,URY,T-58,Romania,ROU,4–0,4,0,4,-4,0,0,0-0,0,0,1,0,0
+1930,WC-1930,M-1930-15,group stage,Group 1,0,0,1930-07-22,,S-183,Estadio Centenario,Montevideo,Uruguay,T-03,Argentina,ARG,T-13,Chile,CHL,3–1,3,1,2,-2,0,0,0-0,0,0,1,0,0
+1930,WC-1930,M-1930-16,semi-finals,,0,0,1930-07-26,,S-183,Estadio Centenario,Montevideo,Uruguay,T-03,Argentina,ARG,T-79,United States,USA,6–1,6,1,5,-5,0,0,0-0,0,0,1,0,0
+1930,WC-1930,M-1930-17,semi-finals,,0,0,1930-07-27,,S-183,Estadio Centenario,Montevideo,Uruguay,T-80,Uruguay,URY,T-83,Yugoslavia,YUG,6–1,6,1,5,-5,0,0,0-0,0,0,1,0,0
+1930,WC-1930,M-1930-18,final,,0,0,1930-07-30,,S-183,Estadio Centenario,Montevideo,Uruguay,T-80,Uruguay,URY,T-03,Argentina,ARG,4–2,4,2,2,-2,0,0,0-0,0,0,1,0,0
+1934,WC-1934,M-1934-01,round of 16,,0,0,1934-05-27,,S-081,Stadio Benito Mussolini,Turin,Italy,T-05,Austria,AUT,T-28,France,FRA,3–2,3,2,1,-1,1,0,0-0,0,0,1,0,0
+1934,WC-1934,M-1934-02,round of 16,,0,0,1934-05-27,,S-080,Stadio Littorio,Trieste,Italy,T-20,Czechoslovakia,CSK,T-58,Romania,ROU,2–1,2,1,1,-1,0,0,0-0,0,0,1,0,0
+1934,WC-1934,M-1934-03,round of 16,,0,0,1934-05-27,,S-072,Stadio Giovanni Berta,Florence,Italy,T-29,Germany,DEU,T-06,Belgium,BEL,5–2,5,2,3,-3,0,0,0-0,0,0,1,0,0
+1934,WC-1934,M-1934-04,round of 16,,0,0,1934-05-27,,S-075,Stadio Giorgio Ascarelli,Naples,Italy,T-34,Hungary,HUN,T-25,Egypt,EGY,4–2,4,2,2,-2,0,0,0-0,0,0,1,0,0
+1934,WC-1934,M-1934-05,round of 16,,0,0,1934-05-27,,S-078,Stadio Nazionale PNF,Rome,Italy,T-39,Italy,ITA,T-79,United States,USA,7–1,7,1,6,-6,0,0,0-0,0,0,1,0,0
+1934,WC-1934,M-1934-06,round of 16,,0,0,1934-05-27,,S-073,Stadio Luigi Ferraris,Genoa,Italy,T-70,Spain,ESP,T-09,Brazil,BRA,3–1,3,1,2,-2,0,0,0-0,0,0,1,0,0
+1934,WC-1934,M-1934-07,round of 16,,0,0,1934-05-27,,S-069,Stadio Renato Dall'Ara,Bologna,Italy,T-71,Sweden,SWE,T-03,Argentina,ARG,3–2,3,2,1,-1,0,0,0-0,0,0,1,0,0
+1934,WC-1934,M-1934-08,round of 16,,0,0,1934-05-27,,S-074,San Siro,Milan,Italy,T-72,Switzerland,CHE,T-46,Netherlands,NLD,3–2,3,2,1,-1,0,0,0-0,0,0,1,0,0
+1934,WC-1934,M-1934-09,quarter-finals,,0,0,1934-05-31,,S-069,Stadio Renato Dall'Ara,Bologna,Italy,T-05,Austria,AUT,T-34,Hungary,HUN,2–1,2,1,1,-1,0,0,0-0,0,0,1,0,0
+1934,WC-1934,M-1934-10,quarter-finals,,0,0,1934-05-31,,S-081,Stadio Benito Mussolini,Turin,Italy,T-20,Czechoslovakia,CSK,T-72,Switzerland,CHE,3–2,3,2,1,-1,0,0,0-0,0,0,1,0,0
+1934,WC-1934,M-1934-11,quarter-finals,,0,0,1934-05-31,,S-074,San Siro,Milan,Italy,T-29,Germany,DEU,T-71,Sweden,SWE,2–1,2,1,1,-1,0,0,0-0,0,0,1,0,0
+1934,WC-1934,M-1934-12,quarter-finals,,1,0,1934-05-31,,S-072,Stadio Giovanni Berta,Florence,Italy,T-39,Italy,ITA,T-70,Spain,ESP,1–1,1,1,0,0,1,0,0-0,0,0,0,0,1
+1934,WC-1934,M-1934-13,quarter-finals,,0,1,1934-06-01,,S-072,Stadio Giovanni Berta,Florence,Italy,T-39,Italy,ITA,T-70,Spain,ESP,1–0,1,0,1,-1,0,0,0-0,0,0,1,0,0
+1934,WC-1934,M-1934-14,semi-finals,,0,0,1934-06-03,,S-078,Stadio Nazionale PNF,Rome,Italy,T-20,Czechoslovakia,CSK,T-29,Germany,DEU,3–1,3,1,2,-2,0,0,0-0,0,0,1,0,0
+1934,WC-1934,M-1934-15,semi-finals,,0,0,1934-06-03,,S-074,San Siro,Milan,Italy,T-39,Italy,ITA,T-05,Austria,AUT,1–0,1,0,1,-1,0,0,0-0,0,0,1,0,0
+1934,WC-1934,M-1934-16,third-place match,,0,0,1934-06-07,,S-075,Stadio Giorgio Ascarelli,Naples,Italy,T-29,Germany,DEU,T-05,Austria,AUT,3–2,3,2,1,-1,0,0,0-0,0,0,1,0,0
+1934,WC-1934,M-1934-17,final,,0,0,1934-06-10,,S-078,Stadio Nazionale PNF,Rome,Italy,T-39,Italy,ITA,T-20,Czechoslovakia,CSK,2–1,2,1,1,-1,1,0,0-0,0,0,1,0,0
+1938,WC-1938,M-1938-01,round of 16,,1,0,1938-06-04,,S-045,Parc des Princes,Paris,France,T-72,Switzerland,CHE,T-29,Germany,DEU,1–1,1,1,0,0,1,0,0-0,0,0,0,0,1
+1938,WC-1938,M-1938-02,round of 16,,1,0,1938-06-05,,S-052,Stade du T.O.E.C.,Toulouse,France,T-18,Cuba,CUB,T-58,Romania,ROU,3–3,3,3,0,0,1,0,0-0,0,0,0,0,1
+1938,WC-1938,M-1938-03,round of 16,,0,0,1938-06-05,,S-046,Stade Olympique de Colombes,Paris,France,T-28,France,FRA,T-06,Belgium,BEL,3–1,3,1,2,-2,0,0,0-0,0,0,1,0,0
+1938,WC-1938,M-1938-04,round of 16,,0,0,1938-06-05,,S-047,Vélodrome Municipal,Reims,France,T-34,Hungary,HUN,T-22,Dutch East Indies,IDN,6–0,6,0,6,-6,0,0,0-0,0,0,1,0,0
+1938,WC-1938,M-1938-05,round of 16,,0,0,1938-06-05,,S-042,Stade Vélodrome,Marseille,France,T-39,Italy,ITA,T-51,Norway,NOR,2–1,2,1,1,-1,1,0,0-0,0,0,1,0,0
+1938,WC-1938,M-1938-06,round of 16,,0,0,1938-06-05,,S-050,Stade de la Meinau,Strasbourg,France,T-09,Brazil,BRA,T-55,Poland,POL,6–5,6,5,1,-1,1,0,0-0,0,0,1,0,0
+1938,WC-1938,M-1938-07,round of 16,,0,0,1938-06-05,,S-038,Stade Jules Deschaseaux,Le Havre,France,T-20,Czechoslovakia,CSK,T-46,Netherlands,NLD,3–0,3,0,3,-3,1,0,0-0,0,0,1,0,0
+1938,WC-1938,M-1938-08,round of 16,,0,1,1938-06-09,,S-052,Stade du T.O.E.C.,Toulouse,France,T-18,Cuba,CUB,T-58,Romania,ROU,2–1,2,1,1,-1,0,0,0-0,0,0,1,0,0
+1938,WC-1938,M-1938-09,round of 16,,0,1,1938-06-09,,S-045,Parc des Princes,Paris,France,T-72,Switzerland,CHE,T-29,Germany,DEU,4–2,4,2,2,-2,0,0,0-0,0,0,1,0,0
+1938,WC-1938,M-1938-10,quarter-finals,,1,0,1938-06-12,,S-037,Stade du Parc Lescure,Bordeaux,France,T-09,Brazil,BRA,T-20,Czechoslovakia,CSK,1–1,1,1,0,0,1,0,0-0,0,0,0,0,1
+1938,WC-1938,M-1938-11,quarter-finals,,0,0,1938-06-12,,S-040,Stade Victor Boucquey,Lille,France,T-34,Hungary,HUN,T-72,Switzerland,CHE,2–0,2,0,2,-2,0,0,0-0,0,0,1,0,0
+1938,WC-1938,M-1938-12,quarter-finals,,0,0,1938-06-12,,S-046,Stade Olympique de Colombes,Paris,France,T-39,Italy,ITA,T-28,France,FRA,3–1,3,1,2,-2,0,0,0-0,0,0,1,0,0
+1938,WC-1938,M-1938-13,quarter-finals,,0,0,1938-06-12,,S-036,Stade du Fort Carré,Antibes,France,T-71,Sweden,SWE,T-18,Cuba,CUB,8–0,8,0,8,-8,0,0,0-0,0,0,1,0,0
+1938,WC-1938,M-1938-14,quarter-finals,,0,1,1938-06-14,,S-037,Stade du Parc Lescure,Bordeaux,France,T-09,Brazil,BRA,T-20,Czechoslovakia,CSK,2–1,2,1,1,-1,0,0,0-0,0,0,1,0,0
+1938,WC-1938,M-1938-15,semi-finals,,0,0,1938-06-16,,S-045,Parc des Princes,Paris,France,T-34,Hungary,HUN,T-71,Sweden,SWE,5–1,5,1,4,-4,0,0,0-0,0,0,1,0,0
+1938,WC-1938,M-1938-16,semi-finals,,0,0,1938-06-16,,S-042,Stade Vélodrome,Marseille,France,T-39,Italy,ITA,T-09,Brazil,BRA,2–1,2,1,1,-1,0,0,0-0,0,0,1,0,0
+1938,WC-1938,M-1938-17,third-place match,,0,0,1938-06-19,,S-037,Stade du Parc Lescure,Bordeaux,France,T-09,Brazil,BRA,T-71,Sweden,SWE,4–2,4,2,2,-2,0,0,0-0,0,0,1,0,0
+1938,WC-1938,M-1938-18,final,,0,0,1938-06-19,,S-046,Stade Olympique de Colombes,Paris,France,T-39,Italy,ITA,T-34,Hungary,HUN,4–2,4,2,2,-2,0,0,0-0,0,0,1,0,0
+1950,WC-1950,M-1950-01,group stage,Group 1,0,0,1950-06-24,,S-020,Estádio do Maracanã,Rio de Janeiro,Brazil,T-09,Brazil,BRA,T-44,Mexico,MEX,4–0,4,0,4,-4,0,0,0-0,0,0,1,0,0
+1950,WC-1950,M-1950-02,group stage,Group 1,0,0,1950-06-25,,S-007,Estádio Independência,Belo Horizonte,Brazil,T-83,Yugoslavia,YUG,T-72,Switzerland,CHE,3–0,3,0,3,-3,0,0,0-0,0,0,1,0,0
+1950,WC-1950,M-1950-03,group stage,Group 2,0,0,1950-06-25,,S-020,Estádio do Maracanã,Rio de Janeiro,Brazil,T-27,England,ENG,T-13,Chile,CHL,2–0,2,0,2,-2,0,0,0-0,0,0,1,0,0
+1950,WC-1950,M-1950-04,group stage,Group 2,0,0,1950-06-25,,S-012,Estádio Vila Capanema,Curitiba,Brazil,T-70,Spain,ESP,T-79,United States,USA,3–1,3,1,2,-2,0,0,0-0,0,0,1,0,0
+1950,WC-1950,M-1950-05,group stage,Group 3,0,0,1950-06-25,,S-023,Estádio do Pacaembu,São Paulo,Brazil,T-71,Sweden,SWE,T-39,Italy,ITA,3–2,3,2,1,-1,0,0,0-0,0,0,1,0,0
+1950,WC-1950,M-1950-06,group stage,Group 1,0,0,1950-06-28,,S-023,Estádio do Pacaembu,São Paulo,Brazil,T-09,Brazil,BRA,T-72,Switzerland,CHE,2–2,2,2,0,0,0,0,0-0,0,0,0,0,1
+1950,WC-1950,M-1950-07,group stage,Group 1,0,0,1950-06-28,,S-017,Estádio dos Eucaliptos,Porto Alegre,Brazil,T-83,Yugoslavia,YUG,T-44,Mexico,MEX,4–1,4,1,3,-3,0,0,0-0,0,0,1,0,0
+1950,WC-1950,M-1950-08,group stage,Group 2,0,0,1950-06-29,,S-020,Estádio do Maracanã,Rio de Janeiro,Brazil,T-70,Spain,ESP,T-13,Chile,CHL,2–0,2,0,2,-2,0,0,0-0,0,0,1,0,0
+1950,WC-1950,M-1950-09,group stage,Group 2,0,0,1950-06-29,,S-007,Estádio Independência,Belo Horizonte,Brazil,T-79,United States,USA,T-27,England,ENG,1–0,1,0,1,-1,0,0,0-0,0,0,1,0,0
+1950,WC-1950,M-1950-10,group stage,Group 3,0,0,1950-06-29,,S-012,Estádio Vila Capanema,Curitiba,Brazil,T-71,Sweden,SWE,T-53,Paraguay,PRY,2–2,2,2,0,0,0,0,0-0,0,0,0,0,1
+1950,WC-1950,M-1950-11,group stage,Group 1,0,0,1950-07-01,,S-020,Estádio do Maracanã,Rio de Janeiro,Brazil,T-09,Brazil,BRA,T-83,Yugoslavia,YUG,2–0,2,0,2,-2,0,0,0-0,0,0,1,0,0
+1950,WC-1950,M-1950-12,group stage,Group 2,0,0,1950-07-02,,S-019,Estádio Ilha do Retiro,Recife,Brazil,T-13,Chile,CHL,T-79,United States,USA,5–2,5,2,3,-3,0,0,0-0,0,0,1,0,0
+1950,WC-1950,M-1950-13,group stage,Group 2,0,0,1950-07-02,,S-020,Estádio do Maracanã,Rio de Janeiro,Brazil,T-70,Spain,ESP,T-27,England,ENG,1–0,1,0,1,-1,0,0,0-0,0,0,1,0,0
+1950,WC-1950,M-1950-14,group stage,Group 3,0,0,1950-07-02,,S-023,Estádio do Pacaembu,São Paulo,Brazil,T-39,Italy,ITA,T-53,Paraguay,PRY,2–0,2,0,2,-2,0,0,0-0,0,0,1,0,0
+1950,WC-1950,M-1950-15,group stage,Group 4,0,0,1950-07-02,,S-007,Estádio Independência,Belo Horizonte,Brazil,T-80,Uruguay,URY,T-07,Bolivia,BOL,8–0,8,0,8,-8,0,0,0-0,0,0,1,0,0
+1950,WC-1950,M-1950-16,group stage,Group 1,0,0,1950-07-02,,S-017,Estádio dos Eucaliptos,Porto Alegre,Brazil,T-72,Switzerland,CHE,T-44,Mexico,MEX,2–1,2,1,1,-1,0,0,0-0,0,0,1,0,0
+1950,WC-1950,M-1950-17,final round,,0,0,1950-07-09,,S-020,Estádio do Maracanã,Rio de Janeiro,Brazil,T-09,Brazil,BRA,T-71,Sweden,SWE,7–1,7,1,6,-6,0,0,0-0,0,0,1,0,0
+1950,WC-1950,M-1950-18,final round,,0,0,1950-07-09,,S-023,Estádio do Pacaembu,São Paulo,Brazil,T-80,Uruguay,URY,T-70,Spain,ESP,2–2,2,2,0,0,0,0,0-0,0,0,0,0,1
+1950,WC-1950,M-1950-19,final round,,0,0,1950-07-13,,S-020,Estádio do Maracanã,Rio de Janeiro,Brazil,T-09,Brazil,BRA,T-70,Spain,ESP,6–1,6,1,5,-5,0,0,0-0,0,0,1,0,0
+1950,WC-1950,M-1950-20,final round,,0,0,1950-07-13,,S-023,Estádio do Pacaembu,São Paulo,Brazil,T-80,Uruguay,URY,T-71,Sweden,SWE,3–2,3,2,1,-1,0,0,0-0,0,0,1,0,0
+1950,WC-1950,M-1950-21,final round,,0,0,1950-07-16,,S-023,Estádio do Pacaembu,São Paulo,Brazil,T-71,Sweden,SWE,T-70,Spain,ESP,3–1,3,1,2,-2,0,0,0-0,0,0,1,0,0
+1950,WC-1950,M-1950-22,final round,,0,0,1950-07-16,,S-020,Estádio do Maracanã,Rio de Janeiro,Brazil,T-80,Uruguay,URY,T-09,Brazil,BRA,2–1,2,1,1,-1,0,0,0-0,0,0,1,0,0
+1954,WC-1954,M-1954-01,group stage,Group 1,0,0,1954-06-16,,S-170,Charmilles Stadium,Geneva,Switzerland,T-09,Brazil,BRA,T-44,Mexico,MEX,5–0,5,0,5,-5,0,0,0-0,0,0,1,0,0
+1954,WC-1954,M-1954-02,group stage,Group 1,0,0,1954-06-16,,S-171,Stade Olympique de la Pontaise,Lausanne,Switzerland,T-83,Yugoslavia,YUG,T-28,France,FRA,1–0,1,0,1,-1,0,0,0-0,0,0,1,0,0
+1954,WC-1954,M-1954-03,group stage,Group 3,0,0,1954-06-16,,S-173,Hardturm Stadium,Zürich,Switzerland,T-05,Austria,AUT,T-61,Scotland,SCO,1–0,1,0,1,-1,0,0,0-0,0,0,1,0,0
+1954,WC-1954,M-1954-04,group stage,Group 3,0,0,1954-06-16,,S-169,Wankdorf Stadium,Bern,Switzerland,T-80,Uruguay,URY,T-20,Czechoslovakia,CSK,2–0,2,0,2,-2,0,0,0-0,0,0,1,0,0
+1954,WC-1954,M-1954-05,group stage,Group 4,0,0,1954-06-17,,S-171,Stade Olympique de la Pontaise,Lausanne,Switzerland,T-72,Switzerland,CHE,T-39,Italy,ITA,2–1,2,1,1,-1,0,0,0-0,0,0,1,0,0
+1954,WC-1954,M-1954-06,group stage,Group 2,0,0,1954-06-17,,S-173,Hardturm Stadium,Zürich,Switzerland,T-34,Hungary,HUN,T-68,South Korea,KOR,9–0,9,0,9,-9,0,0,0-0,0,0,1,0,0
+1954,WC-1954,M-1954-07,group stage,Group 2,0,0,1954-06-17,,S-169,Wankdorf Stadium,Bern,Switzerland,T-82,West Germany,DEU,T-76,Turkey,TUR,4–1,4,1,3,-3,0,0,0-0,0,0,1,0,0
+1954,WC-1954,M-1954-08,group stage,Group 4,0,0,1954-06-17,,S-168,St. Jakob Stadium,Basel,Switzerland,T-27,England,ENG,T-06,Belgium,BEL,4–4,4,4,0,0,1,0,0-0,0,0,0,0,1
+1954,WC-1954,M-1954-09,group stage,Group 3,0,0,1954-06-19,,S-168,St. Jakob Stadium,Basel,Switzerland,T-80,Uruguay,URY,T-61,Scotland,SCO,7–0,7,0,7,-7,0,0,0-0,0,0,1,0,0
+1954,WC-1954,M-1954-10,group stage,Group 1,0,0,1954-06-19,,S-171,Stade Olympique de la Pontaise,Lausanne,Switzerland,T-09,Brazil,BRA,T-83,Yugoslavia,YUG,1–1,1,1,0,0,1,0,0-0,0,0,0,0,1
+1954,WC-1954,M-1954-11,group stage,Group 3,0,0,1954-06-19,,S-173,Hardturm Stadium,Zürich,Switzerland,T-05,Austria,AUT,T-20,Czechoslovakia,CSK,5–0,5,0,5,-5,0,0,0-0,0,0,1,0,0
+1954,WC-1954,M-1954-12,group stage,Group 1,0,0,1954-06-19,,S-170,Charmilles Stadium,Geneva,Switzerland,T-28,France,FRA,T-44,Mexico,MEX,3–2,3,2,1,-1,0,0,0-0,0,0,1,0,0
+1954,WC-1954,M-1954-13,group stage,Group 2,0,0,1954-06-20,,S-168,St. Jakob Stadium,Basel,Switzerland,T-34,Hungary,HUN,T-82,West Germany,DEU,8–3,8,3,5,-5,0,0,0-0,0,0,1,0,0
+1954,WC-1954,M-1954-14,group stage,Group 2,0,0,1954-06-20,,S-170,Charmilles Stadium,Geneva,Switzerland,T-76,Turkey,TUR,T-68,South Korea,KOR,7–0,7,0,7,-7,0,0,0-0,0,0,1,0,0
+1954,WC-1954,M-1954-15,group stage,Group 4,0,0,1954-06-20,,S-172,Cornaredo Stadium,Lugano,Switzerland,T-39,Italy,ITA,T-06,Belgium,BEL,4–1,4,1,3,-3,0,0,0-0,0,0,1,0,0
+1954,WC-1954,M-1954-16,group stage,Group 4,0,0,1954-06-20,,S-169,Wankdorf Stadium,Bern,Switzerland,T-27,England,ENG,T-72,Switzerland,CHE,2–0,2,0,2,-2,0,0,0-0,0,0,1,0,0
+1954,WC-1954,M-1954-17,group stage,Group 2,0,0,1954-06-23,,S-173,Hardturm Stadium,Zürich,Switzerland,T-82,West Germany,DEU,T-76,Turkey,TUR,7–2,7,2,5,-5,0,0,0-0,0,0,1,0,0
+1954,WC-1954,M-1954-18,group stage,Group 4,0,0,1954-06-23,,S-168,St. Jakob Stadium,Basel,Switzerland,T-72,Switzerland,CHE,T-39,Italy,ITA,4–1,4,1,3,-3,0,0,0-0,0,0,1,0,0
+1954,WC-1954,M-1954-19,quarter-finals,,0,0,1954-06-26,,S-171,Stade Olympique de la Pontaise,Lausanne,Switzerland,T-05,Austria,AUT,T-72,Switzerland,CHE,7–5,7,5,2,-2,0,0,0-0,0,0,1,0,0
+1954,WC-1954,M-1954-20,quarter-finals,,0,0,1954-06-26,,S-168,St. Jakob Stadium,Basel,Switzerland,T-80,Uruguay,URY,T-27,England,ENG,4–2,4,2,2,-2,0,0,0-0,0,0,1,0,0
+1954,WC-1954,M-1954-21,quarter-finals,,0,0,1954-06-27,,S-169,Wankdorf Stadium,Bern,Switzerland,T-34,Hungary,HUN,T-09,Brazil,BRA,4–2,4,2,2,-2,0,0,0-0,0,0,1,0,0
+1954,WC-1954,M-1954-22,quarter-finals,,0,0,1954-06-27,,S-170,Charmilles Stadium,Geneva,Switzerland,T-82,West Germany,DEU,T-83,Yugoslavia,YUG,2–0,2,0,2,-2,0,0,0-0,0,0,1,0,0
+1954,WC-1954,M-1954-23,semi-finals,,0,0,1954-06-30,,S-171,Stade Olympique de la Pontaise,Lausanne,Switzerland,T-34,Hungary,HUN,T-80,Uruguay,URY,4–2,4,2,2,-2,1,0,0-0,0,0,1,0,0
+1954,WC-1954,M-1954-24,semi-finals,,0,0,1954-06-30,,S-168,St. Jakob Stadium,Basel,Switzerland,T-82,West Germany,DEU,T-05,Austria,AUT,6–1,6,1,5,-5,0,0,0-0,0,0,1,0,0
+1954,WC-1954,M-1954-25,third-place match,,0,0,1954-07-03,,S-173,Hardturm Stadium,Zürich,Switzerland,T-05,Austria,AUT,T-80,Uruguay,URY,3–1,3,1,2,-2,0,0,0-0,0,0,1,0,0
+1954,WC-1954,M-1954-26,final,,0,0,1954-07-04,,S-169,Wankdorf Stadium,Bern,Switzerland,T-82,West Germany,DEU,T-34,Hungary,HUN,3–2,3,2,1,-1,0,0,0-0,0,0,1,0,0
+1958,WC-1958,M-1958-01,group stage,Group 3,0,0,1958-06-08,,S-165,Råsunda Stadium,Solna,Sweden,T-71,Sweden,SWE,T-44,Mexico,MEX,3–0,3,0,3,-3,0,0,0-0,0,0,1,0,0
+1958,WC-1958,M-1958-02,group stage,Group 1,0,0,1958-06-08,,S-161,Malmö Stadion,Malmö,Sweden,T-03,Argentina,ARG,T-82,West Germany,DEU,1–3,1,3,-2,2,0,0,0-0,0,0,0,1,0
+1958,WC-1958,M-1958-03,group stage,Group 1,0,0,1958-06-08,,S-159,Örjans Vall,Halmstad,Sweden,T-50,Northern Ireland,NIR,T-20,Czechoslovakia,CSK,1–0,1,0,1,-1,0,0,0-0,0,0,1,0,0
+1958,WC-1958,M-1958-04,group stage,Group 2,0,0,1958-06-08,,S-162,Idrottsparken,Norrköping,Sweden,T-28,France,FRA,T-53,Paraguay,PRY,7–3,7,3,4,-4,0,0,0-0,0,0,1,0,0
+1958,WC-1958,M-1958-05,group stage,Group 2,0,0,1958-06-08,,S-167,Arosvallen,Västerås,Sweden,T-83,Yugoslavia,YUG,T-61,Scotland,SCO,1–1,1,1,0,0,0,0,0-0,0,0,0,0,1
+1958,WC-1958,M-1958-06,group stage,Group 3,0,0,1958-06-08,,S-164,Jernvallen,Sandviken,Sweden,T-34,Hungary,HUN,T-81,Wales,WAL,1–1,1,1,0,0,0,0,0-0,0,0,0,0,1
+1958,WC-1958,M-1958-07,group stage,Group 4,0,0,1958-06-08,,S-166,Rimnersvallen,Uddevalla,Sweden,T-09,Brazil,BRA,T-05,Austria,AUT,3–0,3,0,3,-3,0,0,0-0,0,0,1,0,0
+1958,WC-1958,M-1958-08,group stage,Group 4,0,0,1958-06-08,,S-158,Ullevi,Gothenburg,Sweden,T-69,Soviet Union,SUN,T-27,England,ENG,2–2,2,2,0,0,0,0,0-0,0,0,0,0,1
+1958,WC-1958,M-1958-09,group stage,Group 1,0,0,1958-06-11,,S-159,Örjans Vall,Halmstad,Sweden,T-03,Argentina,ARG,T-50,Northern Ireland,NIR,3–1,3,1,2,-2,0,0,0-0,0,0,1,0,0
+1958,WC-1958,M-1958-10,group stage,Group 1,0,0,1958-06-11,,S-160,Olympia,Helsingborg,Sweden,T-82,West Germany,DEU,T-20,Czechoslovakia,CSK,2–2,2,2,0,0,0,0,0-0,0,0,0,0,1
+1958,WC-1958,M-1958-11,group stage,Group 2,0,0,1958-06-11,,S-162,Idrottsparken,Norrköping,Sweden,T-53,Paraguay,PRY,T-61,Scotland,SCO,3–2,3,2,1,-1,0,0,0-0,0,0,1,0,0
+1958,WC-1958,M-1958-12,group stage,Group 2,0,0,1958-06-11,,S-167,Arosvallen,Västerås,Sweden,T-83,Yugoslavia,YUG,T-28,France,FRA,3–2,3,2,1,-1,0,0,0-0,0,0,1,0,0
+1958,WC-1958,M-1958-13,group stage,Group 3,0,0,1958-06-11,,S-165,Råsunda Stadium,Solna,Sweden,T-44,Mexico,MEX,T-81,Wales,WAL,1–1,1,1,0,0,0,0,0-0,0,0,0,0,1
+1958,WC-1958,M-1958-14,group stage,Group 4,0,0,1958-06-11,,S-158,Ullevi,Gothenburg,Sweden,T-09,Brazil,BRA,T-27,England,ENG,0–0,0,0,0,0,0,0,0-0,0,0,0,0,1
+1958,WC-1958,M-1958-15,group stage,Group 4,0,0,1958-06-11,,S-156,Ryavallen,Borås,Sweden,T-69,Soviet Union,SUN,T-05,Austria,AUT,2–0,2,0,2,-2,0,0,0-0,0,0,1,0,0
+1958,WC-1958,M-1958-16,group stage,Group 3,0,0,1958-06-12,,S-165,Råsunda Stadium,Solna,Sweden,T-71,Sweden,SWE,T-34,Hungary,HUN,2–1,2,1,1,-1,0,0,0-0,0,0,1,0,0
+1958,WC-1958,M-1958-17,group stage,Group 3,0,0,1958-06-15,,S-165,Råsunda Stadium,Solna,Sweden,T-71,Sweden,SWE,T-81,Wales,WAL,0–0,0,0,0,0,0,0,0-0,0,0,0,0,1
+1958,WC-1958,M-1958-18,group stage,Group 1,0,0,1958-06-15,,S-160,Olympia,Helsingborg,Sweden,T-20,Czechoslovakia,CSK,T-03,Argentina,ARG,6–1,6,1,5,-5,0,0,0-0,0,0,1,0,0
+1958,WC-1958,M-1958-19,group stage,Group 1,0,0,1958-06-15,,S-161,Malmö Stadion,Malmö,Sweden,T-82,West Germany,DEU,T-50,Northern Ireland,NIR,2–2,2,2,0,0,0,0,0-0,0,0,0,0,1
+1958,WC-1958,M-1958-20,group stage,Group 2,0,0,1958-06-15,,S-163,Eyravallen,Örebro,Sweden,T-28,France,FRA,T-61,Scotland,SCO,2–1,2,1,1,-1,0,0,0-0,0,0,1,0,0
+1958,WC-1958,M-1958-21,group stage,Group 2,0,0,1958-06-15,,S-157,Tunavallen,Eskilstuna,Sweden,T-53,Paraguay,PRY,T-83,Yugoslavia,YUG,3–3,3,3,0,0,0,0,0-0,0,0,0,0,1
+1958,WC-1958,M-1958-22,group stage,Group 3,0,0,1958-06-15,,S-164,Jernvallen,Sandviken,Sweden,T-34,Hungary,HUN,T-44,Mexico,MEX,4–0,4,0,4,-4,0,0,0-0,0,0,1,0,0
+1958,WC-1958,M-1958-23,group stage,Group 4,0,0,1958-06-15,,S-158,Ullevi,Gothenburg,Sweden,T-09,Brazil,BRA,T-69,Soviet Union,SUN,2–0,2,0,2,-2,0,0,0-0,0,0,1,0,0
+1958,WC-1958,M-1958-24,group stage,Group 4,0,0,1958-06-15,,S-156,Ryavallen,Borås,Sweden,T-27,England,ENG,T-05,Austria,AUT,2–2,2,2,0,0,0,0,0-0,0,0,0,0,1
+1958,WC-1958,M-1958-25,group stage,Group 1,0,0,1958-06-17,,S-161,Malmö Stadion,Malmö,Sweden,T-50,Northern Ireland,NIR,T-20,Czechoslovakia,CSK,2–1,2,1,1,-1,1,0,0-0,0,0,1,0,0
+1958,WC-1958,M-1958-26,group stage,Group 3,0,0,1958-06-17,,S-165,Råsunda Stadium,Solna,Sweden,T-81,Wales,WAL,T-34,Hungary,HUN,2–1,2,1,1,-1,0,0,0-0,0,0,1,0,0
+1958,WC-1958,M-1958-27,group stage,Group 4,0,0,1958-06-17,,S-158,Ullevi,Gothenburg,Sweden,T-69,Soviet Union,SUN,T-27,England,ENG,1–0,1,0,1,-1,0,0,0-0,0,0,1,0,0
+1958,WC-1958,M-1958-28,quarter-finals,,0,0,1958-06-19,,S-158,Ullevi,Gothenburg,Sweden,T-09,Brazil,BRA,T-81,Wales,WAL,1–0,1,0,1,-1,0,0,0-0,0,0,1,0,0
+1958,WC-1958,M-1958-29,quarter-finals,,0,0,1958-06-19,,S-162,Idrottsparken,Norrköping,Sweden,T-28,France,FRA,T-50,Northern Ireland,NIR,4–0,4,0,4,-4,0,0,0-0,0,0,1,0,0
+1958,WC-1958,M-1958-30,quarter-finals,,0,0,1958-06-19,,S-165,Råsunda Stadium,Solna,Sweden,T-71,Sweden,SWE,T-69,Soviet Union,SUN,2–0,2,0,2,-2,0,0,0-0,0,0,1,0,0
+1958,WC-1958,M-1958-31,quarter-finals,,0,0,1958-06-19,,S-161,Malmö Stadion,Malmö,Sweden,T-82,West Germany,DEU,T-83,Yugoslavia,YUG,1–0,1,0,1,-1,0,0,0-0,0,0,1,0,0
+1958,WC-1958,M-1958-32,semi-finals,,0,0,1958-06-24,,S-165,Råsunda Stadium,Solna,Sweden,T-09,Brazil,BRA,T-28,France,FRA,5–2,5,2,3,-3,0,0,0-0,0,0,1,0,0
+1958,WC-1958,M-1958-33,semi-finals,,0,0,1958-06-24,,S-158,Ullevi,Gothenburg,Sweden,T-71,Sweden,SWE,T-82,West Germany,DEU,3–1,3,1,2,-2,0,0,0-0,0,0,1,0,0
+1958,WC-1958,M-1958-34,third-place match,,0,0,1958-06-28,,S-158,Ullevi,Gothenburg,Sweden,T-28,France,FRA,T-82,West Germany,DEU,6–3,6,3,3,-3,0,0,0-0,0,0,1,0,0
+1958,WC-1958,M-1958-35,final,,0,0,1958-06-29,,S-165,Råsunda Stadium,Solna,Sweden,T-09,Brazil,BRA,T-71,Sweden,SWE,5–2,5,2,3,-3,0,0,0-0,0,0,1,0,0
+1962,WC-1962,M-1962-01,group stage,Group 1,0,0,1962-05-30,,S-024,Estadio Carlos Dittborn,Arica,Chile,T-80,Uruguay,URY,T-15,Colombia,COL,2–1,2,1,1,-1,0,0,0-0,0,0,1,0,0
+1962,WC-1962,M-1962-02,group stage,Group 2,0,0,1962-05-30,,S-026,Estadio Nacional,Santiago,Chile,T-13,Chile,CHL,T-72,Switzerland,CHE,3–1,3,1,2,-2,0,0,0-0,0,0,1,0,0
+1962,WC-1962,M-1962-03,group stage,Group 3,0,0,1962-05-30,,S-027,Estadio Sausalito,Viña del Mar,Chile,T-09,Brazil,BRA,T-44,Mexico,MEX,2–0,2,0,2,-2,0,0,0-0,0,0,1,0,0
+1962,WC-1962,M-1962-04,group stage,Group 4,0,0,1962-05-30,,S-025,Estadio El Teniente,Rancagua,Chile,T-03,Argentina,ARG,T-10,Bulgaria,BGR,1–0,1,0,1,-1,0,0,0-0,0,0,1,0,0
+1962,WC-1962,M-1962-05,group stage,Group 1,0,0,1962-05-31,,S-024,Estadio Carlos Dittborn,Arica,Chile,T-69,Soviet Union,SUN,T-83,Yugoslavia,YUG,2–0,2,0,2,-2,0,0,0-0,0,0,1,0,0
+1962,WC-1962,M-1962-06,group stage,Group 2,0,0,1962-05-31,,S-026,Estadio Nacional,Santiago,Chile,T-82,West Germany,DEU,T-39,Italy,ITA,0–0,0,0,0,0,0,0,0-0,0,0,0,0,1
+1962,WC-1962,M-1962-07,group stage,Group 3,0,0,1962-05-31,,S-027,Estadio Sausalito,Viña del Mar,Chile,T-20,Czechoslovakia,CSK,T-70,Spain,ESP,1–0,1,0,1,-1,0,0,0-0,0,0,1,0,0
+1962,WC-1962,M-1962-08,group stage,Group 4,0,0,1962-05-31,,S-025,Estadio El Teniente,Rancagua,Chile,T-34,Hungary,HUN,T-27,England,ENG,2–1,2,1,1,-1,0,0,0-0,0,0,1,0,0
+1962,WC-1962,M-1962-09,group stage,Group 1,0,0,1962-06-02,,S-024,Estadio Carlos Dittborn,Arica,Chile,T-83,Yugoslavia,YUG,T-80,Uruguay,URY,3–1,3,1,2,-2,0,0,0-0,0,0,1,0,0
+1962,WC-1962,M-1962-10,group stage,Group 2,0,0,1962-06-02,,S-026,Estadio Nacional,Santiago,Chile,T-13,Chile,CHL,T-39,Italy,ITA,2–0,2,0,2,-2,0,0,0-0,0,0,1,0,0
+1962,WC-1962,M-1962-11,group stage,Group 3,0,0,1962-06-02,,S-027,Estadio Sausalito,Viña del Mar,Chile,T-09,Brazil,BRA,T-20,Czechoslovakia,CSK,0–0,0,0,0,0,0,0,0-0,0,0,0,0,1
+1962,WC-1962,M-1962-12,group stage,Group 4,0,0,1962-06-02,,S-025,Estadio El Teniente,Rancagua,Chile,T-27,England,ENG,T-03,Argentina,ARG,3–1,3,1,2,-2,0,0,0-0,0,0,1,0,0
+1962,WC-1962,M-1962-13,group stage,Group 1,0,0,1962-06-03,,S-024,Estadio Carlos Dittborn,Arica,Chile,T-69,Soviet Union,SUN,T-15,Colombia,COL,4–4,4,4,0,0,0,0,0-0,0,0,0,0,1
+1962,WC-1962,M-1962-14,group stage,Group 2,0,0,1962-06-03,,S-026,Estadio Nacional,Santiago,Chile,T-82,West Germany,DEU,T-72,Switzerland,CHE,2–1,2,1,1,-1,0,0,0-0,0,0,1,0,0
+1962,WC-1962,M-1962-15,group stage,Group 3,0,0,1962-06-03,,S-027,Estadio Sausalito,Viña del Mar,Chile,T-70,Spain,ESP,T-44,Mexico,MEX,1–0,1,0,1,-1,0,0,0-0,0,0,1,0,0
+1962,WC-1962,M-1962-16,group stage,Group 4,0,0,1962-06-03,,S-025,Estadio El Teniente,Rancagua,Chile,T-34,Hungary,HUN,T-10,Bulgaria,BGR,6–1,6,1,5,-5,0,0,0-0,0,0,1,0,0
+1962,WC-1962,M-1962-17,group stage,Group 1,0,0,1962-06-06,,S-024,Estadio Carlos Dittborn,Arica,Chile,T-69,Soviet Union,SUN,T-80,Uruguay,URY,2–1,2,1,1,-1,0,0,0-0,0,0,1,0,0
+1962,WC-1962,M-1962-18,group stage,Group 2,0,0,1962-06-06,,S-026,Estadio Nacional,Santiago,Chile,T-82,West Germany,DEU,T-13,Chile,CHL,2–0,2,0,2,-2,0,0,0-0,0,0,1,0,0
+1962,WC-1962,M-1962-19,group stage,Group 3,0,0,1962-06-06,,S-027,Estadio Sausalito,Viña del Mar,Chile,T-09,Brazil,BRA,T-70,Spain,ESP,2–1,2,1,1,-1,0,0,0-0,0,0,1,0,0
+1962,WC-1962,M-1962-20,group stage,Group 4,0,0,1962-06-06,,S-025,Estadio El Teniente,Rancagua,Chile,T-34,Hungary,HUN,T-03,Argentina,ARG,0–0,0,0,0,0,0,0,0-0,0,0,0,0,1
+1962,WC-1962,M-1962-21,group stage,Group 1,0,0,1962-06-07,,S-024,Estadio Carlos Dittborn,Arica,Chile,T-83,Yugoslavia,YUG,T-15,Colombia,COL,5–0,5,0,5,-5,0,0,0-0,0,0,1,0,0
+1962,WC-1962,M-1962-22,group stage,Group 2,0,0,1962-06-07,,S-026,Estadio Nacional,Santiago,Chile,T-39,Italy,ITA,T-72,Switzerland,CHE,3–0,3,0,3,-3,0,0,0-0,0,0,1,0,0
+1962,WC-1962,M-1962-23,group stage,Group 3,0,0,1962-06-07,,S-027,Estadio Sausalito,Viña del Mar,Chile,T-44,Mexico,MEX,T-20,Czechoslovakia,CSK,3–1,3,1,2,-2,0,0,0-0,0,0,1,0,0
+1962,WC-1962,M-1962-24,group stage,Group 4,0,0,1962-06-07,,S-025,Estadio El Teniente,Rancagua,Chile,T-27,England,ENG,T-10,Bulgaria,BGR,0–0,0,0,0,0,0,0,0-0,0,0,0,0,1
+1962,WC-1962,M-1962-25,quarter-finals,,0,0,1962-06-10,,S-027,Estadio Sausalito,Viña del Mar,Chile,T-09,Brazil,BRA,T-27,England,ENG,3–1,3,1,2,-2,0,0,0-0,0,0,1,0,0
+1962,WC-1962,M-1962-26,quarter-finals,,0,0,1962-06-10,,S-024,Estadio Carlos Dittborn,Arica,Chile,T-13,Chile,CHL,T-69,Soviet Union,SUN,2–1,2,1,1,-1,0,0,0-0,0,0,1,0,0
+1962,WC-1962,M-1962-27,quarter-finals,,0,0,1962-06-10,,S-025,Estadio El Teniente,Rancagua,Chile,T-20,Czechoslovakia,CSK,T-34,Hungary,HUN,1–0,1,0,1,-1,0,0,0-0,0,0,1,0,0
+1962,WC-1962,M-1962-28,quarter-finals,,0,0,1962-06-10,,S-026,Estadio Nacional,Santiago,Chile,T-83,Yugoslavia,YUG,T-82,West Germany,DEU,1–0,1,0,1,-1,0,0,0-0,0,0,1,0,0
+1962,WC-1962,M-1962-29,semi-finals,,0,0,1962-06-13,,S-026,Estadio Nacional,Santiago,Chile,T-09,Brazil,BRA,T-13,Chile,CHL,4–2,4,2,2,-2,0,0,0-0,0,0,1,0,0
+1962,WC-1962,M-1962-30,semi-finals,,0,0,1962-06-13,,S-027,Estadio Sausalito,Viña del Mar,Chile,T-20,Czechoslovakia,CSK,T-83,Yugoslavia,YUG,3–1,3,1,2,-2,0,0,0-0,0,0,1,0,0
+1962,WC-1962,M-1962-31,third-place match,,0,0,1962-06-16,,S-026,Estadio Nacional,Santiago,Chile,T-13,Chile,CHL,T-83,Yugoslavia,YUG,1–0,1,0,1,-1,0,0,0-0,0,0,1,0,0
+1962,WC-1962,M-1962-32,final,,0,0,1962-06-17,,S-026,Estadio Nacional,Santiago,Chile,T-09,Brazil,BRA,T-20,Czechoslovakia,CSK,3–1,3,1,2,-2,0,0,0-0,0,0,1,0,0
+1966,WC-1966,M-1966-01,group stage,Group 1,0,0,1966-07-11,,S-030,Wembley Stadium,London,England,T-27,England,ENG,T-80,Uruguay,URY,0–0,0,0,0,0,0,0,0-0,0,0,0,0,1
+1966,WC-1966,M-1966-02,group stage,Group 2,0,0,1966-07-12,,S-034,Hillsborough Stadium,Sheffield,England,T-82,West Germany,DEU,T-72,Switzerland,CHE,5–0,5,0,5,-5,0,0,0-0,0,0,1,0,0
+1966,WC-1966,M-1966-03,group stage,Group 3,0,0,1966-07-12,,S-029,Goodison Park,Liverpool,England,T-09,Brazil,BRA,T-10,Bulgaria,BGR,2–0,2,0,2,-2,0,0,0-0,0,0,1,0,0
+1966,WC-1966,M-1966-04,group stage,Group 4,0,0,1966-07-12,,S-033,Ayresome Park,Middlesbrough,England,T-69,Soviet Union,SUN,T-49,North Korea,PRK,3–0,3,0,3,-3,0,0,0-0,0,0,1,0,0
+1966,WC-1966,M-1966-05,group stage,Group 1,0,0,1966-07-13,,S-030,Wembley Stadium,London,England,T-28,France,FRA,T-44,Mexico,MEX,1–1,1,1,0,0,0,0,0-0,0,0,0,0,1
+1966,WC-1966,M-1966-06,group stage,Group 2,0,0,1966-07-13,,S-028,Villa Park,Birmingham,England,T-03,Argentina,ARG,T-70,Spain,ESP,2–1,2,1,1,-1,0,0,0-0,0,0,1,0,0
+1966,WC-1966,M-1966-07,group stage,Group 3,0,0,1966-07-13,,S-032,Old Trafford,Manchester,England,T-56,Portugal,PRT,T-34,Hungary,HUN,3–1,3,1,2,-2,0,0,0-0,0,0,1,0,0
+1966,WC-1966,M-1966-08,group stage,Group 4,0,0,1966-07-13,,S-035,Roker Park,Sunderland,England,T-39,Italy,ITA,T-13,Chile,CHL,2–0,2,0,2,-2,0,0,0-0,0,0,1,0,0
+1966,WC-1966,M-1966-09,group stage,Group 1,0,0,1966-07-15,,S-031,White City Stadium,London,England,T-80,Uruguay,URY,T-28,France,FRA,2–1,2,1,1,-1,0,0,0-0,0,0,1,0,0
+1966,WC-1966,M-1966-10,group stage,Group 2,0,0,1966-07-15,,S-034,Hillsborough Stadium,Sheffield,England,T-70,Spain,ESP,T-72,Switzerland,CHE,2–1,2,1,1,-1,0,0,0-0,0,0,1,0,0
+1966,WC-1966,M-1966-11,group stage,Group 3,0,0,1966-07-15,,S-029,Goodison Park,Liverpool,England,T-34,Hungary,HUN,T-09,Brazil,BRA,3–1,3,1,2,-2,0,0,0-0,0,0,1,0,0
+1966,WC-1966,M-1966-12,group stage,Group 4,0,0,1966-07-15,,S-033,Ayresome Park,Middlesbrough,England,T-13,Chile,CHL,T-49,North Korea,PRK,1–1,1,1,0,0,0,0,0-0,0,0,0,0,1
+1966,WC-1966,M-1966-13,group stage,Group 2,0,0,1966-07-16,,S-028,Villa Park,Birmingham,England,T-03,Argentina,ARG,T-82,West Germany,DEU,0–0,0,0,0,0,0,0,0-0,0,0,0,0,1
+1966,WC-1966,M-1966-14,group stage,Group 3,0,0,1966-07-16,,S-032,Old Trafford,Manchester,England,T-56,Portugal,PRT,T-10,Bulgaria,BGR,3–0,3,0,3,-3,0,0,0-0,0,0,1,0,0
+1966,WC-1966,M-1966-15,group stage,Group 4,0,0,1966-07-16,,S-035,Roker Park,Sunderland,England,T-69,Soviet Union,SUN,T-39,Italy,ITA,1–0,1,0,1,-1,0,0,0-0,0,0,1,0,0
+1966,WC-1966,M-1966-16,group stage,Group 1,0,0,1966-07-16,,S-030,Wembley Stadium,London,England,T-27,England,ENG,T-44,Mexico,MEX,2–0,2,0,2,-2,0,0,0-0,0,0,1,0,0
+1966,WC-1966,M-1966-17,group stage,Group 1,0,0,1966-07-19,,S-030,Wembley Stadium,London,England,T-44,Mexico,MEX,T-80,Uruguay,URY,0–0,0,0,0,0,0,0,0-0,0,0,0,0,1
+1966,WC-1966,M-1966-18,group stage,Group 2,0,0,1966-07-19,,S-034,Hillsborough Stadium,Sheffield,England,T-03,Argentina,ARG,T-72,Switzerland,CHE,2–0,2,0,2,-2,0,0,0-0,0,0,1,0,0
+1966,WC-1966,M-1966-19,group stage,Group 3,0,0,1966-07-19,,S-029,Goodison Park,Liverpool,England,T-56,Portugal,PRT,T-09,Brazil,BRA,3–1,3,1,2,-2,0,0,0-0,0,0,1,0,0
+1966,WC-1966,M-1966-20,group stage,Group 4,0,0,1966-07-19,,S-033,Ayresome Park,Middlesbrough,England,T-49,North Korea,PRK,T-39,Italy,ITA,1–0,1,0,1,-1,0,0,0-0,0,0,1,0,0
+1966,WC-1966,M-1966-21,group stage,Group 1,0,0,1966-07-20,,S-030,Wembley Stadium,London,England,T-27,England,ENG,T-28,France,FRA,2–0,2,0,2,-2,0,0,0-0,0,0,1,0,0
+1966,WC-1966,M-1966-22,group stage,Group 2,0,0,1966-07-20,,S-028,Villa Park,Birmingham,England,T-82,West Germany,DEU,T-70,Spain,ESP,2–1,2,1,1,-1,0,0,0-0,0,0,1,0,0
+1966,WC-1966,M-1966-23,group stage,Group 3,0,0,1966-07-20,,S-032,Old Trafford,Manchester,England,T-34,Hungary,HUN,T-10,Bulgaria,BGR,3–1,3,1,2,-2,0,0,0-0,0,0,1,0,0
+1966,WC-1966,M-1966-24,group stage,Group 4,0,0,1966-07-20,,S-035,Roker Park,Sunderland,England,T-69,Soviet Union,SUN,T-13,Chile,CHL,2–1,2,1,1,-1,0,0,0-0,0,0,1,0,0
+1966,WC-1966,M-1966-25,quarter-finals,,0,0,1966-07-23,,S-030,Wembley Stadium,London,England,T-27,England,ENG,T-03,Argentina,ARG,1–0,1,0,1,-1,0,0,0-0,0,0,1,0,0
+1966,WC-1966,M-1966-26,quarter-finals,,0,0,1966-07-23,,S-029,Goodison Park,Liverpool,England,T-56,Portugal,PRT,T-49,North Korea,PRK,5–3,5,3,2,-2,0,0,0-0,0,0,1,0,0
+1966,WC-1966,M-1966-27,quarter-finals,,0,0,1966-07-23,,S-035,Roker Park,Sunderland,England,T-69,Soviet Union,SUN,T-34,Hungary,HUN,2–1,2,1,1,-1,0,0,0-0,0,0,1,0,0
+1966,WC-1966,M-1966-28,quarter-finals,,0,0,1966-07-23,,S-034,Hillsborough Stadium,Sheffield,England,T-82,West Germany,DEU,T-80,Uruguay,URY,4–0,4,0,4,-4,0,0,0-0,0,0,1,0,0
+1966,WC-1966,M-1966-29,semi-finals,,0,0,1966-07-25,,S-029,Goodison Park,Liverpool,England,T-82,West Germany,DEU,T-69,Soviet Union,SUN,2–1,2,1,1,-1,0,0,0-0,0,0,1,0,0
+1966,WC-1966,M-1966-30,semi-finals,,0,0,1966-07-26,,S-030,Wembley Stadium,London,England,T-27,England,ENG,T-56,Portugal,PRT,2–1,2,1,1,-1,0,0,0-0,0,0,1,0,0
+1966,WC-1966,M-1966-31,third-place match,,0,0,1966-07-28,,S-030,Wembley Stadium,London,England,T-56,Portugal,PRT,T-69,Soviet Union,SUN,2–1,2,1,1,-1,0,0,0-0,0,0,1,0,0
+1966,WC-1966,M-1966-32,final,,0,0,1966-07-30,,S-030,Wembley Stadium,London,England,T-27,England,ENG,T-82,West Germany,DEU,4–2,4,2,2,-2,1,0,0-0,0,0,1,0,0
+1970,WC-1970,M-1970-01,group stage,Group 1,0,0,1970-05-31,,S-099,Estadio Azteca,Mexico City,Mexico,T-44,Mexico,MEX,T-69,Soviet Union,SUN,0–0,0,0,0,0,0,0,0-0,0,0,0,0,1
+1970,WC-1970,M-1970-02,group stage,Group 2,0,0,1970-06-02,,S-104,Estadio Cuauhtémoc,Puebla,Mexico,T-80,Uruguay,URY,T-38,Israel,ISR,2–0,2,0,2,-2,0,0,0-0,0,0,1,0,0
+1970,WC-1970,M-1970-03,group stage,Group 3,0,0,1970-06-02,,S-095,Estadio Jalisco,Guadalajara,Mexico,T-27,England,ENG,T-58,Romania,ROU,1–0,1,0,1,-1,0,0,0-0,0,0,1,0,0
+1970,WC-1970,M-1970-04,group stage,Group 4,0,0,1970-06-02,,S-098,Estadio Nou Camp,León,Mexico,T-54,Peru,PER,T-10,Bulgaria,BGR,3–2,3,2,1,-1,0,0,0-0,0,0,1,0,0
+1970,WC-1970,M-1970-05,group stage,Group 1,0,0,1970-06-03,,S-099,Estadio Azteca,Mexico City,Mexico,T-06,Belgium,BEL,T-26,El Salvador,SLV,3–0,3,0,3,-3,0,0,0-0,0,0,1,0,0
+1970,WC-1970,M-1970-06,group stage,Group 2,0,0,1970-06-03,,S-106,La Bombonera,Toluca,Mexico,T-39,Italy,ITA,T-71,Sweden,SWE,1–0,1,0,1,-1,0,0,0-0,0,0,1,0,0
+1970,WC-1970,M-1970-07,group stage,Group 3,0,0,1970-06-03,,S-095,Estadio Jalisco,Guadalajara,Mexico,T-09,Brazil,BRA,T-20,Czechoslovakia,CSK,4–1,4,1,3,-3,0,0,0-0,0,0,1,0,0
+1970,WC-1970,M-1970-08,group stage,Group 4,0,0,1970-06-03,,S-098,Estadio Nou Camp,León,Mexico,T-82,West Germany,DEU,T-45,Morocco,MAR,2–1,2,1,1,-1,0,0,0-0,0,0,1,0,0
+1970,WC-1970,M-1970-09,group stage,Group 1,0,0,1970-06-06,,S-099,Estadio Azteca,Mexico City,Mexico,T-69,Soviet Union,SUN,T-06,Belgium,BEL,4–1,4,1,3,-3,0,0,0-0,0,0,1,0,0
+1970,WC-1970,M-1970-10,group stage,Group 2,0,0,1970-06-06,,S-104,Estadio Cuauhtémoc,Puebla,Mexico,T-80,Uruguay,URY,T-39,Italy,ITA,0–0,0,0,0,0,0,0,0-0,0,0,0,0,1
+1970,WC-1970,M-1970-11,group stage,Group 3,0,0,1970-06-06,,S-095,Estadio Jalisco,Guadalajara,Mexico,T-58,Romania,ROU,T-20,Czechoslovakia,CSK,2–1,2,1,1,-1,0,0,0-0,0,0,1,0,0
+1970,WC-1970,M-1970-12,group stage,Group 4,0,0,1970-06-06,,S-098,Estadio Nou Camp,León,Mexico,T-54,Peru,PER,T-45,Morocco,MAR,3–0,3,0,3,-3,0,0,0-0,0,0,1,0,0
+1970,WC-1970,M-1970-13,group stage,Group 1,0,0,1970-06-07,,S-099,Estadio Azteca,Mexico City,Mexico,T-44,Mexico,MEX,T-26,El Salvador,SLV,4–0,4,0,4,-4,0,0,0-0,0,0,1,0,0
+1970,WC-1970,M-1970-14,group stage,Group 2,0,0,1970-06-07,,S-106,La Bombonera,Toluca,Mexico,T-71,Sweden,SWE,T-38,Israel,ISR,1–1,1,1,0,0,0,0,0-0,0,0,0,0,1
+1970,WC-1970,M-1970-15,group stage,Group 3,0,0,1970-06-07,,S-095,Estadio Jalisco,Guadalajara,Mexico,T-09,Brazil,BRA,T-27,England,ENG,1–0,1,0,1,-1,0,0,0-0,0,0,1,0,0
+1970,WC-1970,M-1970-16,group stage,Group 4,0,0,1970-06-07,,S-098,Estadio Nou Camp,León,Mexico,T-82,West Germany,DEU,T-10,Bulgaria,BGR,5–2,5,2,3,-3,0,0,0-0,0,0,1,0,0
+1970,WC-1970,M-1970-17,group stage,Group 1,0,0,1970-06-10,,S-099,Estadio Azteca,Mexico City,Mexico,T-69,Soviet Union,SUN,T-26,El Salvador,SLV,2–0,2,0,2,-2,0,0,0-0,0,0,1,0,0
+1970,WC-1970,M-1970-18,group stage,Group 2,0,0,1970-06-10,,S-104,Estadio Cuauhtémoc,Puebla,Mexico,T-71,Sweden,SWE,T-80,Uruguay,URY,1-0,1,0,1,-1,0,0,0-0,0,0,1,0,0
+1970,WC-1970,M-1970-19,group stage,Group 3,0,0,1970-06-10,,S-095,Estadio Jalisco,Guadalajara,Mexico,T-09,Brazil,BRA,T-58,Romania,ROU,3–2,3,2,1,-1,0,0,0-0,0,0,1,0,0
+1970,WC-1970,M-1970-20,group stage,Group 4,0,0,1970-06-10,,S-098,Estadio Nou Camp,León,Mexico,T-82,West Germany,DEU,T-54,Peru,PER,3–1,3,1,2,-2,0,0,0-0,0,0,1,0,0
+1970,WC-1970,M-1970-21,group stage,Group 1,0,0,1970-06-11,,S-099,Estadio Azteca,Mexico City,Mexico,T-44,Mexico,MEX,T-06,Belgium,BEL,1–0,1,0,1,-1,0,0,0-0,0,0,1,0,0
+1970,WC-1970,M-1970-22,group stage,Group 2,0,0,1970-06-11,,S-106,La Bombonera,Toluca,Mexico,T-39,Italy,ITA,T-38,Israel,ISR,0–0,0,0,0,0,0,0,0-0,0,0,0,0,1
+1970,WC-1970,M-1970-23,group stage,Group 3,0,0,1970-06-11,,S-095,Estadio Jalisco,Guadalajara,Mexico,T-27,England,ENG,T-20,Czechoslovakia,CSK,1–0,1,0,1,-1,0,0,0-0,0,0,1,0,0
+1970,WC-1970,M-1970-24,group stage,Group 4,0,0,1970-06-11,,S-098,Estadio Nou Camp,León,Mexico,T-10,Bulgaria,BGR,T-45,Morocco,MAR,1–1,1,1,0,0,0,0,0-0,0,0,0,0,1
+1970,WC-1970,M-1970-25,quarter-finals,,0,0,1970-06-14,,S-095,Estadio Jalisco,Guadalajara,Mexico,T-09,Brazil,BRA,T-54,Peru,PER,4–2,4,2,2,-2,0,0,0-0,0,0,1,0,0
+1970,WC-1970,M-1970-26,quarter-finals,,0,0,1970-06-14,,S-106,La Bombonera,Toluca,Mexico,T-39,Italy,ITA,T-44,Mexico,MEX,4–1,4,1,3,-3,0,0,0-0,0,0,1,0,0
+1970,WC-1970,M-1970-27,quarter-finals,,0,0,1970-06-14,,S-099,Estadio Azteca,Mexico City,Mexico,T-69,Soviet Union,SUN,T-80,Uruguay,URY,0–1,0,1,-1,1,1,0,0-0,0,0,0,1,0
+1970,WC-1970,M-1970-28,quarter-finals,,0,0,1970-06-14,,S-098,Estadio Nou Camp,León,Mexico,T-82,West Germany,DEU,T-27,England,ENG,3–2,3,2,1,-1,1,0,0-0,0,0,1,0,0
+1970,WC-1970,M-1970-29,semi-finals,,0,0,1970-06-17,,S-095,Estadio Jalisco,Guadalajara,Mexico,T-09,Brazil,BRA,T-80,Uruguay,URY,3–1,3,1,2,-2,0,0,0-0,0,0,1,0,0
+1970,WC-1970,M-1970-30,semi-finals,,0,0,1970-06-17,,S-099,Estadio Azteca,Mexico City,Mexico,T-39,Italy,ITA,T-82,West Germany,DEU,4–3,4,3,1,-1,1,0,0-0,0,0,1,0,0
+1970,WC-1970,M-1970-31,third-place match,,0,0,1970-06-20,,S-099,Estadio Azteca,Mexico City,Mexico,T-82,West Germany,DEU,T-80,Uruguay,URY,1–0,1,0,1,-1,0,0,0-0,0,0,1,0,0
+1970,WC-1970,M-1970-32,final,,0,0,1970-06-21,,S-099,Estadio Azteca,Mexico City,Mexico,T-09,Brazil,BRA,T-39,Italy,ITA,4–1,4,1,3,-3,0,0,0-0,0,0,1,0,0
+1974,WC-1974,M-1974-01,group stage,Group 2,0,0,1974-06-13,,S-057,Waldstadion,Frankfurt,Germany,T-09,Brazil,BRA,T-83,Yugoslavia,YUG,0–0,0,0,0,0,0,0,0-0,0,0,0,0,1
+1974,WC-1974,M-1974-02,group stage,Group 1,0,0,1974-06-14,,S-053,Olympiastadion,Berlin,Germany,T-82,West Germany,DEU,T-13,Chile,CHL,1–0,1,0,1,-1,0,0,0-0,0,0,1,0,0
+1974,WC-1974,M-1974-03,group stage,Group 1,0,0,1974-06-14,,S-060,Volksparkstadion,Hamburg,Germany,T-23,East Germany,DDR,T-04,Australia,AUS,2–0,2,0,2,-2,0,0,0-0,0,0,1,0,0
+1974,WC-1974,M-1974-04,group stage,Group 2,0,0,1974-06-14,,S-055,Westfalenstadion,Dortmund,Germany,T-84,Zaire,COD,T-61,Scotland,SCO,0–2,0,2,-2,2,0,0,0-0,0,0,0,1,0
+1974,WC-1974,M-1974-05,group stage,Group 3,0,0,1974-06-15,,S-056,Rheinstadion,Düsseldorf,Germany,T-71,Sweden,SWE,T-10,Bulgaria,BGR,0–0,0,0,0,0,0,0,0-0,0,0,0,0,1
+1974,WC-1974,M-1974-06,group stage,Group 3,0,0,1974-06-15,,S-061,Niedersachsenstadion,Hanover,Germany,T-80,Uruguay,URY,T-46,Netherlands,NLD,0–2,0,2,-2,2,0,0,0-0,0,0,0,1,0
+1974,WC-1974,M-1974-07,group stage,Group 4,0,0,1974-06-15,,S-065,Olympiastadion,Munich,Germany,T-39,Italy,ITA,T-32,Haiti,HTI,3–1,3,1,2,-2,0,0,0-0,0,0,1,0,0
+1974,WC-1974,M-1974-08,group stage,Group 4,0,0,1974-06-15,,S-067,Neckarstadion,Stuttgart,Germany,T-55,Poland,POL,T-03,Argentina,ARG,3–2,3,2,1,-1,0,0,0-0,0,0,1,0,0
+1974,WC-1974,M-1974-09,group stage,Group 1,0,0,1974-06-18,,S-060,Volksparkstadion,Hamburg,Germany,T-04,Australia,AUS,T-82,West Germany,DEU,0–3,0,3,-3,3,0,0,0-0,0,0,0,1,0
+1974,WC-1974,M-1974-10,group stage,Group 1,0,0,1974-06-18,,S-053,Olympiastadion,Berlin,Germany,T-13,Chile,CHL,T-23,East Germany,DDR,1–1,1,1,0,0,0,0,0-0,0,0,0,0,1
+1974,WC-1974,M-1974-11,group stage,Group 2,0,0,1974-06-18,,S-057,Waldstadion,Frankfurt,Germany,T-61,Scotland,SCO,T-09,Brazil,BRA,0–0,0,0,0,0,0,0,0-0,0,0,0,0,1
+1974,WC-1974,M-1974-12,group stage,Group 2,0,0,1974-06-18,,S-059,Parkstadion,Gelsenkirchen,Germany,T-83,Yugoslavia,YUG,T-84,Zaire,COD,9–0,9,0,9,-9,0,0,0-0,0,0,1,0,0
+1974,WC-1974,M-1974-13,group stage,Group 3,0,0,1974-06-19,,S-061,Niedersachsenstadion,Hanover,Germany,T-10,Bulgaria,BGR,T-80,Uruguay,URY,1–1,1,1,0,0,0,0,0-0,0,0,0,0,1
+1974,WC-1974,M-1974-14,group stage,Group 3,0,0,1974-06-19,,S-055,Westfalenstadion,Dortmund,Germany,T-46,Netherlands,NLD,T-71,Sweden,SWE,0–0,0,0,0,0,0,0,0-0,0,0,0,0,1
+1974,WC-1974,M-1974-15,group stage,Group 4,0,0,1974-06-19,,S-067,Neckarstadion,Stuttgart,Germany,T-03,Argentina,ARG,T-39,Italy,ITA,1–1,1,1,0,0,0,0,0-0,0,0,0,0,1
+1974,WC-1974,M-1974-16,group stage,Group 4,0,0,1974-06-19,,S-065,Olympiastadion,Munich,Germany,T-32,Haiti,HTI,T-55,Poland,POL,0–7,0,7,-7,7,0,0,0-0,0,0,0,1,0
+1974,WC-1974,M-1974-17,group stage,Group 1,0,0,1974-06-22,,S-053,Olympiastadion,Berlin,Germany,T-04,Australia,AUS,T-13,Chile,CHL,0–0,0,0,0,0,0,0,0-0,0,0,0,0,1
+1974,WC-1974,M-1974-18,group stage,Group 2,0,0,1974-06-22,,S-057,Waldstadion,Frankfurt,Germany,T-61,Scotland,SCO,T-83,Yugoslavia,YUG,1–1,1,1,0,0,0,0,0-0,0,0,0,0,1
+1974,WC-1974,M-1974-19,group stage,Group 2,0,0,1974-06-22,,S-059,Parkstadion,Gelsenkirchen,Germany,T-84,Zaire,COD,T-09,Brazil,BRA,0–3,0,3,-3,3,0,0,0-0,0,0,0,1,0
+1974,WC-1974,M-1974-20,group stage,Group 1,0,0,1974-06-22,,S-060,Volksparkstadion,Hamburg,Germany,T-23,East Germany,DDR,T-82,West Germany,DEU,1–0,1,0,1,-1,0,0,0-0,0,0,1,0,0
+1974,WC-1974,M-1974-21,group stage,Group 3,0,0,1974-06-23,,S-055,Westfalenstadion,Dortmund,Germany,T-10,Bulgaria,BGR,T-46,Netherlands,NLD,1–4,1,4,-3,3,0,0,0-0,0,0,0,1,0
+1974,WC-1974,M-1974-22,group stage,Group 3,0,0,1974-06-23,,S-056,Rheinstadion,Düsseldorf,Germany,T-71,Sweden,SWE,T-80,Uruguay,URY,3–0,3,0,3,-3,0,0,0-0,0,0,1,0,0
+1974,WC-1974,M-1974-23,group stage,Group 4,0,0,1974-06-23,,S-065,Olympiastadion,Munich,Germany,T-03,Argentina,ARG,T-32,Haiti,HTI,4–1,4,1,3,-3,0,0,0-0,0,0,1,0,0
+1974,WC-1974,M-1974-24,group stage,Group 4,0,0,1974-06-23,,S-067,Neckarstadion,Stuttgart,Germany,T-55,Poland,POL,T-39,Italy,ITA,2–1,2,1,1,-1,0,0,0-0,0,0,1,0,0
+1974,WC-1974,M-1974-25,second group stage,Group B,0,0,1974-06-26,,S-056,Rheinstadion,Düsseldorf,Germany,T-83,Yugoslavia,YUG,T-82,West Germany,DEU,0–2,0,2,-2,2,0,0,0-0,0,0,0,1,0
+1974,WC-1974,M-1974-26,second group stage,Group A,0,0,1974-06-26,,S-061,Niedersachsenstadion,Hanover,Germany,T-09,Brazil,BRA,T-23,East Germany,DDR,1–0,1,0,1,-1,0,0,0-0,0,0,1,0,0
+1974,WC-1974,M-1974-27,second group stage,Group A,0,0,1974-06-26,,S-059,Parkstadion,Gelsenkirchen,Germany,T-46,Netherlands,NLD,T-03,Argentina,ARG,4–0,4,0,4,-4,0,0,0-0,0,0,1,0,0
+1974,WC-1974,M-1974-28,second group stage,Group B,0,0,1974-06-26,,S-067,Neckarstadion,Stuttgart,Germany,T-71,Sweden,SWE,T-55,Poland,POL,0–1,0,1,-1,1,0,0,0-0,0,0,0,1,0
+1974,WC-1974,M-1974-29,second group stage,Group A,0,0,1974-06-30,,S-061,Niedersachsenstadion,Hanover,Germany,T-03,Argentina,ARG,T-09,Brazil,BRA,1–2,1,2,-1,1,0,0,0-0,0,0,0,1,0
+1974,WC-1974,M-1974-30,second group stage,Group A,0,0,1974-06-30,,S-059,Parkstadion,Gelsenkirchen,Germany,T-23,East Germany,DDR,T-46,Netherlands,NLD,0–2,0,2,-2,2,0,0,0-0,0,0,0,1,0
+1974,WC-1974,M-1974-31,second group stage,Group B,0,0,1974-06-30,,S-057,Waldstadion,Frankfurt,Germany,T-55,Poland,POL,T-83,Yugoslavia,YUG,2–1,2,1,1,-1,0,0,0-0,0,0,1,0,0
+1974,WC-1974,M-1974-32,second group stage,Group B,0,0,1974-06-30,,S-056,Rheinstadion,Düsseldorf,Germany,T-82,West Germany,DEU,T-71,Sweden,SWE,4–2,4,2,2,-2,0,0,0-0,0,0,1,0,0
+1974,WC-1974,M-1974-33,second group stage,Group B,0,0,1974-07-03,,S-057,Waldstadion,Frankfurt,Germany,T-55,Poland,POL,T-82,West Germany,DEU,0–1,0,1,-1,1,0,0,0-0,0,0,0,1,0
+1974,WC-1974,M-1974-34,second group stage,Group A,0,0,1974-07-03,,S-059,Parkstadion,Gelsenkirchen,Germany,T-03,Argentina,ARG,T-23,East Germany,DDR,1–1,1,1,0,0,0,0,0-0,0,0,0,0,1
+1974,WC-1974,M-1974-35,second group stage,Group A,0,0,1974-07-03,,S-055,Westfalenstadion,Dortmund,Germany,T-46,Netherlands,NLD,T-09,Brazil,BRA,2–0,2,0,2,-2,0,0,0-0,0,0,1,0,0
+1974,WC-1974,M-1974-36,second group stage,Group B,0,0,1974-07-03,,S-056,Rheinstadion,Düsseldorf,Germany,T-71,Sweden,SWE,T-83,Yugoslavia,YUG,2–1,2,1,1,-1,0,0,0-0,0,0,1,0,0
+1974,WC-1974,M-1974-37,third-place match,,0,0,1974-07-06,,S-065,Olympiastadion,Munich,Germany,T-09,Brazil,BRA,T-55,Poland,POL,0–1,0,1,-1,1,0,0,0-0,0,0,0,1,0
+1974,WC-1974,M-1974-38,final,,0,0,1974-07-07,,S-065,Olympiastadion,Munich,Germany,T-46,Netherlands,NLD,T-82,West Germany,DEU,1–2,1,2,-1,1,0,0,0-0,0,0,0,1,0
+1978,WC-1978,M-1978-01,group stage,Group 2,0,0,1978-06-01,,S-002,Estadio Monumental,Buenos Aires,Argentina,T-82,West Germany,DEU,T-55,Poland,POL,0–0,0,0,0,0,0,0,0-0,0,0,0,0,1
+1978,WC-1978,M-1978-02,group stage,Group 1,0,0,1978-06-02,,S-004,Estadio José María Minella,Mar del Plata,Argentina,T-39,Italy,ITA,T-28,France,FRA,2–1,2,1,1,-1,0,0,0-0,0,0,1,0,0
+1978,WC-1978,M-1978-03,group stage,Group 2,0,0,1978-06-02,,S-006,Estadio Gigante de Arroyito,Rosario,Argentina,T-75,Tunisia,TUN,T-44,Mexico,MEX,3–1,3,1,2,-2,0,0,0-0,0,0,1,0,0
+1978,WC-1978,M-1978-04,group stage,Group 1,0,0,1978-06-02,,S-002,Estadio Monumental,Buenos Aires,Argentina,T-03,Argentina,ARG,T-34,Hungary,HUN,2–1,2,1,1,-1,0,0,0-0,0,0,1,0,0
+1978,WC-1978,M-1978-05,group stage,Group 3,0,0,1978-06-03,,S-001,Estadio José Amalfitani,Buenos Aires,Argentina,T-05,Austria,AUT,T-70,Spain,ESP,2–1,2,1,1,-1,0,0,0-0,0,0,1,0,0
+1978,WC-1978,M-1978-06,group stage,Group 3,0,0,1978-06-03,,S-004,Estadio José María Minella,Mar del Plata,Argentina,T-09,Brazil,BRA,T-71,Sweden,SWE,1–1,1,1,0,0,0,0,0-0,0,0,0,0,1
+1978,WC-1978,M-1978-07,group stage,Group 4,0,0,1978-06-03,,S-005,Estadio Ciudad de Mendoza,Mendoza,Argentina,T-46,Netherlands,NLD,T-36,Iran,IRN,3–0,3,0,3,-3,0,0,0-0,0,0,1,0,0
+1978,WC-1978,M-1978-08,group stage,Group 4,0,0,1978-06-03,,S-003,Estadio Chateau Carreras,Córdoba,Argentina,T-54,Peru,PER,T-61,Scotland,SCO,3–1,3,1,2,-2,0,0,0-0,0,0,1,0,0
+1978,WC-1978,M-1978-09,group stage,Group 1,0,0,1978-06-06,,S-004,Estadio José María Minella,Mar del Plata,Argentina,T-39,Italy,ITA,T-34,Hungary,HUN,3–1,3,1,2,-2,0,0,0-0,0,0,1,0,0
+1978,WC-1978,M-1978-10,group stage,Group 2,0,0,1978-06-06,,S-006,Estadio Gigante de Arroyito,Rosario,Argentina,T-55,Poland,POL,T-75,Tunisia,TUN,1–0,1,0,1,-1,0,0,0-0,0,0,1,0,0
+1978,WC-1978,M-1978-11,group stage,Group 2,0,0,1978-06-06,,S-003,Estadio Chateau Carreras,Córdoba,Argentina,T-82,West Germany,DEU,T-44,Mexico,MEX,6–0,6,0,6,-6,0,0,0-0,0,0,1,0,0
+1978,WC-1978,M-1978-12,group stage,Group 1,0,0,1978-06-06,,S-002,Estadio Monumental,Buenos Aires,Argentina,T-03,Argentina,ARG,T-28,France,FRA,2–1,2,1,1,-1,0,0,0-0,0,0,1,0,0
+1978,WC-1978,M-1978-13,group stage,Group 3,0,0,1978-06-07,,S-001,Estadio José Amalfitani,Buenos Aires,Argentina,T-05,Austria,AUT,T-71,Sweden,SWE,1–0,1,0,1,-1,0,0,0-0,0,0,1,0,0
+1978,WC-1978,M-1978-14,group stage,Group 3,0,0,1978-06-07,,S-004,Estadio José María Minella,Mar del Plata,Argentina,T-09,Brazil,BRA,T-70,Spain,ESP,0–0,0,0,0,0,0,0,0-0,0,0,0,0,1
+1978,WC-1978,M-1978-15,group stage,Group 4,0,0,1978-06-07,,S-005,Estadio Ciudad de Mendoza,Mendoza,Argentina,T-46,Netherlands,NLD,T-54,Peru,PER,0–0,0,0,0,0,0,0,0-0,0,0,0,0,1
+1978,WC-1978,M-1978-16,group stage,Group 4,0,0,1978-06-07,,S-003,Estadio Chateau Carreras,Córdoba,Argentina,T-61,Scotland,SCO,T-36,Iran,IRN,1–1,1,1,0,0,0,0,0-0,0,0,0,0,1
+1978,WC-1978,M-1978-17,group stage,Group 1,0,0,1978-06-10,,S-004,Estadio José María Minella,Mar del Plata,Argentina,T-28,France,FRA,T-34,Hungary,HUN,3–1,3,1,2,-2,0,0,0-0,0,0,1,0,0
+1978,WC-1978,M-1978-18,group stage,Group 2,0,0,1978-06-10,,S-006,Estadio Gigante de Arroyito,Rosario,Argentina,T-55,Poland,POL,T-44,Mexico,MEX,3–1,3,1,2,-2,0,0,0-0,0,0,1,0,0
+1978,WC-1978,M-1978-19,group stage,Group 2,0,0,1978-06-10,,S-003,Estadio Chateau Carreras,Córdoba,Argentina,T-82,West Germany,DEU,T-75,Tunisia,TUN,0–0,0,0,0,0,0,0,0-0,0,0,0,0,1
+1978,WC-1978,M-1978-20,group stage,Group 1,0,0,1978-06-10,,S-002,Estadio Monumental,Buenos Aires,Argentina,T-03,Argentina,ARG,T-39,Italy,ITA,0–1,0,1,-1,1,0,0,0-0,0,0,0,1,0
+1978,WC-1978,M-1978-21,group stage,Group 3,0,0,1978-06-11,,S-004,Estadio José María Minella,Mar del Plata,Argentina,T-09,Brazil,BRA,T-05,Austria,AUT,1–0,1,0,1,-1,0,0,0-0,0,0,1,0,0
+1978,WC-1978,M-1978-22,group stage,Group 3,0,0,1978-06-11,,S-001,Estadio José Amalfitani,Buenos Aires,Argentina,T-70,Spain,ESP,T-71,Sweden,SWE,1–0,1,0,1,-1,0,0,0-0,0,0,1,0,0
+1978,WC-1978,M-1978-23,group stage,Group 4,0,0,1978-06-11,,S-003,Estadio Chateau Carreras,Córdoba,Argentina,T-54,Peru,PER,T-36,Iran,IRN,4–1,4,1,3,-3,0,0,0-0,0,0,1,0,0
+1978,WC-1978,M-1978-24,group stage,Group 4,0,0,1978-06-11,,S-005,Estadio Ciudad de Mendoza,Mendoza,Argentina,T-61,Scotland,SCO,T-46,Netherlands,NLD,3–2,3,2,1,-1,0,0,0-0,0,0,1,0,0
+1978,WC-1978,M-1978-25,second group stage,Group A,0,0,1978-06-14,,S-003,Estadio Chateau Carreras,Córdoba,Argentina,T-05,Austria,AUT,T-46,Netherlands,NLD,1–5,1,5,-4,4,0,0,0-0,0,0,0,1,0
+1978,WC-1978,M-1978-26,second group stage,Group A,0,0,1978-06-14,,S-002,Estadio Monumental,Buenos Aires,Argentina,T-39,Italy,ITA,T-82,West Germany,DEU,0–0,0,0,0,0,0,0,0-0,0,0,0,0,1
+1978,WC-1978,M-1978-27,second group stage,Group B,0,0,1978-06-14,,S-005,Estadio Ciudad de Mendoza,Mendoza,Argentina,T-09,Brazil,BRA,T-54,Peru,PER,3–0,3,0,3,-3,0,0,0-0,0,0,1,0,0
+1978,WC-1978,M-1978-28,second group stage,Group B,0,0,1978-06-14,,S-006,Estadio Gigante de Arroyito,Rosario,Argentina,T-03,Argentina,ARG,T-55,Poland,POL,2–0,2,0,2,-2,0,0,0-0,0,0,1,0,0
+1978,WC-1978,M-1978-29,second group stage,Group B,0,0,1978-06-18,,S-005,Estadio Ciudad de Mendoza,Mendoza,Argentina,T-54,Peru,PER,T-55,Poland,POL,0–1,0,1,-1,1,0,0,0-0,0,0,0,1,0
+1978,WC-1978,M-1978-30,second group stage,Group A,0,0,1978-06-18,,S-002,Estadio Monumental,Buenos Aires,Argentina,T-39,Italy,ITA,T-05,Austria,AUT,1–0,1,0,1,-1,0,0,0-0,0,0,1,0,0
+1978,WC-1978,M-1978-31,second group stage,Group A,0,0,1978-06-18,,S-003,Estadio Chateau Carreras,Córdoba,Argentina,T-46,Netherlands,NLD,T-82,West Germany,DEU,2–2,2,2,0,0,0,0,0-0,0,0,0,0,1
+1978,WC-1978,M-1978-32,second group stage,Group B,0,0,1978-06-18,,S-006,Estadio Gigante de Arroyito,Rosario,Argentina,T-03,Argentina,ARG,T-09,Brazil,BRA,0–0,0,0,0,0,0,0,0-0,0,0,0,0,1
+1978,WC-1978,M-1978-33,second group stage,Group A,0,0,1978-06-21,,S-003,Estadio Chateau Carreras,Córdoba,Argentina,T-05,Austria,AUT,T-82,West Germany,DEU,3–2,3,2,1,-1,0,0,0-0,0,0,1,0,0
+1978,WC-1978,M-1978-34,second group stage,Group A,0,0,1978-06-21,,S-002,Estadio Monumental,Buenos Aires,Argentina,T-39,Italy,ITA,T-46,Netherlands,NLD,1–2,1,2,-1,1,0,0,0-0,0,0,0,1,0
+1978,WC-1978,M-1978-35,second group stage,Group B,0,0,1978-06-21,,S-005,Estadio Ciudad de Mendoza,Mendoza,Argentina,T-09,Brazil,BRA,T-55,Poland,POL,3–1,3,1,2,-2,0,0,0-0,0,0,1,0,0
+1978,WC-1978,M-1978-36,second group stage,Group B,0,0,1978-06-21,,S-006,Estadio Gigante de Arroyito,Rosario,Argentina,T-03,Argentina,ARG,T-54,Peru,PER,6–0,6,0,6,-6,0,0,0-0,0,0,1,0,0
+1978,WC-1978,M-1978-37,third-place match,,0,0,1978-06-24,,S-002,Estadio Monumental,Buenos Aires,Argentina,T-09,Brazil,BRA,T-39,Italy,ITA,2–1,2,1,1,-1,0,0,0-0,0,0,1,0,0
+1978,WC-1978,M-1978-38,final,,0,0,1978-06-25,,S-002,Estadio Monumental,Buenos Aires,Argentina,T-03,Argentina,ARG,T-46,Netherlands,NLD,3–1,3,1,2,-2,1,0,0-0,0,0,1,0,0
+1982,WC-1982,M-1982-01,group stage,Group 3,0,0,1982-06-13,,S-141,Camp Nou,Barcelona,Spain,T-03,Argentina,ARG,T-06,Belgium,BEL,0–1,0,1,-1,1,0,0,0-0,0,0,0,1,0
+1982,WC-1982,M-1982-02,group stage,Group 1,0,0,1982-06-14,,S-154,Balaídos,Vigo,Spain,T-39,Italy,ITA,T-55,Poland,POL,0–0,0,0,0,0,0,0,0-0,0,0,0,0,1
+1982,WC-1982,M-1982-03,group stage,Group 6,0,0,1982-06-14,,S-151,Estadio Ramón Sánchez Pizjuán,Seville,Spain,T-09,Brazil,BRA,T-69,Soviet Union,SUN,2–1,2,1,1,-1,0,0,0-0,0,0,1,0,0
+1982,WC-1982,M-1982-04,group stage,Group 1,0,0,1982-06-15,,S-139,Estadio Riazor,A Coruña,Spain,T-54,Peru,PER,T-11,Cameroon,CMR,0–0,0,0,0,0,0,0,0-0,0,0,0,0,1
+1982,WC-1982,M-1982-05,group stage,Group 3,0,0,1982-06-15,,S-144,Nuevo Estadio,Elche,Spain,T-34,Hungary,HUN,T-26,El Salvador,SLV,10–1,10,1,9,-9,0,0,0-0,0,0,1,0,0
+1982,WC-1982,M-1982-06,group stage,Group 6,0,0,1982-06-15,,S-148,Estadio La Rosaleda,Málaga,Spain,T-61,Scotland,SCO,T-47,New Zealand,NZL,5–2,5,2,3,-3,0,0,0-0,0,0,1,0,0
+1982,WC-1982,M-1982-07,group stage,Group 2,0,0,1982-06-16,,S-145,Estadio El Molinón,Gijón,Spain,T-82,West Germany,DEU,T-01,Algeria,DZA,1–2,1,2,-1,1,0,0,0-0,0,0,0,1,0
+1982,WC-1982,M-1982-08,group stage,Group 4,0,0,1982-06-16,,S-143,Estadio San Mamés,Bilbao,Spain,T-27,England,ENG,T-28,France,FRA,3–1,3,1,2,-2,0,0,0-0,0,0,1,0,0
+1982,WC-1982,M-1982-09,group stage,Group 5,0,0,1982-06-16,,S-152,Estadio Luis Casanova,Valencia,Spain,T-70,Spain,ESP,T-33,Honduras,HND,1–1,1,1,0,0,0,0,0-0,0,0,0,0,1
+1982,WC-1982,M-1982-10,group stage,Group 2,0,0,1982-06-17,,S-149,Estadio Carlos Tartiere,Oviedo,Spain,T-13,Chile,CHL,T-05,Austria,AUT,0–1,0,1,-1,1,0,0,0-0,0,0,0,1,0
+1982,WC-1982,M-1982-11,group stage,Group 4,0,0,1982-06-17,,S-153,Estadio José Zorrilla,Valladolid,Spain,T-20,Czechoslovakia,CSK,T-43,Kuwait,KWT,1–1,1,1,0,0,0,0,0-0,0,0,0,0,1
+1982,WC-1982,M-1982-12,group stage,Group 5,0,0,1982-06-17,,S-155,Estadio La Romareda,Zaragoza,Spain,T-83,Yugoslavia,YUG,T-50,Northern Ireland,NIR,0–0,0,0,0,0,0,0,0-0,0,0,0,0,1
+1982,WC-1982,M-1982-13,group stage,Group 1,0,0,1982-06-18,,S-154,Balaídos,Vigo,Spain,T-39,Italy,ITA,T-54,Peru,PER,1–1,1,1,0,0,0,0,0-0,0,0,0,0,1
+1982,WC-1982,M-1982-14,group stage,Group 3,0,0,1982-06-18,,S-140,Estadio José Rico Pérez,Alicante,Spain,T-03,Argentina,ARG,T-34,Hungary,HUN,4–1,4,1,3,-3,0,0,0-0,0,0,1,0,0
+1982,WC-1982,M-1982-15,group stage,Group 6,0,0,1982-06-18,,S-150,Estadio Benito Villamarín,Seville,Spain,T-09,Brazil,BRA,T-61,Scotland,SCO,4–1,4,1,3,-3,0,0,0-0,0,0,1,0,0
+1982,WC-1982,M-1982-16,group stage,Group 1,0,0,1982-06-19,,S-139,Estadio Riazor,A Coruña,Spain,T-55,Poland,POL,T-11,Cameroon,CMR,0–0,0,0,0,0,0,0,0-0,0,0,0,0,1
+1982,WC-1982,M-1982-17,group stage,Group 3,0,0,1982-06-19,,S-144,Nuevo Estadio,Elche,Spain,T-06,Belgium,BEL,T-26,El Salvador,SLV,1–0,1,0,1,-1,0,0,0-0,0,0,1,0,0
+1982,WC-1982,M-1982-18,group stage,Group 6,0,0,1982-06-19,,S-148,Estadio La Rosaleda,Málaga,Spain,T-69,Soviet Union,SUN,T-47,New Zealand,NZL,3–0,3,0,3,-3,0,0,0-0,0,0,1,0,0
+1982,WC-1982,M-1982-19,group stage,Group 2,0,0,1982-06-20,,S-145,Estadio El Molinón,Gijón,Spain,T-82,West Germany,DEU,T-13,Chile,CHL,4–1,4,1,3,-3,0,0,0-0,0,0,1,0,0
+1982,WC-1982,M-1982-20,group stage,Group 4,0,0,1982-06-20,,S-143,Estadio San Mamés,Bilbao,Spain,T-27,England,ENG,T-20,Czechoslovakia,CSK,2–0,2,0,2,-2,0,0,0-0,0,0,1,0,0
+1982,WC-1982,M-1982-21,group stage,Group 5,0,0,1982-06-20,,S-152,Estadio Luis Casanova,Valencia,Spain,T-70,Spain,ESP,T-83,Yugoslavia,YUG,2–1,2,1,1,-1,0,0,0-0,0,0,1,0,0
+1982,WC-1982,M-1982-22,group stage,Group 2,0,0,1982-06-21,,S-149,Estadio Carlos Tartiere,Oviedo,Spain,T-01,Algeria,DZA,T-05,Austria,AUT,0–2,0,2,-2,2,0,0,0-0,0,0,0,1,0
+1982,WC-1982,M-1982-23,group stage,Group 4,0,0,1982-06-21,,S-153,Estadio José Zorrilla,Valladolid,Spain,T-28,France,FRA,T-43,Kuwait,KWT,4–1,4,1,3,-3,0,0,0-0,0,0,1,0,0
+1982,WC-1982,M-1982-24,group stage,Group 5,0,0,1982-06-21,,S-155,Estadio La Romareda,Zaragoza,Spain,T-33,Honduras,HND,T-50,Northern Ireland,NIR,1–1,1,1,0,0,0,0,0-0,0,0,0,0,1
+1982,WC-1982,M-1982-25,group stage,Group 1,0,0,1982-06-22,,S-139,Estadio Riazor,A Coruña,Spain,T-55,Poland,POL,T-54,Peru,PER,5–1,5,1,4,-4,0,0,0-0,0,0,1,0,0
+1982,WC-1982,M-1982-26,group stage,Group 3,0,0,1982-06-22,,S-144,Nuevo Estadio,Elche,Spain,T-06,Belgium,BEL,T-34,Hungary,HUN,1–1,1,1,0,0,0,0,0-0,0,0,0,0,1
+1982,WC-1982,M-1982-27,group stage,Group 6,0,0,1982-06-22,,S-148,Estadio La Rosaleda,Málaga,Spain,T-69,Soviet Union,SUN,T-61,Scotland,SCO,2–2,2,2,0,0,0,0,0-0,0,0,0,0,1
+1982,WC-1982,M-1982-28,group stage,Group 1,0,0,1982-06-23,,S-154,Balaídos,Vigo,Spain,T-39,Italy,ITA,T-11,Cameroon,CMR,1–1,1,1,0,0,0,0,0-0,0,0,0,0,1
+1982,WC-1982,M-1982-29,group stage,Group 3,0,0,1982-06-23,,S-140,Estadio José Rico Pérez,Alicante,Spain,T-03,Argentina,ARG,T-26,El Salvador,SLV,2–0,2,0,2,-2,0,0,0-0,0,0,1,0,0
+1982,WC-1982,M-1982-30,group stage,Group 6,0,0,1982-06-23,,S-150,Estadio Benito Villamarín,Seville,Spain,T-09,Brazil,BRA,T-47,New Zealand,NZL,4–0,4,0,4,-4,0,0,0-0,0,0,1,0,0
+1982,WC-1982,M-1982-31,group stage,Group 2,0,0,1982-06-24,,S-149,Estadio Carlos Tartiere,Oviedo,Spain,T-01,Algeria,DZA,T-13,Chile,CHL,3–2,3,2,1,-1,0,0,0-0,0,0,1,0,0
+1982,WC-1982,M-1982-32,group stage,Group 4,0,0,1982-06-24,,S-153,Estadio José Zorrilla,Valladolid,Spain,T-28,France,FRA,T-20,Czechoslovakia,CSK,1–1,1,1,0,0,0,0,0-0,0,0,0,0,1
+1982,WC-1982,M-1982-33,group stage,Group 5,0,0,1982-06-24,,S-155,Estadio La Romareda,Zaragoza,Spain,T-33,Honduras,HND,T-83,Yugoslavia,YUG,0–1,0,1,-1,1,0,0,0-0,0,0,0,1,0
+1982,WC-1982,M-1982-34,group stage,Group 2,0,0,1982-06-25,,S-145,Estadio El Molinón,Gijón,Spain,T-82,West Germany,DEU,T-05,Austria,AUT,1–0,1,0,1,-1,0,0,0-0,0,0,1,0,0
+1982,WC-1982,M-1982-35,group stage,Group 4,0,0,1982-06-25,,S-143,Estadio San Mamés,Bilbao,Spain,T-27,England,ENG,T-43,Kuwait,KWT,1–0,1,0,1,-1,0,0,0-0,0,0,1,0,0
+1982,WC-1982,M-1982-36,group stage,Group 5,0,0,1982-06-25,,S-152,Estadio Luis Casanova,Valencia,Spain,T-70,Spain,ESP,T-50,Northern Ireland,NIR,0–1,0,1,-1,1,0,0,0-0,0,0,0,1,0
+1982,WC-1982,M-1982-37,second group stage,Group 4,0,0,1982-06-28,,S-147,Vicente Calderón,Madrid,Spain,T-05,Austria,AUT,T-28,France,FRA,0–1,0,1,-1,1,0,0,0-0,0,0,0,1,0
+1982,WC-1982,M-1982-38,second group stage,Group 1,0,0,1982-06-28,,S-141,Camp Nou,Barcelona,Spain,T-55,Poland,POL,T-06,Belgium,BEL,3–0,3,0,3,-3,0,0,0-0,0,0,1,0,0
+1982,WC-1982,M-1982-39,second group stage,Group 3,0,0,1982-06-29,,S-142,Estadi de Sarrià,Barcelona,Spain,T-39,Italy,ITA,T-03,Argentina,ARG,2–1,2,1,1,-1,0,0,0-0,0,0,1,0,0
+1982,WC-1982,M-1982-40,second group stage,Group 2,0,0,1982-06-29,,S-146,Estadio Santiago Bernabéu,Madrid,Spain,T-82,West Germany,DEU,T-27,England,ENG,0–0,0,0,0,0,0,0,0-0,0,0,0,0,1
+1982,WC-1982,M-1982-41,second group stage,Group 4,0,0,1982-07-01,,S-147,Vicente Calderón,Madrid,Spain,T-05,Austria,AUT,T-50,Northern Ireland,NIR,2–2,2,2,0,0,0,0,0-0,0,0,0,0,1
+1982,WC-1982,M-1982-42,second group stage,Group 1,0,0,1982-07-01,,S-141,Camp Nou,Barcelona,Spain,T-06,Belgium,BEL,T-69,Soviet Union,SUN,0–1,0,1,-1,1,0,0,0-0,0,0,0,1,0
+1982,WC-1982,M-1982-43,second group stage,Group 3,0,0,1982-07-02,,S-142,Estadi de Sarrià,Barcelona,Spain,T-03,Argentina,ARG,T-09,Brazil,BRA,1–3,1,3,-2,2,0,0,0-0,0,0,0,1,0
+1982,WC-1982,M-1982-44,second group stage,Group 2,0,0,1982-07-02,,S-146,Estadio Santiago Bernabéu,Madrid,Spain,T-82,West Germany,DEU,T-70,Spain,ESP,2–1,2,1,1,-1,0,0,0-0,0,0,1,0,0
+1982,WC-1982,M-1982-45,second group stage,Group 4,0,0,1982-07-04,,S-147,Vicente Calderón,Madrid,Spain,T-28,France,FRA,T-50,Northern Ireland,NIR,4–1,4,1,3,-3,0,0,0-0,0,0,1,0,0
+1982,WC-1982,M-1982-46,second group stage,Group 1,0,0,1982-07-04,,S-141,Camp Nou,Barcelona,Spain,T-69,Soviet Union,SUN,T-55,Poland,POL,0–0,0,0,0,0,0,0,0-0,0,0,0,0,1
+1982,WC-1982,M-1982-47,second group stage,Group 3,0,0,1982-07-05,,S-142,Estadi de Sarrià,Barcelona,Spain,T-39,Italy,ITA,T-09,Brazil,BRA,3–2,3,2,1,-1,0,0,0-0,0,0,1,0,0
+1982,WC-1982,M-1982-48,second group stage,Group 2,0,0,1982-07-05,,S-146,Estadio Santiago Bernabéu,Madrid,Spain,T-70,Spain,ESP,T-27,England,ENG,0–0,0,0,0,0,0,0,0-0,0,0,0,0,1
+1982,WC-1982,M-1982-49,semi-finals,,0,0,1982-07-08,,S-141,Camp Nou,Barcelona,Spain,T-55,Poland,POL,T-39,Italy,ITA,0–2,0,2,-2,2,0,0,0-0,0,0,0,1,0
+1982,WC-1982,M-1982-50,semi-finals,,0,0,1982-07-08,,S-151,Estadio Ramón Sánchez Pizjuán,Seville,Spain,T-82,West Germany,DEU,T-28,France,FRA,3–3,3,3,0,0,1,1,5–4,5,4,1,0,0
+1982,WC-1982,M-1982-51,third-place match,,0,0,1982-07-10,,S-140,Estadio José Rico Pérez,Alicante,Spain,T-55,Poland,POL,T-28,France,FRA,3–2,3,2,1,-1,0,0,0-0,0,0,1,0,0
+1982,WC-1982,M-1982-52,final,,0,0,1982-07-11,,S-146,Estadio Santiago Bernabéu,Madrid,Spain,T-39,Italy,ITA,T-82,West Germany,DEU,3–1,3,1,2,-2,0,0,0-0,0,0,1,0,0
+1986,WC-1986,M-1986-01,group stage,Group A,0,0,1986-05-31,,S-099,Estadio Azteca,Mexico City,Mexico,T-10,Bulgaria,BGR,T-39,Italy,ITA,1–1,1,1,0,0,0,0,0-0,0,0,0,0,1
+1986,WC-1986,M-1986-02,group stage,Group D,0,0,1986-06-01,,S-095,Estadio Jalisco,Guadalajara,Mexico,T-70,Spain,ESP,T-09,Brazil,BRA,0–1,0,1,-1,1,0,0,0-0,0,0,0,1,0
+1986,WC-1986,M-1986-03,group stage,Group C,0,0,1986-06-01,,S-098,Estadio Nou Camp,León,Mexico,T-12,Canada,CAN,T-28,France,FRA,0–1,0,1,-1,1,0,0,0-0,0,0,0,1,0
+1986,WC-1986,M-1986-04,group stage,Group A,0,0,1986-06-02,,S-100,Estadio Olímpico Universitario,Mexico City,Mexico,T-03,Argentina,ARG,T-68,South Korea,KOR,3–1,3,1,2,-2,0,0,0-0,0,0,1,0,0
+1986,WC-1986,M-1986-05,group stage,Group C,0,0,1986-06-02,,S-097,Estadio Sergio León Chavez,Irapuato,Mexico,T-69,Soviet Union,SUN,T-34,Hungary,HUN,6–0,6,0,6,-6,0,0,0-0,0,0,1,0,0
+1986,WC-1986,M-1986-06,group stage,Group F,0,0,1986-06-02,,S-102,Estadio Universitario,Monterrey,Mexico,T-45,Morocco,MAR,T-55,Poland,POL,0–0,0,0,0,0,0,0,0-0,0,0,0,0,1
+1986,WC-1986,M-1986-07,group stage,Group B,0,0,1986-06-03,,S-099,Estadio Azteca,Mexico City,Mexico,T-06,Belgium,BEL,T-44,Mexico,MEX,1–2,1,2,-1,1,0,0,0-0,0,0,0,1,0
+1986,WC-1986,M-1986-08,group stage,Group D,0,0,1986-06-03,,S-096,Estadio Tres de Marzo,Guadalajara,Mexico,T-01,Algeria,DZA,T-50,Northern Ireland,NIR,1–1,1,1,0,0,0,0,0-0,0,0,0,0,1
+1986,WC-1986,M-1986-09,group stage,Group F,0,0,1986-06-03,,S-101,Estadio Tecnológico,Monterrey,Mexico,T-56,Portugal,PRT,T-27,England,ENG,1–0,1,0,1,-1,0,0,0-0,0,0,1,0,0
+1986,WC-1986,M-1986-10,group stage,Group B,0,0,1986-06-04,,S-106,La Bombonera,Toluca,Mexico,T-53,Paraguay,PRY,T-37,Iraq,IRQ,1–0,1,0,1,-1,0,0,0-0,0,0,1,0,0
+1986,WC-1986,M-1986-11,group stage,Group E,0,0,1986-06-04,,S-105,Estadio La Corregidora,Querétaro,Mexico,T-80,Uruguay,URY,T-82,West Germany,DEU,1–1,1,1,0,0,0,0,0-0,0,0,0,0,1
+1986,WC-1986,M-1986-12,group stage,Group E,0,0,1986-06-04,,S-103,Estadio Neza 86,Nezahualcóyotl,Mexico,T-61,Scotland,SCO,T-21,Denmark,DNK,0–1,0,1,-1,1,0,0,0-0,0,0,0,1,0
+1986,WC-1986,M-1986-13,group stage,Group A,0,0,1986-06-05,,S-104,Estadio Cuauhtémoc,Puebla,Mexico,T-39,Italy,ITA,T-03,Argentina,ARG,1–1,1,1,0,0,0,0,0-0,0,0,0,0,1
+1986,WC-1986,M-1986-14,group stage,Group C,0,0,1986-06-05,,S-098,Estadio Nou Camp,León,Mexico,T-28,France,FRA,T-69,Soviet Union,SUN,1–1,1,1,0,0,0,0,0-0,0,0,0,0,1
+1986,WC-1986,M-1986-15,group stage,Group A,0,0,1986-06-05,,S-100,Estadio Olímpico Universitario,Mexico City,Mexico,T-68,South Korea,KOR,T-10,Bulgaria,BGR,1–1,1,1,0,0,0,0,0-0,0,0,0,0,1
+1986,WC-1986,M-1986-16,group stage,Group C,0,0,1986-06-06,,S-097,Estadio Sergio León Chavez,Irapuato,Mexico,T-34,Hungary,HUN,T-12,Canada,CAN,2–0,2,0,2,-2,0,0,0-0,0,0,1,0,0
+1986,WC-1986,M-1986-17,group stage,Group D,0,0,1986-06-06,,S-095,Estadio Jalisco,Guadalajara,Mexico,T-09,Brazil,BRA,T-01,Algeria,DZA,1–0,1,0,1,-1,0,0,0-0,0,0,1,0,0
+1986,WC-1986,M-1986-18,group stage,Group F,0,0,1986-06-06,,S-101,Estadio Tecnológico,Monterrey,Mexico,T-27,England,ENG,T-45,Morocco,MAR,0–0,0,0,0,0,0,0,0-0,0,0,0,0,1
+1986,WC-1986,M-1986-19,group stage,Group B,0,0,1986-06-07,,S-099,Estadio Azteca,Mexico City,Mexico,T-44,Mexico,MEX,T-53,Paraguay,PRY,1–1,1,1,0,0,0,0,0-0,0,0,0,0,1
+1986,WC-1986,M-1986-20,group stage,Group D,0,0,1986-06-07,,S-096,Estadio Tres de Marzo,Guadalajara,Mexico,T-50,Northern Ireland,NIR,T-70,Spain,ESP,1–2,1,2,-1,1,0,0,0-0,0,0,0,1,0
+1986,WC-1986,M-1986-21,group stage,Group F,0,0,1986-06-07,,S-102,Estadio Universitario,Monterrey,Mexico,T-55,Poland,POL,T-56,Portugal,PRT,1–0,1,0,1,-1,0,0,0-0,0,0,1,0,0
+1986,WC-1986,M-1986-22,group stage,Group B,0,0,1986-06-08,,S-106,La Bombonera,Toluca,Mexico,T-37,Iraq,IRQ,T-06,Belgium,BEL,1–2,1,2,-1,1,0,0,0-0,0,0,0,1,0
+1986,WC-1986,M-1986-23,group stage,Group E,0,0,1986-06-08,,S-105,Estadio La Corregidora,Querétaro,Mexico,T-82,West Germany,DEU,T-61,Scotland,SCO,2–1,2,1,1,-1,0,0,0-0,0,0,1,0,0
+1986,WC-1986,M-1986-24,group stage,Group E,0,0,1986-06-08,,S-103,Estadio Neza 86,Nezahualcóyotl,Mexico,T-21,Denmark,DNK,T-80,Uruguay,URY,6–1,6,1,5,-5,0,0,0-0,0,0,1,0,0
+1986,WC-1986,M-1986-25,group stage,Group C,0,0,1986-06-09,,S-098,Estadio Nou Camp,León,Mexico,T-34,Hungary,HUN,T-28,France,FRA,0–3,0,3,-3,3,0,0,0-0,0,0,0,1,0
+1986,WC-1986,M-1986-26,group stage,Group C,0,0,1986-06-09,,S-097,Estadio Sergio León Chavez,Irapuato,Mexico,T-69,Soviet Union,SUN,T-12,Canada,CAN,2–0,2,0,2,-2,0,0,0-0,0,0,1,0,0
+1986,WC-1986,M-1986-27,group stage,Group A,0,0,1986-06-10,,S-100,Estadio Olímpico Universitario,Mexico City,Mexico,T-03,Argentina,ARG,T-10,Bulgaria,BGR,2–0,2,0,2,-2,0,0,0-0,0,0,1,0,0
+1986,WC-1986,M-1986-28,group stage,Group A,0,0,1986-06-10,,S-104,Estadio Cuauhtémoc,Puebla,Mexico,T-68,South Korea,KOR,T-39,Italy,ITA,2–3,2,3,-1,1,0,0,0-0,0,0,0,1,0
+1986,WC-1986,M-1986-29,group stage,Group B,0,0,1986-06-11,,S-099,Estadio Azteca,Mexico City,Mexico,T-37,Iraq,IRQ,T-44,Mexico,MEX,0–1,0,1,-1,1,0,0,0-0,0,0,0,1,0
+1986,WC-1986,M-1986-30,group stage,Group B,0,0,1986-06-11,,S-106,La Bombonera,Toluca,Mexico,T-53,Paraguay,PRY,T-06,Belgium,BEL,2–2,2,2,0,0,0,0,0-0,0,0,0,0,1
+1986,WC-1986,M-1986-31,group stage,Group F,0,0,1986-06-11,,S-102,Estadio Universitario,Monterrey,Mexico,T-27,England,ENG,T-55,Poland,POL,3–0,3,0,3,-3,0,0,0-0,0,0,1,0,0
+1986,WC-1986,M-1986-32,group stage,Group F,0,0,1986-06-11,,S-096,Estadio Tres de Marzo,Guadalajara,Mexico,T-56,Portugal,PRT,T-45,Morocco,MAR,1–3,1,3,-2,2,0,0,0-0,0,0,0,1,0
+1986,WC-1986,M-1986-33,group stage,Group D,0,0,1986-06-12,,S-101,Estadio Tecnológico,Monterrey,Mexico,T-01,Algeria,DZA,T-70,Spain,ESP,0–3,0,3,-3,3,0,0,0-0,0,0,0,1,0
+1986,WC-1986,M-1986-34,group stage,Group D,0,0,1986-06-12,,S-095,Estadio Jalisco,Guadalajara,Mexico,T-50,Northern Ireland,NIR,T-09,Brazil,BRA,0–3,0,3,-3,3,0,0,0-0,0,0,0,1,0
+1986,WC-1986,M-1986-35,group stage,Group E,0,0,1986-06-13,,S-105,Estadio La Corregidora,Querétaro,Mexico,T-21,Denmark,DNK,T-82,West Germany,DEU,2–0,2,0,2,-2,0,0,0-0,0,0,1,0,0
+1986,WC-1986,M-1986-36,group stage,Group E,0,0,1986-06-13,,S-103,Estadio Neza 86,Nezahualcóyotl,Mexico,T-61,Scotland,SCO,T-80,Uruguay,URY,0–0,0,0,0,0,0,0,0-0,0,0,0,0,1
+1986,WC-1986,M-1986-37,round of 16,,0,0,1986-06-15,,S-099,Estadio Azteca,Mexico City,Mexico,T-44,Mexico,MEX,T-10,Bulgaria,BGR,2–0,2,0,2,-2,0,0,0-0,0,0,1,0,0
+1986,WC-1986,M-1986-38,round of 16,,0,0,1986-06-15,,S-098,Estadio Nou Camp,León,Mexico,T-69,Soviet Union,SUN,T-06,Belgium,BEL,3–4,3,4,-1,1,1,0,0-0,0,0,0,1,0
+1986,WC-1986,M-1986-39,round of 16,,0,0,1986-06-16,,S-095,Estadio Jalisco,Guadalajara,Mexico,T-09,Brazil,BRA,T-55,Poland,POL,4–0,4,0,4,-4,0,0,0-0,0,0,1,0,0
+1986,WC-1986,M-1986-40,round of 16,,0,0,1986-06-16,,S-104,Estadio Cuauhtémoc,Puebla,Mexico,T-03,Argentina,ARG,T-80,Uruguay,URY,1–0,1,0,1,-1,0,0,0-0,0,0,1,0,0
+1986,WC-1986,M-1986-41,round of 16,,0,0,1986-06-17,,S-100,Estadio Olímpico Universitario,Mexico City,Mexico,T-39,Italy,ITA,T-28,France,FRA,0–2,0,2,-2,2,0,0,0-0,0,0,0,1,0
+1986,WC-1986,M-1986-42,round of 16,,0,0,1986-06-17,,S-102,Estadio Universitario,Monterrey,Mexico,T-45,Morocco,MAR,T-82,West Germany,DEU,0–1,0,1,-1,1,0,0,0-0,0,0,0,1,0
+1986,WC-1986,M-1986-43,round of 16,,0,0,1986-06-18,,S-099,Estadio Azteca,Mexico City,Mexico,T-27,England,ENG,T-53,Paraguay,PRY,3–0,3,0,3,-3,0,0,0-0,0,0,1,0,0
+1986,WC-1986,M-1986-44,round of 16,,0,0,1986-06-18,,S-105,Estadio La Corregidora,Querétaro,Mexico,T-21,Denmark,DNK,T-70,Spain,ESP,1–5,1,5,-4,4,0,0,0-0,0,0,0,1,0
+1986,WC-1986,M-1986-45,quarter-finals,,0,0,1986-06-21,,S-095,Estadio Jalisco,Guadalajara,Mexico,T-09,Brazil,BRA,T-28,France,FRA,1–1,1,1,0,0,1,1,3–4,3,4,0,1,0
+1986,WC-1986,M-1986-46,quarter-finals,,0,0,1986-06-21,,S-102,Estadio Universitario,Monterrey,Mexico,T-82,West Germany,DEU,T-44,Mexico,MEX,0–0,0,0,0,0,1,1,4–1,4,1,1,0,0
+1986,WC-1986,M-1986-47,quarter-finals,,0,0,1986-06-22,,S-099,Estadio Azteca,Mexico City,Mexico,T-03,Argentina,ARG,T-27,England,ENG,2–1,2,1,1,-1,0,0,0-0,0,0,1,0,0
+1986,WC-1986,M-1986-48,quarter-finals,,0,0,1986-06-22,,S-104,Estadio Cuauhtémoc,Puebla,Mexico,T-70,Spain,ESP,T-06,Belgium,BEL,1–1,1,1,0,0,1,1,4–5,4,5,0,1,0
+1986,WC-1986,M-1986-49,semi-finals,,0,0,1986-06-25,,S-095,Estadio Jalisco,Guadalajara,Mexico,T-28,France,FRA,T-82,West Germany,DEU,0–2,0,2,-2,2,0,0,0-0,0,0,0,1,0
+1986,WC-1986,M-1986-50,semi-finals,,0,0,1986-06-25,,S-099,Estadio Azteca,Mexico City,Mexico,T-03,Argentina,ARG,T-06,Belgium,BEL,2–0,2,0,2,-2,0,0,0-0,0,0,1,0,0
+1986,WC-1986,M-1986-51,third-place match,,0,0,1986-06-28,,S-104,Estadio Cuauhtémoc,Puebla,Mexico,T-06,Belgium,BEL,T-28,France,FRA,2–4,2,4,-2,2,1,0,0-0,0,0,0,1,0
+1986,WC-1986,M-1986-52,final,,0,0,1986-06-29,,S-099,Estadio Azteca,Mexico City,Mexico,T-03,Argentina,ARG,T-82,West Germany,DEU,3–2,3,2,1,-1,0,0,0-0,0,0,1,0,0
+1990,WC-1990,M-1990-01,group stage,Group B,0,0,1990-06-08,,S-074,San Siro,Milan,Italy,T-03,Argentina,ARG,T-11,Cameroon,CMR,0–1,0,1,-1,1,0,0,0-0,0,0,0,1,0
+1990,WC-1990,M-1990-02,group stage,Group B,0,0,1990-06-09,,S-068,Stadio San Nicola,Bari,Italy,T-69,Soviet Union,SUN,T-58,Romania,ROU,0–2,0,2,-2,2,0,0,0-0,0,0,0,1,0
+1990,WC-1990,M-1990-03,group stage,Group D,0,0,1990-06-09,,S-069,Stadio Renato Dall'Ara,Bologna,Italy,T-78,United Arab Emirates,ARE,T-15,Colombia,COL,0–2,0,2,-2,2,0,0,0-0,0,0,0,1,0
+1990,WC-1990,M-1990-04,group stage,Group A,0,0,1990-06-09,,S-079,Stadio Olimpico,Rome,Italy,T-39,Italy,ITA,T-05,Austria,AUT,1–0,1,0,1,-1,0,0,0-0,0,0,1,0,0
+1990,WC-1990,M-1990-05,group stage,Group A,0,0,1990-06-10,,S-071,Stadio Comunale,Florence,Italy,T-79,United States,USA,T-20,Czechoslovakia,CSK,1–5,1,5,-4,4,0,0,0-0,0,0,0,1,0
+1990,WC-1990,M-1990-06,group stage,Group C,0,0,1990-06-10,,S-082,Stadio delle Alpi,Turin,Italy,T-09,Brazil,BRA,T-71,Sweden,SWE,2–1,2,1,1,-1,0,0,0-0,0,0,1,0,0
+1990,WC-1990,M-1990-07,group stage,Group D,0,0,1990-06-10,,S-074,San Siro,Milan,Italy,T-82,West Germany,DEU,T-83,Yugoslavia,YUG,4–1,4,1,3,-3,0,0,0-0,0,0,1,0,0
+1990,WC-1990,M-1990-08,group stage,Group C,0,0,1990-06-11,,S-073,Stadio Luigi Ferraris,Genoa,Italy,T-16,Costa Rica,CRI,T-61,Scotland,SCO,1–0,1,0,1,-1,0,0,0-0,0,0,1,0,0
+1990,WC-1990,M-1990-09,group stage,Group F,0,0,1990-06-11,,S-070,Stadio Sant'Elia,Cagliari,Italy,T-27,England,ENG,T-57,Republic of Ireland,IRL,1–1,1,1,0,0,0,0,0-0,0,0,0,0,1
+1990,WC-1990,M-1990-10,group stage,Group E,0,0,1990-06-12,,S-084,Stadio Marc'Antonio Bentegodi,Verona,Italy,T-06,Belgium,BEL,T-68,South Korea,KOR,2–0,2,0,2,-2,0,0,0-0,0,0,1,0,0
+1990,WC-1990,M-1990-11,group stage,Group F,0,0,1990-06-12,,S-077,Stadio La Favorita,Palermo,Italy,T-46,Netherlands,NLD,T-25,Egypt,EGY,1–1,1,1,0,0,0,0,0-0,0,0,0,0,1
+1990,WC-1990,M-1990-12,group stage,Group E,0,0,1990-06-13,,S-083,Stadio Friuli,Udine,Italy,T-80,Uruguay,URY,T-70,Spain,ESP,0–0,0,0,0,0,0,0,0-0,0,0,0,0,1
+1990,WC-1990,M-1990-13,group stage,Group B,0,0,1990-06-13,,S-076,Stadio San Paolo,Naples,Italy,T-03,Argentina,ARG,T-69,Soviet Union,SUN,2–0,2,0,2,-2,0,0,0-0,0,0,1,0,0
+1990,WC-1990,M-1990-14,group stage,Group B,0,0,1990-06-14,,S-068,Stadio San Nicola,Bari,Italy,T-11,Cameroon,CMR,T-58,Romania,ROU,2–1,2,1,1,-1,0,0,0-0,0,0,1,0,0
+1990,WC-1990,M-1990-15,group stage,Group D,0,0,1990-06-14,,S-069,Stadio Renato Dall'Ara,Bologna,Italy,T-83,Yugoslavia,YUG,T-15,Colombia,COL,1–0,1,0,1,-1,0,0,0-0,0,0,1,0,0
+1990,WC-1990,M-1990-16,group stage,Group A,0,0,1990-06-14,,S-079,Stadio Olimpico,Rome,Italy,T-39,Italy,ITA,T-79,United States,USA,1–0,1,0,1,-1,0,0,0-0,0,0,1,0,0
+1990,WC-1990,M-1990-17,group stage,Group A,0,0,1990-06-15,,S-071,Stadio Comunale,Florence,Italy,T-05,Austria,AUT,T-20,Czechoslovakia,CSK,0–1,0,1,-1,1,0,0,0-0,0,0,0,1,0
+1990,WC-1990,M-1990-18,group stage,Group D,0,0,1990-06-15,,S-074,San Siro,Milan,Italy,T-82,West Germany,DEU,T-78,United Arab Emirates,ARE,5–1,5,1,4,-4,0,0,0-0,0,0,1,0,0
+1990,WC-1990,M-1990-19,group stage,Group C,0,0,1990-06-16,,S-082,Stadio delle Alpi,Turin,Italy,T-09,Brazil,BRA,T-16,Costa Rica,CRI,1–0,1,0,1,-1,0,0,0-0,0,0,1,0,0
+1990,WC-1990,M-1990-20,group stage,Group C,0,0,1990-06-16,,S-073,Stadio Luigi Ferraris,Genoa,Italy,T-71,Sweden,SWE,T-61,Scotland,SCO,1–2,1,2,-1,1,0,0,0-0,0,0,0,1,0
+1990,WC-1990,M-1990-21,group stage,Group F,0,0,1990-06-16,,S-070,Stadio Sant'Elia,Cagliari,Italy,T-27,England,ENG,T-46,Netherlands,NLD,0–0,0,0,0,0,0,0,0-0,0,0,0,0,1
+1990,WC-1990,M-1990-22,group stage,Group F,0,0,1990-06-17,,S-077,Stadio La Favorita,Palermo,Italy,T-57,Republic of Ireland,IRL,T-25,Egypt,EGY,0–0,0,0,0,0,0,0,0-0,0,0,0,0,1
+1990,WC-1990,M-1990-23,group stage,Group E,0,0,1990-06-17,,S-084,Stadio Marc'Antonio Bentegodi,Verona,Italy,T-06,Belgium,BEL,T-80,Uruguay,URY,3–1,3,1,2,-2,0,0,0-0,0,0,1,0,0
+1990,WC-1990,M-1990-24,group stage,Group E,0,0,1990-06-17,,S-083,Stadio Friuli,Udine,Italy,T-68,South Korea,KOR,T-70,Spain,ESP,1–3,1,3,-2,2,0,0,0-0,0,0,0,1,0
+1990,WC-1990,M-1990-25,group stage,Group B,0,0,1990-06-18,,S-076,Stadio San Paolo,Naples,Italy,T-03,Argentina,ARG,T-58,Romania,ROU,1–1,1,1,0,0,0,0,0-0,0,0,0,0,1
+1990,WC-1990,M-1990-26,group stage,Group B,0,0,1990-06-18,,S-068,Stadio San Nicola,Bari,Italy,T-11,Cameroon,CMR,T-69,Soviet Union,SUN,0–4,0,4,-4,4,0,0,0-0,0,0,0,1,0
+1990,WC-1990,M-1990-27,group stage,Group D,0,0,1990-06-19,,S-074,San Siro,Milan,Italy,T-82,West Germany,DEU,T-15,Colombia,COL,1–1,1,1,0,0,0,0,0-0,0,0,0,0,1
+1990,WC-1990,M-1990-28,group stage,Group D,0,0,1990-06-19,,S-069,Stadio Renato Dall'Ara,Bologna,Italy,T-83,Yugoslavia,YUG,T-78,United Arab Emirates,ARE,4–1,4,1,3,-3,0,0,0-0,0,0,1,0,0
+1990,WC-1990,M-1990-29,group stage,Group A,0,0,1990-06-19,,S-071,Stadio Comunale,Florence,Italy,T-05,Austria,AUT,T-79,United States,USA,2–1,2,1,1,-1,0,0,0-0,0,0,1,0,0
+1990,WC-1990,M-1990-30,group stage,Group A,0,0,1990-06-19,,S-079,Stadio Olimpico,Rome,Italy,T-39,Italy,ITA,T-20,Czechoslovakia,CSK,2–0,2,0,2,-2,0,0,0-0,0,0,1,0,0
+1990,WC-1990,M-1990-31,group stage,Group C,0,0,1990-06-20,,S-082,Stadio delle Alpi,Turin,Italy,T-09,Brazil,BRA,T-61,Scotland,SCO,1–0,1,0,1,-1,0,0,0-0,0,0,1,0,0
+1990,WC-1990,M-1990-32,group stage,Group C,0,0,1990-06-20,,S-073,Stadio Luigi Ferraris,Genoa,Italy,T-71,Sweden,SWE,T-16,Costa Rica,CRI,1–2,1,2,-1,1,0,0,0-0,0,0,0,1,0
+1990,WC-1990,M-1990-33,group stage,Group E,0,0,1990-06-21,,S-084,Stadio Marc'Antonio Bentegodi,Verona,Italy,T-06,Belgium,BEL,T-70,Spain,ESP,1–2,1,2,-1,1,0,0,0-0,0,0,0,1,0
+1990,WC-1990,M-1990-34,group stage,Group E,0,0,1990-06-21,,S-083,Stadio Friuli,Udine,Italy,T-68,South Korea,KOR,T-80,Uruguay,URY,0–1,0,1,-1,1,0,0,0-0,0,0,0,1,0
+1990,WC-1990,M-1990-35,group stage,Group F,0,0,1990-06-21,,S-070,Stadio Sant'Elia,Cagliari,Italy,T-27,England,ENG,T-25,Egypt,EGY,1–0,1,0,1,-1,0,0,0-0,0,0,1,0,0
+1990,WC-1990,M-1990-36,group stage,Group F,0,0,1990-06-21,,S-077,Stadio La Favorita,Palermo,Italy,T-57,Republic of Ireland,IRL,T-46,Netherlands,NLD,1–1,1,1,0,0,0,0,0-0,0,0,0,0,1
+1990,WC-1990,M-1990-37,round of 16,,0,0,1990-06-23,,S-076,Stadio San Paolo,Naples,Italy,T-11,Cameroon,CMR,T-15,Colombia,COL,2–1,2,1,1,-1,1,0,0-0,0,0,1,0,0
+1990,WC-1990,M-1990-38,round of 16,,0,0,1990-06-23,,S-068,Stadio San Nicola,Bari,Italy,T-20,Czechoslovakia,CSK,T-16,Costa Rica,CRI,4–1,4,1,3,-3,0,0,0-0,0,0,1,0,0
+1990,WC-1990,M-1990-39,round of 16,,0,0,1990-06-24,,S-082,Stadio delle Alpi,Turin,Italy,T-09,Brazil,BRA,T-03,Argentina,ARG,0–1,0,1,-1,1,0,0,0-0,0,0,0,1,0
+1990,WC-1990,M-1990-40,round of 16,,0,0,1990-06-24,,S-074,San Siro,Milan,Italy,T-82,West Germany,DEU,T-46,Netherlands,NLD,2–1,2,1,1,-1,0,0,0-0,0,0,1,0,0
+1990,WC-1990,M-1990-41,round of 16,,0,0,1990-06-25,,S-073,Stadio Luigi Ferraris,Genoa,Italy,T-57,Republic of Ireland,IRL,T-58,Romania,ROU,0–0,0,0,0,0,1,1,5–4,5,4,1,0,0
+1990,WC-1990,M-1990-42,round of 16,,0,0,1990-06-25,,S-079,Stadio Olimpico,Rome,Italy,T-39,Italy,ITA,T-80,Uruguay,URY,2–0,2,0,2,-2,0,0,0-0,0,0,1,0,0
+1990,WC-1990,M-1990-43,round of 16,,0,0,1990-06-26,,S-084,Stadio Marc'Antonio Bentegodi,Verona,Italy,T-70,Spain,ESP,T-83,Yugoslavia,YUG,1–2,1,2,-1,1,1,0,0-0,0,0,0,1,0
+1990,WC-1990,M-1990-44,round of 16,,0,0,1990-06-26,,S-069,Stadio Renato Dall'Ara,Bologna,Italy,T-27,England,ENG,T-06,Belgium,BEL,1–0,1,0,1,-1,1,0,0-0,0,0,1,0,0
+1990,WC-1990,M-1990-45,quarter-finals,,0,0,1990-06-30,,S-071,Stadio Comunale,Florence,Italy,T-03,Argentina,ARG,T-83,Yugoslavia,YUG,0–0,0,0,0,0,1,1,3–2,3,2,1,0,0
+1990,WC-1990,M-1990-46,quarter-finals,,0,0,1990-06-30,,S-079,Stadio Olimpico,Rome,Italy,T-57,Republic of Ireland,IRL,T-39,Italy,ITA,0–1,0,1,-1,1,0,0,0-0,0,0,0,1,0
+1990,WC-1990,M-1990-47,quarter-finals,,0,0,1990-07-01,,S-074,San Siro,Milan,Italy,T-20,Czechoslovakia,CSK,T-82,West Germany,DEU,0–1,0,1,-1,1,0,0,0-0,0,0,0,1,0
+1990,WC-1990,M-1990-48,quarter-finals,,0,0,1990-07-01,,S-076,Stadio San Paolo,Naples,Italy,T-11,Cameroon,CMR,T-27,England,ENG,2–3,2,3,-1,1,1,0,0-0,0,0,0,1,0
+1990,WC-1990,M-1990-49,semi-finals,,0,0,1990-07-03,,S-076,Stadio San Paolo,Naples,Italy,T-03,Argentina,ARG,T-39,Italy,ITA,1–1,1,1,0,0,1,1,4–3,4,3,1,0,0
+1990,WC-1990,M-1990-50,semi-finals,,0,0,1990-07-04,,S-082,Stadio delle Alpi,Turin,Italy,T-82,West Germany,DEU,T-27,England,ENG,1–1,1,1,0,0,1,1,4–3,4,3,1,0,0
+1990,WC-1990,M-1990-51,third-place match,,0,0,1990-07-07,,S-068,Stadio San Nicola,Bari,Italy,T-39,Italy,ITA,T-27,England,ENG,2–1,2,1,1,-1,0,0,0-0,0,0,1,0,0
+1990,WC-1990,M-1990-52,final,,0,0,1990-07-08,,S-079,Stadio Olimpico,Rome,Italy,T-82,West Germany,DEU,T-03,Argentina,ARG,1–0,1,0,1,-1,0,0,0-0,0,0,1,0,0
+1994,WC-1994,M-1994-01,group stage,Group C,0,0,1994-06-17,,S-174,Soldier Field,Chicago,United States,T-29,Germany,DEU,T-07,Bolivia,BOL,1–0,1,0,1,-1,0,0,0-0,0,0,1,0,0
+1994,WC-1994,M-1994-02,group stage,Group C,0,0,1994-06-17,,S-175,Cotton Bowl,Dallas,United States,T-70,Spain,ESP,T-68,South Korea,KOR,2–2,2,2,0,0,0,0,0-0,0,0,0,0,1
+1994,WC-1994,M-1994-03,group stage,Group A,0,0,1994-06-18,,S-180,Pontiac Silverdome,Pontiac,United States,T-79,United States,USA,T-72,Switzerland,CHE,1–1,1,1,0,0,0,0,0-0,0,0,0,0,1
+1994,WC-1994,M-1994-04,group stage,Group E,0,0,1994-06-18,,S-176,Giants Stadium,East Rutherford,United States,T-39,Italy,ITA,T-57,Republic of Ireland,IRL,0–1,0,1,-1,1,0,0,0-0,0,0,0,1,0
+1994,WC-1994,M-1994-05,group stage,Group A,0,0,1994-06-18,,S-179,Rose Bowl,Pasadena,United States,T-15,Colombia,COL,T-58,Romania,ROU,1–3,1,3,-2,2,0,0,0-0,0,0,0,1,0
+1994,WC-1994,M-1994-06,group stage,Group F,0,0,1994-06-19,,S-178,Citrus Bowl,Orlando,United States,T-06,Belgium,BEL,T-45,Morocco,MAR,1–0,1,0,1,-1,0,0,0-0,0,0,1,0,0
+1994,WC-1994,M-1994-07,group stage,Group E,0,0,1994-06-19,,S-182,RFK Stadium,"Washington, D.C.",United States,T-51,Norway,NOR,T-44,Mexico,MEX,1–0,1,0,1,-1,0,0,0-0,0,0,1,0,0
+1994,WC-1994,M-1994-08,group stage,Group B,0,0,1994-06-19,,S-179,Rose Bowl,Pasadena,United States,T-11,Cameroon,CMR,T-71,Sweden,SWE,2–2,2,2,0,0,0,0,0-0,0,0,0,0,1
+1994,WC-1994,M-1994-09,group stage,Group B,0,0,1994-06-20,,S-181,Stanford Stadium,Stanford,United States,T-09,Brazil,BRA,T-59,Russia,RUS,2–0,2,0,2,-2,0,0,0-0,0,0,1,0,0
+1994,WC-1994,M-1994-10,group stage,Group F,0,0,1994-06-20,,S-182,RFK Stadium,"Washington, D.C.",United States,T-46,Netherlands,NLD,T-60,Saudi Arabia,SAU,2–1,2,1,1,-1,0,0,0-0,0,0,1,0,0
+1994,WC-1994,M-1994-11,group stage,Group D,0,0,1994-06-21,,S-177,Foxboro Stadium,Foxborough,United States,T-03,Argentina,ARG,T-31,Greece,GRC,4–0,4,0,4,-4,0,0,0-0,0,0,1,0,0
+1994,WC-1994,M-1994-12,group stage,Group C,0,0,1994-06-21,,S-174,Soldier Field,Chicago,United States,T-29,Germany,DEU,T-70,Spain,ESP,1–1,1,1,0,0,0,0,0-0,0,0,0,0,1
+1994,WC-1994,M-1994-13,group stage,Group D,0,0,1994-06-21,,S-175,Cotton Bowl,Dallas,United States,T-48,Nigeria,NGA,T-10,Bulgaria,BGR,3–0,3,0,3,-3,0,0,0-0,0,0,1,0,0
+1994,WC-1994,M-1994-14,group stage,Group A,0,0,1994-06-22,,S-180,Pontiac Silverdome,Pontiac,United States,T-58,Romania,ROU,T-72,Switzerland,CHE,1–4,1,4,-3,3,0,0,0-0,0,0,0,1,0
+1994,WC-1994,M-1994-15,group stage,Group A,0,0,1994-06-22,,S-179,Rose Bowl,Pasadena,United States,T-79,United States,USA,T-15,Colombia,COL,2–1,2,1,1,-1,0,0,0-0,0,0,1,0,0
+1994,WC-1994,M-1994-16,group stage,Group E,0,0,1994-06-23,,S-176,Giants Stadium,East Rutherford,United States,T-39,Italy,ITA,T-51,Norway,NOR,1–0,1,0,1,-1,0,0,0-0,0,0,1,0,0
+1994,WC-1994,M-1994-17,group stage,Group C,0,0,1994-06-23,,S-177,Foxboro Stadium,Foxborough,United States,T-68,South Korea,KOR,T-07,Bolivia,BOL,0–0,0,0,0,0,0,0,0-0,0,0,0,0,1
+1994,WC-1994,M-1994-18,group stage,Group E,0,0,1994-06-24,,S-178,Citrus Bowl,Orlando,United States,T-44,Mexico,MEX,T-57,Republic of Ireland,IRL,2–1,2,1,1,-1,0,0,0-0,0,0,1,0,0
+1994,WC-1994,M-1994-19,group stage,Group B,0,0,1994-06-24,,S-181,Stanford Stadium,Stanford,United States,T-09,Brazil,BRA,T-11,Cameroon,CMR,3–0,3,0,3,-3,0,0,0-0,0,0,1,0,0
+1994,WC-1994,M-1994-20,group stage,Group B,0,0,1994-06-24,,S-180,Pontiac Silverdome,Pontiac,United States,T-71,Sweden,SWE,T-59,Russia,RUS,3–1,3,1,2,-2,0,0,0-0,0,0,1,0,0
+1994,WC-1994,M-1994-21,group stage,Group F,0,0,1994-06-25,,S-178,Citrus Bowl,Orlando,United States,T-06,Belgium,BEL,T-46,Netherlands,NLD,1–0,1,0,1,-1,0,0,0-0,0,0,1,0,0
+1994,WC-1994,M-1994-22,group stage,Group F,0,0,1994-06-25,,S-176,Giants Stadium,East Rutherford,United States,T-60,Saudi Arabia,SAU,T-45,Morocco,MAR,2–1,2,1,1,-1,0,0,0-0,0,0,1,0,0
+1994,WC-1994,M-1994-23,group stage,Group D,0,0,1994-06-25,,S-177,Foxboro Stadium,Foxborough,United States,T-03,Argentina,ARG,T-48,Nigeria,NGA,2–1,2,1,1,-1,0,0,0-0,0,0,1,0,0
+1994,WC-1994,M-1994-24,group stage,Group D,0,0,1994-06-26,,S-174,Soldier Field,Chicago,United States,T-10,Bulgaria,BGR,T-31,Greece,GRC,4–0,4,0,4,-4,0,0,0-0,0,0,1,0,0
+1994,WC-1994,M-1994-25,group stage,Group A,0,0,1994-06-26,,S-181,Stanford Stadium,Stanford,United States,T-72,Switzerland,CHE,T-15,Colombia,COL,0–2,0,2,-2,2,0,0,0-0,0,0,0,1,0
+1994,WC-1994,M-1994-26,group stage,Group A,0,0,1994-06-26,,S-179,Rose Bowl,Pasadena,United States,T-79,United States,USA,T-58,Romania,ROU,0–1,0,1,-1,1,0,0,0-0,0,0,0,1,0
+1994,WC-1994,M-1994-27,group stage,Group C,0,0,1994-06-27,,S-174,Soldier Field,Chicago,United States,T-07,Bolivia,BOL,T-70,Spain,ESP,1–3,1,3,-2,2,0,0,0-0,0,0,0,1,0
+1994,WC-1994,M-1994-28,group stage,Group C,0,0,1994-06-27,,S-175,Cotton Bowl,Dallas,United States,T-29,Germany,DEU,T-68,South Korea,KOR,3–2,3,2,1,-1,0,0,0-0,0,0,1,0,0
+1994,WC-1994,M-1994-29,group stage,Group E,0,0,1994-06-28,,S-182,RFK Stadium,"Washington, D.C.",United States,T-39,Italy,ITA,T-44,Mexico,MEX,1–1,1,1,0,0,0,0,0-0,0,0,0,0,1
+1994,WC-1994,M-1994-30,group stage,Group E,0,0,1994-06-28,,S-176,Giants Stadium,East Rutherford,United States,T-57,Republic of Ireland,IRL,T-51,Norway,NOR,0–0,0,0,0,0,0,0,0-0,0,0,0,0,1
+1994,WC-1994,M-1994-31,group stage,Group B,0,0,1994-06-28,,S-181,Stanford Stadium,Stanford,United States,T-59,Russia,RUS,T-11,Cameroon,CMR,6–1,6,1,5,-5,0,0,0-0,0,0,1,0,0
+1994,WC-1994,M-1994-32,group stage,Group B,0,0,1994-06-28,,S-180,Pontiac Silverdome,Pontiac,United States,T-09,Brazil,BRA,T-71,Sweden,SWE,1–1,1,1,0,0,0,0,0-0,0,0,0,0,1
+1994,WC-1994,M-1994-33,group stage,Group F,0,0,1994-06-29,,S-182,RFK Stadium,"Washington, D.C.",United States,T-06,Belgium,BEL,T-60,Saudi Arabia,SAU,0–1,0,1,-1,1,0,0,0-0,0,0,0,1,0
+1994,WC-1994,M-1994-34,group stage,Group F,0,0,1994-06-29,,S-178,Citrus Bowl,Orlando,United States,T-45,Morocco,MAR,T-46,Netherlands,NLD,1–2,1,2,-1,1,0,0,0-0,0,0,0,1,0
+1994,WC-1994,M-1994-35,group stage,Group D,0,0,1994-06-30,,S-175,Cotton Bowl,Dallas,United States,T-03,Argentina,ARG,T-10,Bulgaria,BGR,0–2,0,2,-2,2,0,0,0-0,0,0,0,1,0
+1994,WC-1994,M-1994-36,group stage,Group D,0,0,1994-06-30,,S-177,Foxboro Stadium,Foxborough,United States,T-31,Greece,GRC,T-48,Nigeria,NGA,0–2,0,2,-2,2,0,0,0-0,0,0,0,1,0
+1994,WC-1994,M-1994-37,round of 16,,0,0,1994-07-02,,S-174,Soldier Field,Chicago,United States,T-29,Germany,DEU,T-06,Belgium,BEL,3–2,3,2,1,-1,0,0,0-0,0,0,1,0,0
+1994,WC-1994,M-1994-38,round of 16,,0,0,1994-07-02,,S-182,RFK Stadium,"Washington, D.C.",United States,T-70,Spain,ESP,T-72,Switzerland,CHE,3–0,3,0,3,-3,0,0,0-0,0,0,1,0,0
+1994,WC-1994,M-1994-39,round of 16,,0,0,1994-07-03,,S-175,Cotton Bowl,Dallas,United States,T-60,Saudi Arabia,SAU,T-71,Sweden,SWE,1–3,1,3,-2,2,0,0,0-0,0,0,0,1,0
+1994,WC-1994,M-1994-40,round of 16,,0,0,1994-07-03,,S-179,Rose Bowl,Pasadena,United States,T-58,Romania,ROU,T-03,Argentina,ARG,3–2,3,2,1,-1,0,0,0-0,0,0,1,0,0
+1994,WC-1994,M-1994-41,round of 16,,0,0,1994-07-04,,S-178,Citrus Bowl,Orlando,United States,T-46,Netherlands,NLD,T-57,Republic of Ireland,IRL,2–0,2,0,2,-2,0,0,0-0,0,0,1,0,0
+1994,WC-1994,M-1994-42,round of 16,,0,0,1994-07-04,,S-181,Stanford Stadium,Stanford,United States,T-09,Brazil,BRA,T-79,United States,USA,1–0,1,0,1,-1,0,0,0-0,0,0,1,0,0
+1994,WC-1994,M-1994-43,round of 16,,0,0,1994-07-05,,S-177,Foxboro Stadium,Foxborough,United States,T-48,Nigeria,NGA,T-39,Italy,ITA,1–2,1,2,-1,1,1,0,0-0,0,0,0,1,0
+1994,WC-1994,M-1994-44,round of 16,,0,0,1994-07-05,,S-176,Giants Stadium,East Rutherford,United States,T-44,Mexico,MEX,T-10,Bulgaria,BGR,1–1,1,1,0,0,1,1,1–3,1,3,0,1,0
+1994,WC-1994,M-1994-45,quarter-finals,,0,0,1994-07-09,,S-177,Foxboro Stadium,Foxborough,United States,T-39,Italy,ITA,T-70,Spain,ESP,2–1,2,1,1,-1,0,0,0-0,0,0,1,0,0
+1994,WC-1994,M-1994-46,quarter-finals,,0,0,1994-07-09,,S-175,Cotton Bowl,Dallas,United States,T-46,Netherlands,NLD,T-09,Brazil,BRA,2–3,2,3,-1,1,0,0,0-0,0,0,0,1,0
+1994,WC-1994,M-1994-47,quarter-finals,,0,0,1994-07-10,,S-176,Giants Stadium,East Rutherford,United States,T-10,Bulgaria,BGR,T-29,Germany,DEU,2–1,2,1,1,-1,0,0,0-0,0,0,1,0,0
+1994,WC-1994,M-1994-48,quarter-finals,,0,0,1994-07-10,,S-181,Stanford Stadium,Stanford,United States,T-58,Romania,ROU,T-71,Sweden,SWE,2–2,2,2,0,0,1,1,4–5,4,5,0,1,0
+1994,WC-1994,M-1994-49,semi-finals,,0,0,1994-07-13,,S-176,Giants Stadium,East Rutherford,United States,T-10,Bulgaria,BGR,T-39,Italy,ITA,1–2,1,2,-1,1,0,0,0-0,0,0,0,1,0
+1994,WC-1994,M-1994-50,semi-finals,,0,0,1994-07-13,,S-179,Rose Bowl,Pasadena,United States,T-71,Sweden,SWE,T-09,Brazil,BRA,0–1,0,1,-1,1,0,0,0-0,0,0,0,1,0
+1994,WC-1994,M-1994-51,third-place match,,0,0,1994-07-16,,S-179,Rose Bowl,Pasadena,United States,T-71,Sweden,SWE,T-10,Bulgaria,BGR,4–0,4,0,4,-4,0,0,0-0,0,0,1,0,0
+1994,WC-1994,M-1994-52,final,,0,0,1994-07-17,,S-179,Rose Bowl,Pasadena,United States,T-09,Brazil,BRA,T-39,Italy,ITA,0–0,0,0,0,0,1,1,3–2,3,2,1,0,0
+1998,WC-1998,M-1998-01,group stage,Group A,0,0,1998-06-10,,S-048,Stade de France,Saint-Denis,France,T-09,Brazil,BRA,T-61,Scotland,SCO,2–1,2,1,1,-1,0,0,0-0,0,0,1,0,0
+1998,WC-1998,M-1998-02,group stage,Group A,0,0,1998-06-10,,S-043,Stade de la Mosson,Montpellier,France,T-45,Morocco,MAR,T-51,Norway,NOR,2–2,2,2,0,0,0,0,0-0,0,0,0,0,1
+1998,WC-1998,M-1998-03,group stage,Group B,0,0,1998-06-11,,S-037,Stade du Parc Lescure,Bordeaux,France,T-39,Italy,ITA,T-13,Chile,CHL,2–2,2,2,0,0,0,0,0-0,0,0,0,0,1
+1998,WC-1998,M-1998-04,group stage,Group B,0,0,1998-06-11,,S-051,Stade de Toulouse,Toulouse,France,T-11,Cameroon,CMR,T-05,Austria,AUT,1–1,1,1,0,0,0,0,0-0,0,0,0,0,1
+1998,WC-1998,M-1998-05,group stage,Group D,0,0,1998-06-12,,S-043,Stade de la Mosson,Montpellier,France,T-53,Paraguay,PRY,T-10,Bulgaria,BGR,0–0,0,0,0,0,0,0,0-0,0,0,0,0,1
+1998,WC-1998,M-1998-06,group stage,Group C,0,0,1998-06-12,,S-039,Stade Félix-Bollaert,Lens,France,T-60,Saudi Arabia,SAU,T-21,Denmark,DNK,0–1,0,1,-1,1,0,0,0-0,0,0,0,1,0
+1998,WC-1998,M-1998-07,group stage,Group C,0,0,1998-06-12,,S-042,Stade Vélodrome,Marseille,France,T-28,France,FRA,T-67,South Africa,ZAF,3–0,3,0,3,-3,0,0,0-0,0,0,1,0,0
+1998,WC-1998,M-1998-08,group stage,Group D,0,0,1998-06-13,,S-044,Stade de la Beaujoire,Nantes,France,T-70,Spain,ESP,T-48,Nigeria,NGA,2–3,2,3,-1,1,0,0,0-0,0,0,0,1,0
+1998,WC-1998,M-1998-09,group stage,Group E,0,0,1998-06-13,,S-041,Stade de Gerland,Lyon,France,T-68,South Korea,KOR,T-44,Mexico,MEX,1–3,1,3,-2,2,0,0,0-0,0,0,0,1,0
+1998,WC-1998,M-1998-10,group stage,Group E,0,0,1998-06-13,,S-048,Stade de France,Saint-Denis,France,T-46,Netherlands,NLD,T-06,Belgium,BEL,0–0,0,0,0,0,0,0,0-0,0,0,0,0,1
+1998,WC-1998,M-1998-11,group stage,Group H,0,0,1998-06-14,,S-051,Stade de Toulouse,Toulouse,France,T-03,Argentina,ARG,T-42,Japan,JPN,1–0,1,0,1,-1,0,0,0-0,0,0,1,0,0
+1998,WC-1998,M-1998-12,group stage,Group F,0,0,1998-06-14,,S-049,Stade Geoffroy-Guichard,Saint-Étienne,France,T-83,Yugoslavia,YUG,T-36,Iran,IRN,1–0,1,0,1,-1,0,0,0-0,0,0,1,0,0
+1998,WC-1998,M-1998-13,group stage,Group H,0,0,1998-06-14,,S-039,Stade Félix-Bollaert,Lens,France,T-41,Jamaica,JAM,T-17,Croatia,HRV,1–3,1,3,-2,2,0,0,0-0,0,0,0,1,0
+1998,WC-1998,M-1998-14,group stage,Group G,0,0,1998-06-15,,S-042,Stade Vélodrome,Marseille,France,T-27,England,ENG,T-75,Tunisia,TUN,2–0,2,0,2,-2,0,0,0-0,0,0,1,0,0
+1998,WC-1998,M-1998-15,group stage,Group G,0,0,1998-06-15,,S-041,Stade de Gerland,Lyon,France,T-58,Romania,ROU,T-15,Colombia,COL,1–0,1,0,1,-1,0,0,0-0,0,0,1,0,0
+1998,WC-1998,M-1998-16,group stage,Group F,0,0,1998-06-15,,S-045,Parc des Princes,Paris,France,T-29,Germany,DEU,T-79,United States,USA,2–0,2,0,2,-2,0,0,0-0,0,0,1,0,0
+1998,WC-1998,M-1998-17,group stage,Group A,0,0,1998-06-16,,S-037,Stade du Parc Lescure,Bordeaux,France,T-61,Scotland,SCO,T-51,Norway,NOR,1–1,1,1,0,0,0,0,0-0,0,0,0,0,1
+1998,WC-1998,M-1998-18,group stage,Group A,0,0,1998-06-16,,S-044,Stade de la Beaujoire,Nantes,France,T-09,Brazil,BRA,T-45,Morocco,MAR,3–0,3,0,3,-3,0,0,0-0,0,0,1,0,0
+1998,WC-1998,M-1998-19,group stage,Group B,0,0,1998-06-17,,S-049,Stade Geoffroy-Guichard,Saint-Étienne,France,T-13,Chile,CHL,T-05,Austria,AUT,1–1,1,1,0,0,0,0,0-0,0,0,0,0,1
+1998,WC-1998,M-1998-20,group stage,Group B,0,0,1998-06-17,,S-043,Stade de la Mosson,Montpellier,France,T-39,Italy,ITA,T-11,Cameroon,CMR,3–0,3,0,3,-3,0,0,0-0,0,0,1,0,0
+1998,WC-1998,M-1998-21,group stage,Group C,0,0,1998-06-18,,S-051,Stade de Toulouse,Toulouse,France,T-67,South Africa,ZAF,T-21,Denmark,DNK,1–1,1,1,0,0,0,0,0-0,0,0,0,0,1
+1998,WC-1998,M-1998-22,group stage,Group C,0,0,1998-06-18,,S-048,Stade de France,Saint-Denis,France,T-28,France,FRA,T-60,Saudi Arabia,SAU,4–0,4,0,4,-4,0,0,0-0,0,0,1,0,0
+1998,WC-1998,M-1998-23,group stage,Group D,0,0,1998-06-19,,S-045,Parc des Princes,Paris,France,T-48,Nigeria,NGA,T-10,Bulgaria,BGR,1–0,1,0,1,-1,0,0,0-0,0,0,1,0,0
+1998,WC-1998,M-1998-24,group stage,Group D,0,0,1998-06-19,,S-049,Stade Geoffroy-Guichard,Saint-Étienne,France,T-70,Spain,ESP,T-53,Paraguay,PRY,0–0,0,0,0,0,0,0,0-0,0,0,0,0,1
+1998,WC-1998,M-1998-25,group stage,Group H,0,0,1998-06-20,,S-044,Stade de la Beaujoire,Nantes,France,T-42,Japan,JPN,T-17,Croatia,HRV,0–1,0,1,-1,1,0,0,0-0,0,0,0,1,0
+1998,WC-1998,M-1998-26,group stage,Group E,0,0,1998-06-20,,S-037,Stade du Parc Lescure,Bordeaux,France,T-06,Belgium,BEL,T-44,Mexico,MEX,2–2,2,2,0,0,0,0,0-0,0,0,0,0,1
+1998,WC-1998,M-1998-27,group stage,Group E,0,0,1998-06-20,,S-042,Stade Vélodrome,Marseille,France,T-46,Netherlands,NLD,T-68,South Korea,KOR,5–0,5,0,5,-5,0,0,0-0,0,0,1,0,0
+1998,WC-1998,M-1998-28,group stage,Group F,0,0,1998-06-21,,S-039,Stade Félix-Bollaert,Lens,France,T-29,Germany,DEU,T-83,Yugoslavia,YUG,2–2,2,2,0,0,0,0,0-0,0,0,0,0,1
+1998,WC-1998,M-1998-29,group stage,Group H,0,0,1998-06-21,,S-045,Parc des Princes,Paris,France,T-03,Argentina,ARG,T-41,Jamaica,JAM,5–0,5,0,5,-5,0,0,0-0,0,0,1,0,0
+1998,WC-1998,M-1998-30,group stage,Group F,0,0,1998-06-21,,S-041,Stade de Gerland,Lyon,France,T-79,United States,USA,T-36,Iran,IRN,1–2,1,2,-1,1,0,0,0-0,0,0,0,1,0
+1998,WC-1998,M-1998-31,group stage,Group G,0,0,1998-06-22,,S-043,Stade de la Mosson,Montpellier,France,T-15,Colombia,COL,T-75,Tunisia,TUN,1–0,1,0,1,-1,0,0,0-0,0,0,1,0,0
+1998,WC-1998,M-1998-32,group stage,Group G,0,0,1998-06-22,,S-051,Stade de Toulouse,Toulouse,France,T-58,Romania,ROU,T-27,England,ENG,2–1,2,1,1,-1,0,0,0-0,0,0,1,0,0
+1998,WC-1998,M-1998-33,group stage,Group B,0,0,1998-06-23,,S-044,Stade de la Beaujoire,Nantes,France,T-13,Chile,CHL,T-11,Cameroon,CMR,1–1,1,1,0,0,0,0,0-0,0,0,0,0,1
+1998,WC-1998,M-1998-34,group stage,Group B,0,0,1998-06-23,,S-048,Stade de France,Saint-Denis,France,T-39,Italy,ITA,T-05,Austria,AUT,2–1,2,1,1,-1,0,0,0-0,0,0,1,0,0
+1998,WC-1998,M-1998-35,group stage,Group A,0,0,1998-06-23,,S-042,Stade Vélodrome,Marseille,France,T-09,Brazil,BRA,T-51,Norway,NOR,1–2,1,2,-1,1,0,0,0-0,0,0,0,1,0
+1998,WC-1998,M-1998-36,group stage,Group A,0,0,1998-06-23,,S-049,Stade Geoffroy-Guichard,Saint-Étienne,France,T-61,Scotland,SCO,T-45,Morocco,MAR,0–3,0,3,-3,3,0,0,0-0,0,0,0,1,0
+1998,WC-1998,M-1998-37,group stage,Group C,0,0,1998-06-24,,S-041,Stade de Gerland,Lyon,France,T-28,France,FRA,T-21,Denmark,DNK,2–1,2,1,1,-1,0,0,0-0,0,0,1,0,0
+1998,WC-1998,M-1998-38,group stage,Group C,0,0,1998-06-24,,S-037,Stade du Parc Lescure,Bordeaux,France,T-67,South Africa,ZAF,T-60,Saudi Arabia,SAU,2–2,2,2,0,0,0,0,0-0,0,0,0,0,1
+1998,WC-1998,M-1998-39,group stage,Group D,0,0,1998-06-24,,S-051,Stade de Toulouse,Toulouse,France,T-48,Nigeria,NGA,T-53,Paraguay,PRY,1–3,1,3,-2,2,0,0,0-0,0,0,0,1,0
+1998,WC-1998,M-1998-40,group stage,Group D,0,0,1998-06-24,,S-039,Stade Félix-Bollaert,Lens,France,T-70,Spain,ESP,T-10,Bulgaria,BGR,6–1,6,1,5,-5,0,0,0-0,0,0,1,0,0
+1998,WC-1998,M-1998-41,group stage,Group E,0,0,1998-06-25,,S-045,Parc des Princes,Paris,France,T-06,Belgium,BEL,T-68,South Korea,KOR,1–1,1,1,0,0,0,0,0-0,0,0,0,0,1
+1998,WC-1998,M-1998-42,group stage,Group E,0,0,1998-06-25,,S-049,Stade Geoffroy-Guichard,Saint-Étienne,France,T-46,Netherlands,NLD,T-44,Mexico,MEX,2–2,2,2,0,0,0,0,0-0,0,0,0,0,1
+1998,WC-1998,M-1998-43,group stage,Group F,0,0,1998-06-25,,S-043,Stade de la Mosson,Montpellier,France,T-29,Germany,DEU,T-36,Iran,IRN,2–0,2,0,2,-2,0,0,0-0,0,0,1,0,0
+1998,WC-1998,M-1998-44,group stage,Group F,0,0,1998-06-25,,S-044,Stade de la Beaujoire,Nantes,France,T-79,United States,USA,T-83,Yugoslavia,YUG,0–1,0,1,-1,1,0,0,0-0,0,0,0,1,0
+1998,WC-1998,M-1998-45,group stage,Group H,0,0,1998-06-26,,S-037,Stade du Parc Lescure,Bordeaux,France,T-03,Argentina,ARG,T-17,Croatia,HRV,1–0,1,0,1,-1,0,0,0-0,0,0,1,0,0
+1998,WC-1998,M-1998-46,group stage,Group H,0,0,1998-06-26,,S-041,Stade de Gerland,Lyon,France,T-42,Japan,JPN,T-41,Jamaica,JAM,1–2,1,2,-1,1,0,0,0-0,0,0,0,1,0
+1998,WC-1998,M-1998-47,group stage,Group G,0,0,1998-06-26,,S-039,Stade Félix-Bollaert,Lens,France,T-15,Colombia,COL,T-27,England,ENG,0–2,0,2,-2,2,0,0,0-0,0,0,0,1,0
+1998,WC-1998,M-1998-48,group stage,Group G,0,0,1998-06-26,,S-048,Stade de France,Saint-Denis,France,T-58,Romania,ROU,T-75,Tunisia,TUN,1–1,1,1,0,0,0,0,0-0,0,0,0,0,1
+1998,WC-1998,M-1998-49,round of 16,,0,0,1998-06-27,,S-042,Stade Vélodrome,Marseille,France,T-39,Italy,ITA,T-51,Norway,NOR,1–0,1,0,1,-1,0,0,0-0,0,0,1,0,0
+1998,WC-1998,M-1998-50,round of 16,,0,0,1998-06-27,,S-045,Parc des Princes,Paris,France,T-09,Brazil,BRA,T-13,Chile,CHL,4–1,4,1,3,-3,0,0,0-0,0,0,1,0,0
+1998,WC-1998,M-1998-51,round of 16,,0,0,1998-06-28,,S-039,Stade Félix-Bollaert,Lens,France,T-28,France,FRA,T-53,Paraguay,PRY,1–0,1,0,1,-1,1,0,0-0,0,0,1,0,0
+1998,WC-1998,M-1998-52,round of 16,,0,0,1998-06-28,,S-048,Stade de France,Saint-Denis,France,T-48,Nigeria,NGA,T-21,Denmark,DNK,1–4,1,4,-3,3,0,0,0-0,0,0,0,1,0
+1998,WC-1998,M-1998-53,round of 16,,0,0,1998-06-29,,S-043,Stade de la Mosson,Montpellier,France,T-29,Germany,DEU,T-44,Mexico,MEX,2–1,2,1,1,-1,0,0,0-0,0,0,1,0,0
+1998,WC-1998,M-1998-54,round of 16,,0,0,1998-06-29,,S-051,Stade de Toulouse,Toulouse,France,T-46,Netherlands,NLD,T-83,Yugoslavia,YUG,2–1,2,1,1,-1,0,0,0-0,0,0,1,0,0
+1998,WC-1998,M-1998-55,round of 16,,0,0,1998-06-30,,S-037,Stade du Parc Lescure,Bordeaux,France,T-58,Romania,ROU,T-17,Croatia,HRV,0–1,0,1,-1,1,0,0,0-0,0,0,0,1,0
+1998,WC-1998,M-1998-56,round of 16,,0,0,1998-06-30,,S-049,Stade Geoffroy-Guichard,Saint-Étienne,France,T-03,Argentina,ARG,T-27,England,ENG,2–2,2,2,0,0,1,1,4–3,4,3,1,0,0
+1998,WC-1998,M-1998-57,quarter-finals,,0,0,1998-07-03,,S-048,Stade de France,Saint-Denis,France,T-39,Italy,ITA,T-28,France,FRA,0–0,0,0,0,0,1,1,3–4,3,4,0,1,0
+1998,WC-1998,M-1998-58,quarter-finals,,0,0,1998-07-03,,S-044,Stade de la Beaujoire,Nantes,France,T-09,Brazil,BRA,T-21,Denmark,DNK,3–2,3,2,1,-1,0,0,0-0,0,0,1,0,0
+1998,WC-1998,M-1998-59,quarter-finals,,0,0,1998-07-04,,S-042,Stade Vélodrome,Marseille,France,T-46,Netherlands,NLD,T-03,Argentina,ARG,2–1,2,1,1,-1,0,0,0-0,0,0,1,0,0
+1998,WC-1998,M-1998-60,quarter-finals,,0,0,1998-07-04,,S-041,Stade de Gerland,Lyon,France,T-29,Germany,DEU,T-17,Croatia,HRV,0–3,0,3,-3,3,0,0,0-0,0,0,0,1,0
+1998,WC-1998,M-1998-61,semi-finals,,0,0,1998-07-07,,S-042,Stade Vélodrome,Marseille,France,T-09,Brazil,BRA,T-46,Netherlands,NLD,1–1,1,1,0,0,1,1,4–2,4,2,1,0,0
+1998,WC-1998,M-1998-62,semi-finals,,0,0,1998-07-08,,S-048,Stade de France,Saint-Denis,France,T-28,France,FRA,T-17,Croatia,HRV,2–1,2,1,1,-1,0,0,0-0,0,0,1,0,0
+1998,WC-1998,M-1998-63,third-place match,,0,0,1998-07-11,,S-045,Parc des Princes,Paris,France,T-46,Netherlands,NLD,T-17,Croatia,HRV,1–2,1,2,-1,1,0,0,0-0,0,0,0,1,0
+1998,WC-1998,M-1998-64,final,,0,0,1998-07-12,,S-048,Stade de France,Saint-Denis,France,T-09,Brazil,BRA,T-28,France,FRA,0–3,0,3,-3,3,0,0,0-0,0,0,0,1,0
+2002,WC-2002,M-2002-01,group stage,Group A,0,0,2002-05-31,,S-136,Seoul World Cup Stadium,Seoul,South Korea,T-28,France,FRA,T-62,Senegal,SEN,0–1,0,1,-1,1,0,0,0-0,0,0,0,1,0
+2002,WC-2002,M-2002-02,group stage,Group E,0,0,2002-06-01,,S-088,Niigata Stadium,Niigata,Japan,T-57,Republic of Ireland,IRL,T-11,Cameroon,CMR,1–1,1,1,0,0,0,0,0-0,0,0,0,0,1
+2002,WC-2002,M-2002-03,group stage,Group A,0,0,2002-06-01,,S-138,Ulsan Munsu Football Stadium,Ulsan,South Korea,T-80,Uruguay,URY,T-21,Denmark,DNK,1–2,1,2,-1,1,0,0,0-0,0,0,0,1,0
+2002,WC-2002,M-2002-04,group stage,Group E,0,0,2002-06-01,,S-092,Sapporo Dome,Sapporo,Japan,T-29,Germany,DEU,T-60,Saudi Arabia,SAU,8–0,8,0,8,-8,0,0,0-0,0,0,1,0,0
+2002,WC-2002,M-2002-05,group stage,Group F,0,0,2002-06-02,,S-085,Kashima Stadium,Ibaraki,Japan,T-03,Argentina,ARG,T-48,Nigeria,NGA,1–0,1,0,1,-1,0,0,0-0,0,0,1,0,0
+2002,WC-2002,M-2002-06,group stage,Group B,0,0,2002-06-02,,S-129,Busan Asiad Stadium,Busan,South Korea,T-53,Paraguay,PRY,T-67,South Africa,ZAF,2–2,2,2,0,0,0,0,0-0,0,0,0,0,1
+2002,WC-2002,M-2002-07,group stage,Group F,0,0,2002-06-02,,S-091,Saitama Stadium,Saitama,Japan,T-27,England,ENG,T-71,Sweden,SWE,1–1,1,1,0,0,0,0,0-0,0,0,0,0,1
+2002,WC-2002,M-2002-08,group stage,Group B,0,0,2002-06-02,,S-132,Gwangju World Cup Stadium,Gwangju,South Korea,T-70,Spain,ESP,T-66,Slovenia,SVN,3–1,3,1,2,-2,0,0,0-0,0,0,1,0,0
+2002,WC-2002,M-2002-09,group stage,Group G,0,0,2002-06-03,,S-088,Niigata Stadium,Niigata,Japan,T-17,Croatia,HRV,T-44,Mexico,MEX,0–1,0,1,-1,1,0,0,0-0,0,0,0,1,0
+2002,WC-2002,M-2002-10,group stage,Group C,0,0,2002-06-03,,S-138,Ulsan Munsu Football Stadium,Ulsan,South Korea,T-09,Brazil,BRA,T-76,Turkey,TUR,2–1,2,1,1,-1,0,0,0-0,0,0,1,0,0
+2002,WC-2002,M-2002-11,group stage,Group G,0,0,2002-06-03,,S-092,Sapporo Dome,Sapporo,Japan,T-39,Italy,ITA,T-24,Ecuador,ECU,2–0,2,0,2,-2,0,0,0-0,0,0,1,0,0
+2002,WC-2002,M-2002-12,group stage,Group C,0,0,2002-06-04,,S-132,Gwangju World Cup Stadium,Gwangju,South Korea,T-14,China,CHN,T-16,Costa Rica,CRI,0–2,0,2,-2,2,0,0,0-0,0,0,0,1,0
+2002,WC-2002,M-2002-13,group stage,Group H,0,0,2002-06-04,,S-091,Saitama Stadium,Saitama,Japan,T-42,Japan,JPN,T-06,Belgium,BEL,2–2,2,2,0,0,0,0,0-0,0,0,0,0,1
+2002,WC-2002,M-2002-14,group stage,Group D,0,0,2002-06-04,,S-129,Busan Asiad Stadium,Busan,South Korea,T-68,South Korea,KOR,T-55,Poland,POL,2–0,2,0,2,-2,0,0,0-0,0,0,1,0,0
+2002,WC-2002,M-2002-15,group stage,Group H,0,0,2002-06-05,,S-086,Kobe Wing Stadium,Kobe,Japan,T-59,Russia,RUS,T-75,Tunisia,TUN,2–0,2,0,2,-2,0,0,0-0,0,0,1,0,0
+2002,WC-2002,M-2002-16,group stage,Group D,0,0,2002-06-05,,S-137,Suwon World Cup Stadium,Suwon,South Korea,T-79,United States,USA,T-56,Portugal,PRT,3–2,3,2,1,-1,0,0,0-0,0,0,1,0,0
+2002,WC-2002,M-2002-17,group stage,Group E,0,0,2002-06-05,,S-085,Kashima Stadium,Ibaraki,Japan,T-29,Germany,DEU,T-57,Republic of Ireland,IRL,1–1,1,1,0,0,0,0,0-0,0,0,0,0,1
+2002,WC-2002,M-2002-18,group stage,Group A,0,0,2002-06-06,,S-130,Daegu World Cup Stadium,Daegu,South Korea,T-21,Denmark,DNK,T-62,Senegal,SEN,1–1,1,1,0,0,0,0,0-0,0,0,0,0,1
+2002,WC-2002,M-2002-19,group stage,Group E,0,0,2002-06-06,,S-091,Saitama Stadium,Saitama,Japan,T-11,Cameroon,CMR,T-60,Saudi Arabia,SAU,1–0,1,0,1,-1,0,0,0-0,0,0,1,0,0
+2002,WC-2002,M-2002-20,group stage,Group A,0,0,2002-06-06,,S-129,Busan Asiad Stadium,Busan,South Korea,T-28,France,FRA,T-80,Uruguay,URY,0–0,0,0,0,0,0,0,0-0,0,0,0,0,1
+2002,WC-2002,M-2002-21,group stage,Group F,0,0,2002-06-07,,S-086,Kobe Wing Stadium,Kobe,Japan,T-71,Sweden,SWE,T-48,Nigeria,NGA,2–1,2,1,1,-1,0,0,0-0,0,0,1,0,0
+2002,WC-2002,M-2002-22,group stage,Group B,0,0,2002-06-07,,S-134,Jeonju World Cup Stadium,Jeonju,South Korea,T-70,Spain,ESP,T-53,Paraguay,PRY,3–1,3,1,2,-2,0,0,0-0,0,0,1,0,0
+2002,WC-2002,M-2002-23,group stage,Group F,0,0,2002-06-07,,S-092,Sapporo Dome,Sapporo,Japan,T-03,Argentina,ARG,T-27,England,ENG,0–1,0,1,-1,1,0,0,0-0,0,0,0,1,0
+2002,WC-2002,M-2002-24,group stage,Group B,0,0,2002-06-08,,S-130,Daegu World Cup Stadium,Daegu,South Korea,T-67,South Africa,ZAF,T-66,Slovenia,SVN,1–0,1,0,1,-1,0,0,0-0,0,0,1,0,0
+2002,WC-2002,M-2002-25,group stage,Group G,0,0,2002-06-08,,S-085,Kashima Stadium,Ibaraki,Japan,T-39,Italy,ITA,T-17,Croatia,HRV,1–2,1,2,-1,1,0,0,0-0,0,0,0,1,0
+2002,WC-2002,M-2002-26,group stage,Group C,0,0,2002-06-08,,S-135,Jeju World Cup Stadium,Seogwipo,South Korea,T-09,Brazil,BRA,T-14,China,CHN,4–0,4,0,4,-4,0,0,0-0,0,0,1,0,0
+2002,WC-2002,M-2002-27,group stage,Group G,0,0,2002-06-09,,S-087,Miyagi Stadium,Miyagi,Japan,T-44,Mexico,MEX,T-24,Ecuador,ECU,2–1,2,1,1,-1,0,0,0-0,0,0,1,0,0
+2002,WC-2002,M-2002-28,group stage,Group C,0,0,2002-06-09,,S-133,Incheon Munhak Stadium,Incheon,South Korea,T-16,Costa Rica,CRI,T-76,Turkey,TUR,1–1,1,1,0,0,0,0,0-0,0,0,0,0,1
+2002,WC-2002,M-2002-29,group stage,Group H,0,0,2002-06-09,,S-094,International Stadium Yokohama,Yokohama,Japan,T-42,Japan,JPN,T-59,Russia,RUS,1–0,1,0,1,-1,0,0,0-0,0,0,1,0,0
+2002,WC-2002,M-2002-30,group stage,Group D,0,0,2002-06-10,,S-130,Daegu World Cup Stadium,Daegu,South Korea,T-68,South Korea,KOR,T-79,United States,USA,1–1,1,1,0,0,0,0,0-0,0,0,0,0,1
+2002,WC-2002,M-2002-31,group stage,Group H,0,0,2002-06-10,,S-089,Ōita Stadium,Ōita,Japan,T-75,Tunisia,TUN,T-06,Belgium,BEL,1–1,1,1,0,0,0,0,0-0,0,0,0,0,1
+2002,WC-2002,M-2002-32,group stage,Group D,0,0,2002-06-10,,S-134,Jeonju World Cup Stadium,Jeonju,South Korea,T-56,Portugal,PRT,T-55,Poland,POL,4–0,4,0,4,-4,0,0,0-0,0,0,1,0,0
+2002,WC-2002,M-2002-33,group stage,Group A,0,0,2002-06-11,,S-133,Incheon Munhak Stadium,Incheon,South Korea,T-21,Denmark,DNK,T-28,France,FRA,2–0,2,0,2,-2,0,0,0-0,0,0,1,0,0
+2002,WC-2002,M-2002-34,group stage,Group A,0,0,2002-06-11,,S-137,Suwon World Cup Stadium,Suwon,South Korea,T-62,Senegal,SEN,T-80,Uruguay,URY,3–3,3,3,0,0,0,0,0-0,0,0,0,0,1
+2002,WC-2002,M-2002-35,group stage,Group E,0,0,2002-06-11,,S-093,Shizuoka Stadium ECOPA,Shizuoka,Japan,T-11,Cameroon,CMR,T-29,Germany,DEU,0–2,0,2,-2,2,0,0,0-0,0,0,0,1,0
+2002,WC-2002,M-2002-36,group stage,Group E,0,0,2002-06-11,,S-094,International Stadium Yokohama,Yokohama,Japan,T-60,Saudi Arabia,SAU,T-57,Republic of Ireland,IRL,0–3,0,3,-3,3,0,0,0-0,0,0,0,1,0
+2002,WC-2002,M-2002-37,group stage,Group F,0,0,2002-06-12,,S-090,Nagai Stadium,Osaka,Japan,T-48,Nigeria,NGA,T-27,England,ENG,0–0,0,0,0,0,0,0,0-0,0,0,0,0,1
+2002,WC-2002,M-2002-38,group stage,Group F,0,0,2002-06-12,,S-087,Miyagi Stadium,Miyagi,Japan,T-71,Sweden,SWE,T-03,Argentina,ARG,1–1,1,1,0,0,0,0,0-0,0,0,0,0,1
+2002,WC-2002,M-2002-39,group stage,Group B,0,0,2002-06-12,,S-135,Jeju World Cup Stadium,Seogwipo,South Korea,T-66,Slovenia,SVN,T-53,Paraguay,PRY,1–3,1,3,-2,2,0,0,0-0,0,0,0,1,0
+2002,WC-2002,M-2002-40,group stage,Group B,0,0,2002-06-12,,S-131,Daejeon World Cup Stadium,Daejeon,South Korea,T-67,South Africa,ZAF,T-70,Spain,ESP,2–3,2,3,-1,1,0,0,0-0,0,0,0,1,0
+2002,WC-2002,M-2002-41,group stage,Group C,0,0,2002-06-13,,S-137,Suwon World Cup Stadium,Suwon,South Korea,T-16,Costa Rica,CRI,T-09,Brazil,BRA,2–5,2,5,-3,3,0,0,0-0,0,0,0,1,0
+2002,WC-2002,M-2002-42,group stage,Group C,0,0,2002-06-13,,S-136,Seoul World Cup Stadium,Seoul,South Korea,T-76,Turkey,TUR,T-14,China,CHN,3–0,3,0,3,-3,0,0,0-0,0,0,1,0,0
+2002,WC-2002,M-2002-43,group stage,Group G,0,0,2002-06-13,,S-094,International Stadium Yokohama,Yokohama,Japan,T-24,Ecuador,ECU,T-17,Croatia,HRV,1–0,1,0,1,-1,0,0,0-0,0,0,1,0,0
+2002,WC-2002,M-2002-44,group stage,Group G,0,0,2002-06-13,,S-089,Ōita Stadium,Ōita,Japan,T-44,Mexico,MEX,T-39,Italy,ITA,1–1,1,1,0,0,0,0,0-0,0,0,0,0,1
+2002,WC-2002,M-2002-45,group stage,Group H,0,0,2002-06-14,,S-093,Shizuoka Stadium ECOPA,Shizuoka,Japan,T-06,Belgium,BEL,T-59,Russia,RUS,3–2,3,2,1,-1,0,0,0-0,0,0,1,0,0
+2002,WC-2002,M-2002-46,group stage,Group H,0,0,2002-06-14,,S-090,Nagai Stadium,Osaka,Japan,T-75,Tunisia,TUN,T-42,Japan,JPN,0–2,0,2,-2,2,0,0,0-0,0,0,0,1,0
+2002,WC-2002,M-2002-47,group stage,Group D,0,0,2002-06-14,,S-131,Daejeon World Cup Stadium,Daejeon,South Korea,T-55,Poland,POL,T-79,United States,USA,3–1,3,1,2,-2,0,0,0-0,0,0,1,0,0
+2002,WC-2002,M-2002-48,group stage,Group D,0,0,2002-06-14,,S-133,Incheon Munhak Stadium,Incheon,South Korea,T-56,Portugal,PRT,T-68,South Korea,KOR,0–1,0,1,-1,1,0,0,0-0,0,0,0,1,0
+2002,WC-2002,M-2002-49,round of 16,,0,0,2002-06-15,,S-135,Jeju World Cup Stadium,Seogwipo,South Korea,T-29,Germany,DEU,T-53,Paraguay,PRY,1–0,1,0,1,-1,0,0,0-0,0,0,1,0,0
+2002,WC-2002,M-2002-50,round of 16,,0,0,2002-06-15,,S-088,Niigata Stadium,Niigata,Japan,T-21,Denmark,DNK,T-27,England,ENG,0–3,0,3,-3,3,0,0,0-0,0,0,0,1,0
+2002,WC-2002,M-2002-51,round of 16,,0,0,2002-06-16,,S-089,Ōita Stadium,Ōita,Japan,T-71,Sweden,SWE,T-62,Senegal,SEN,1–2,1,2,-1,1,1,0,0-0,0,0,0,1,0
+2002,WC-2002,M-2002-52,round of 16,,0,0,2002-06-16,,S-137,Suwon World Cup Stadium,Suwon,South Korea,T-70,Spain,ESP,T-57,Republic of Ireland,IRL,1–1,1,1,0,0,1,1,3–2,3,2,1,0,0
+2002,WC-2002,M-2002-53,round of 16,,0,0,2002-06-17,,S-134,Jeonju World Cup Stadium,Jeonju,South Korea,T-44,Mexico,MEX,T-79,United States,USA,0–2,0,2,-2,2,0,0,0-0,0,0,0,1,0
+2002,WC-2002,M-2002-54,round of 16,,0,0,2002-06-17,,S-086,Kobe Wing Stadium,Kobe,Japan,T-09,Brazil,BRA,T-06,Belgium,BEL,2–0,2,0,2,-2,0,0,0-0,0,0,1,0,0
+2002,WC-2002,M-2002-55,round of 16,,0,0,2002-06-18,,S-087,Miyagi Stadium,Miyagi,Japan,T-42,Japan,JPN,T-76,Turkey,TUR,0–1,0,1,-1,1,0,0,0-0,0,0,0,1,0
+2002,WC-2002,M-2002-56,round of 16,,0,0,2002-06-18,,S-131,Daejeon World Cup Stadium,Daejeon,South Korea,T-68,South Korea,KOR,T-39,Italy,ITA,2–1,2,1,1,-1,1,0,0-0,0,0,1,0,0
+2002,WC-2002,M-2002-57,quarter-finals,,0,0,2002-06-21,,S-093,Shizuoka Stadium ECOPA,Shizuoka,Japan,T-27,England,ENG,T-09,Brazil,BRA,1–2,1,2,-1,1,0,0,0-0,0,0,0,1,0
+2002,WC-2002,M-2002-58,quarter-finals,,0,0,2002-06-21,,S-138,Ulsan Munsu Football Stadium,Ulsan,South Korea,T-29,Germany,DEU,T-79,United States,USA,1–0,1,0,1,-1,0,0,0-0,0,0,1,0,0
+2002,WC-2002,M-2002-59,quarter-finals,,0,0,2002-06-22,,S-132,Gwangju World Cup Stadium,Gwangju,South Korea,T-70,Spain,ESP,T-68,South Korea,KOR,0–0,0,0,0,0,1,1,3–5,3,5,0,1,0
+2002,WC-2002,M-2002-60,quarter-finals,,0,0,2002-06-22,,S-090,Nagai Stadium,Osaka,Japan,T-62,Senegal,SEN,T-76,Turkey,TUR,0–1,0,1,-1,1,1,0,0-0,0,0,0,1,0
+2002,WC-2002,M-2002-61,semi-finals,,0,0,2002-06-25,,S-136,Seoul World Cup Stadium,Seoul,South Korea,T-29,Germany,DEU,T-68,South Korea,KOR,1–0,1,0,1,-1,0,0,0-0,0,0,1,0,0
+2002,WC-2002,M-2002-62,semi-finals,,0,0,2002-06-26,,S-091,Saitama Stadium,Saitama,Japan,T-09,Brazil,BRA,T-76,Turkey,TUR,1–0,1,0,1,-1,0,0,0-0,0,0,1,0,0
+2002,WC-2002,M-2002-63,third-place match,,0,0,2002-06-29,,S-130,Daegu World Cup Stadium,Daegu,South Korea,T-68,South Korea,KOR,T-76,Turkey,TUR,2–3,2,3,-1,1,0,0,0-0,0,0,0,1,0
+2002,WC-2002,M-2002-64,final,,0,0,2002-06-30,,S-094,International Stadium Yokohama,Yokohama,Japan,T-29,Germany,DEU,T-09,Brazil,BRA,0–2,0,2,-2,2,0,0,0-0,0,0,0,1,0
+2006,WC-2006,M-2006-01,group stage,Group A,0,0,2006-06-09,,S-064,Allianz Arena,Munich,Germany,T-29,Germany,DEU,T-16,Costa Rica,CRI,4–2,4,2,2,-2,0,0,0-0,0,0,1,0,0
+2006,WC-2006,M-2006-02,group stage,Group A,0,0,2006-06-09,,S-058,Arena AufShalke,Gelsenkirchen,Germany,T-55,Poland,POL,T-24,Ecuador,ECU,0–2,0,2,-2,2,0,0,0-0,0,0,0,1,0
+2006,WC-2006,M-2006-03,group stage,Group B,0,0,2006-06-10,,S-057,Waldstadion,Frankfurt,Germany,T-27,England,ENG,T-53,Paraguay,PRY,1–0,1,0,1,-1,0,0,0-0,0,0,1,0,0
+2006,WC-2006,M-2006-04,group stage,Group B,0,0,2006-06-10,,S-055,Westfalenstadion,Dortmund,Germany,T-74,Trinidad and Tobago,TTO,T-71,Sweden,SWE,0–0,0,0,0,0,0,0,0-0,0,0,0,0,1
+2006,WC-2006,M-2006-05,group stage,Group C,0,0,2006-06-10,,S-060,Volksparkstadion,Hamburg,Germany,T-03,Argentina,ARG,T-40,Ivory Coast,CIV,2–1,2,1,1,-1,0,0,0-0,0,0,1,0,0
+2006,WC-2006,M-2006-06,group stage,Group C,0,0,2006-06-11,,S-063,Zentralstadion,Leipzig,Germany,T-64,Serbia and Montenegro,SCG,T-46,Netherlands,NLD,0–1,0,1,-1,1,0,0,0-0,0,0,0,1,0
+2006,WC-2006,M-2006-07,group stage,Group D,0,0,2006-06-11,,S-066,Frankenstadion,Nuremberg,Germany,T-44,Mexico,MEX,T-36,Iran,IRN,3–1,3,1,2,-2,0,0,0-0,0,0,1,0,0
+2006,WC-2006,M-2006-08,group stage,Group D,0,0,2006-06-11,,S-054,RheinEnergieStadion,Cologne,Germany,T-02,Angola,AGO,T-56,Portugal,PRT,0–1,0,1,-1,1,0,0,0-0,0,0,0,1,0
+2006,WC-2006,M-2006-09,group stage,Group F,0,0,2006-06-12,,S-062,Fritz-Walter-Stadion,Kaiserslautern,Germany,T-04,Australia,AUS,T-42,Japan,JPN,3–1,3,1,2,-2,0,0,0-0,0,0,1,0,0
+2006,WC-2006,M-2006-10,group stage,Group E,0,0,2006-06-12,,S-058,Arena AufShalke,Gelsenkirchen,Germany,T-79,United States,USA,T-19,Czech Republic,CZE,0–3,0,3,-3,3,0,0,0-0,0,0,0,1,0
+2006,WC-2006,M-2006-11,group stage,Group E,0,0,2006-06-12,,S-061,Niedersachsenstadion,Hanover,Germany,T-39,Italy,ITA,T-30,Ghana,GHA,2–0,2,0,2,-2,0,0,0-0,0,0,1,0,0
+2006,WC-2006,M-2006-12,group stage,Group G,0,0,2006-06-13,,S-057,Waldstadion,Frankfurt,Germany,T-68,South Korea,KOR,T-73,Togo,TGO,2–1,2,1,1,-1,0,0,0-0,0,0,1,0,0
+2006,WC-2006,M-2006-13,group stage,Group G,0,0,2006-06-13,,S-067,Neckarstadion,Stuttgart,Germany,T-28,France,FRA,T-72,Switzerland,CHE,0–0,0,0,0,0,0,0,0-0,0,0,0,0,1
+2006,WC-2006,M-2006-14,group stage,Group F,0,0,2006-06-13,,S-053,Olympiastadion,Berlin,Germany,T-09,Brazil,BRA,T-17,Croatia,HRV,1–0,1,0,1,-1,0,0,0-0,0,0,1,0,0
+2006,WC-2006,M-2006-15,group stage,Group H,0,0,2006-06-14,,S-063,Zentralstadion,Leipzig,Germany,T-70,Spain,ESP,T-77,Ukraine,UKR,4–0,4,0,4,-4,0,0,0-0,0,0,1,0,0
+2006,WC-2006,M-2006-16,group stage,Group H,0,0,2006-06-14,,S-064,Allianz Arena,Munich,Germany,T-75,Tunisia,TUN,T-60,Saudi Arabia,SAU,2–2,2,2,0,0,0,0,0-0,0,0,0,0,1
+2006,WC-2006,M-2006-17,group stage,Group A,0,0,2006-06-14,,S-055,Westfalenstadion,Dortmund,Germany,T-29,Germany,DEU,T-55,Poland,POL,1–0,1,0,1,-1,0,0,0-0,0,0,1,0,0
+2006,WC-2006,M-2006-18,group stage,Group A,0,0,2006-06-15,,S-060,Volksparkstadion,Hamburg,Germany,T-24,Ecuador,ECU,T-16,Costa Rica,CRI,3–0,3,0,3,-3,0,0,0-0,0,0,1,0,0
+2006,WC-2006,M-2006-19,group stage,Group B,0,0,2006-06-15,,S-066,Frankenstadion,Nuremberg,Germany,T-27,England,ENG,T-74,Trinidad and Tobago,TTO,2–0,2,0,2,-2,0,0,0-0,0,0,1,0,0
+2006,WC-2006,M-2006-20,group stage,Group B,0,0,2006-06-15,,S-053,Olympiastadion,Berlin,Germany,T-71,Sweden,SWE,T-53,Paraguay,PRY,1–0,1,0,1,-1,0,0,0-0,0,0,1,0,0
+2006,WC-2006,M-2006-21,group stage,Group C,0,0,2006-06-16,,S-058,Arena AufShalke,Gelsenkirchen,Germany,T-03,Argentina,ARG,T-64,Serbia and Montenegro,SCG,6–0,6,0,6,-6,0,0,0-0,0,0,1,0,0
+2006,WC-2006,M-2006-22,group stage,Group C,0,0,2006-06-16,,S-067,Neckarstadion,Stuttgart,Germany,T-46,Netherlands,NLD,T-40,Ivory Coast,CIV,2–1,2,1,1,-1,0,0,0-0,0,0,1,0,0
+2006,WC-2006,M-2006-23,group stage,Group D,0,0,2006-06-16,,S-061,Niedersachsenstadion,Hanover,Germany,T-44,Mexico,MEX,T-02,Angola,AGO,0–0,0,0,0,0,0,0,0-0,0,0,0,0,1
+2006,WC-2006,M-2006-24,group stage,Group D,0,0,2006-06-17,,S-057,Waldstadion,Frankfurt,Germany,T-56,Portugal,PRT,T-36,Iran,IRN,2–0,2,0,2,-2,0,0,0-0,0,0,1,0,0
+2006,WC-2006,M-2006-25,group stage,Group E,0,0,2006-06-17,,S-054,RheinEnergieStadion,Cologne,Germany,T-19,Czech Republic,CZE,T-30,Ghana,GHA,0–2,0,2,-2,2,0,0,0-0,0,0,0,1,0
+2006,WC-2006,M-2006-26,group stage,Group E,0,0,2006-06-17,,S-062,Fritz-Walter-Stadion,Kaiserslautern,Germany,T-39,Italy,ITA,T-79,United States,USA,1–1,1,1,0,0,0,0,0-0,0,0,0,0,1
+2006,WC-2006,M-2006-27,group stage,Group F,0,0,2006-06-18,,S-066,Frankenstadion,Nuremberg,Germany,T-42,Japan,JPN,T-17,Croatia,HRV,0–0,0,0,0,0,0,0,0-0,0,0,0,0,1
+2006,WC-2006,M-2006-28,group stage,Group F,0,0,2006-06-18,,S-064,Allianz Arena,Munich,Germany,T-09,Brazil,BRA,T-04,Australia,AUS,2–0,2,0,2,-2,0,0,0-0,0,0,1,0,0
+2006,WC-2006,M-2006-29,group stage,Group G,0,0,2006-06-18,,S-063,Zentralstadion,Leipzig,Germany,T-28,France,FRA,T-68,South Korea,KOR,1–1,1,1,0,0,0,0,0-0,0,0,0,0,1
+2006,WC-2006,M-2006-30,group stage,Group G,0,0,2006-06-19,,S-055,Westfalenstadion,Dortmund,Germany,T-73,Togo,TGO,T-72,Switzerland,CHE,0–2,0,2,-2,2,0,0,0-0,0,0,0,1,0
+2006,WC-2006,M-2006-31,group stage,Group H,0,0,2006-06-19,,S-060,Volksparkstadion,Hamburg,Germany,T-60,Saudi Arabia,SAU,T-77,Ukraine,UKR,0–4,0,4,-4,4,0,0,0-0,0,0,0,1,0
+2006,WC-2006,M-2006-32,group stage,Group H,0,0,2006-06-19,,S-067,Neckarstadion,Stuttgart,Germany,T-70,Spain,ESP,T-75,Tunisia,TUN,3–1,3,1,2,-2,0,0,0-0,0,0,1,0,0
+2006,WC-2006,M-2006-33,group stage,Group A,0,0,2006-06-20,,S-061,Niedersachsenstadion,Hanover,Germany,T-16,Costa Rica,CRI,T-55,Poland,POL,1–2,1,2,-1,1,0,0,0-0,0,0,0,1,0
+2006,WC-2006,M-2006-34,group stage,Group A,0,0,2006-06-20,,S-053,Olympiastadion,Berlin,Germany,T-24,Ecuador,ECU,T-29,Germany,DEU,0–3,0,3,-3,3,0,0,0-0,0,0,0,1,0
+2006,WC-2006,M-2006-35,group stage,Group B,0,0,2006-06-20,,S-062,Fritz-Walter-Stadion,Kaiserslautern,Germany,T-53,Paraguay,PRY,T-74,Trinidad and Tobago,TTO,2–0,2,0,2,-2,0,0,0-0,0,0,1,0,0
+2006,WC-2006,M-2006-36,group stage,Group B,0,0,2006-06-20,,S-054,RheinEnergieStadion,Cologne,Germany,T-71,Sweden,SWE,T-27,England,ENG,2–2,2,2,0,0,0,0,0-0,0,0,0,0,1
+2006,WC-2006,M-2006-37,group stage,Group D,0,0,2006-06-21,,S-063,Zentralstadion,Leipzig,Germany,T-36,Iran,IRN,T-02,Angola,AGO,1–1,1,1,0,0,0,0,0-0,0,0,0,0,1
+2006,WC-2006,M-2006-38,group stage,Group D,0,0,2006-06-21,,S-058,Arena AufShalke,Gelsenkirchen,Germany,T-56,Portugal,PRT,T-44,Mexico,MEX,2–1,2,1,1,-1,0,0,0-0,0,0,1,0,0
+2006,WC-2006,M-2006-39,group stage,Group C,0,0,2006-06-21,,S-064,Allianz Arena,Munich,Germany,T-40,Ivory Coast,CIV,T-64,Serbia and Montenegro,SCG,3–2,3,2,1,-1,0,0,0-0,0,0,1,0,0
+2006,WC-2006,M-2006-40,group stage,Group C,0,0,2006-06-21,,S-057,Waldstadion,Frankfurt,Germany,T-46,Netherlands,NLD,T-03,Argentina,ARG,0–0,0,0,0,0,0,0,0-0,0,0,0,0,1
+2006,WC-2006,M-2006-41,group stage,Group E,0,0,2006-06-22,,S-060,Volksparkstadion,Hamburg,Germany,T-19,Czech Republic,CZE,T-39,Italy,ITA,0–2,0,2,-2,2,0,0,0-0,0,0,0,1,0
+2006,WC-2006,M-2006-42,group stage,Group E,0,0,2006-06-22,,S-066,Frankenstadion,Nuremberg,Germany,T-30,Ghana,GHA,T-79,United States,USA,2–1,2,1,1,-1,0,0,0-0,0,0,1,0,0
+2006,WC-2006,M-2006-43,group stage,Group F,0,0,2006-06-22,,S-067,Neckarstadion,Stuttgart,Germany,T-17,Croatia,HRV,T-04,Australia,AUS,2–2,2,2,0,0,0,0,0-0,0,0,0,0,1
+2006,WC-2006,M-2006-44,group stage,Group F,0,0,2006-06-22,,S-055,Westfalenstadion,Dortmund,Germany,T-42,Japan,JPN,T-09,Brazil,BRA,1–4,1,4,-3,3,0,0,0-0,0,0,0,1,0
+2006,WC-2006,M-2006-45,group stage,Group H,0,0,2006-06-23,,S-062,Fritz-Walter-Stadion,Kaiserslautern,Germany,T-60,Saudi Arabia,SAU,T-70,Spain,ESP,0–1,0,1,-1,1,0,0,0-0,0,0,0,1,0
+2006,WC-2006,M-2006-46,group stage,Group H,0,0,2006-06-23,,S-053,Olympiastadion,Berlin,Germany,T-77,Ukraine,UKR,T-75,Tunisia,TUN,1–0,1,0,1,-1,0,0,0-0,0,0,1,0,0
+2006,WC-2006,M-2006-47,group stage,Group G,0,0,2006-06-23,,S-061,Niedersachsenstadion,Hanover,Germany,T-72,Switzerland,CHE,T-68,South Korea,KOR,2–0,2,0,2,-2,0,0,0-0,0,0,1,0,0
+2006,WC-2006,M-2006-48,group stage,Group G,0,0,2006-06-23,,S-054,RheinEnergieStadion,Cologne,Germany,T-73,Togo,TGO,T-28,France,FRA,0–2,0,2,-2,2,0,0,0-0,0,0,0,1,0
+2006,WC-2006,M-2006-49,round of 16,,0,0,2006-06-24,,S-064,Allianz Arena,Munich,Germany,T-29,Germany,DEU,T-71,Sweden,SWE,2–0,2,0,2,-2,0,0,0-0,0,0,1,0,0
+2006,WC-2006,M-2006-50,round of 16,,0,0,2006-06-24,,S-063,Zentralstadion,Leipzig,Germany,T-03,Argentina,ARG,T-44,Mexico,MEX,2–1,2,1,1,-1,1,0,0-0,0,0,1,0,0
+2006,WC-2006,M-2006-51,round of 16,,0,0,2006-06-25,,S-067,Neckarstadion,Stuttgart,Germany,T-27,England,ENG,T-24,Ecuador,ECU,1–0,1,0,1,-1,0,0,0-0,0,0,1,0,0
+2006,WC-2006,M-2006-52,round of 16,,0,0,2006-06-25,,S-066,Frankenstadion,Nuremberg,Germany,T-56,Portugal,PRT,T-46,Netherlands,NLD,1–0,1,0,1,-1,0,0,0-0,0,0,1,0,0
+2006,WC-2006,M-2006-53,round of 16,,0,0,2006-06-26,,S-062,Fritz-Walter-Stadion,Kaiserslautern,Germany,T-39,Italy,ITA,T-04,Australia,AUS,1–0,1,0,1,-1,0,0,0-0,0,0,1,0,0
+2006,WC-2006,M-2006-54,round of 16,,0,0,2006-06-26,,S-054,RheinEnergieStadion,Cologne,Germany,T-72,Switzerland,CHE,T-77,Ukraine,UKR,0–0,0,0,0,0,1,1,0–3,0,3,0,1,0
+2006,WC-2006,M-2006-55,round of 16,,0,0,2006-06-27,,S-055,Westfalenstadion,Dortmund,Germany,T-09,Brazil,BRA,T-30,Ghana,GHA,3–0,3,0,3,-3,0,0,0-0,0,0,1,0,0
+2006,WC-2006,M-2006-56,round of 16,,0,0,2006-06-27,,S-061,Niedersachsenstadion,Hanover,Germany,T-70,Spain,ESP,T-28,France,FRA,1–3,1,3,-2,2,0,0,0-0,0,0,0,1,0
+2006,WC-2006,M-2006-57,quarter-finals,,0,0,2006-06-30,,S-053,Olympiastadion,Berlin,Germany,T-29,Germany,DEU,T-03,Argentina,ARG,1–1,1,1,0,0,1,1,4–2,4,2,1,0,0
+2006,WC-2006,M-2006-58,quarter-finals,,0,0,2006-06-30,,S-060,Volksparkstadion,Hamburg,Germany,T-39,Italy,ITA,T-77,Ukraine,UKR,3–0,3,0,3,-3,0,0,0-0,0,0,1,0,0
+2006,WC-2006,M-2006-59,quarter-finals,,0,0,2006-07-01,,S-058,Arena AufShalke,Gelsenkirchen,Germany,T-27,England,ENG,T-56,Portugal,PRT,0–0,0,0,0,0,1,1,1–3,1,3,0,1,0
+2006,WC-2006,M-2006-60,quarter-finals,,0,0,2006-07-01,,S-057,Waldstadion,Frankfurt,Germany,T-09,Brazil,BRA,T-28,France,FRA,0–1,0,1,-1,1,0,0,0-0,0,0,0,1,0
+2006,WC-2006,M-2006-61,semi-finals,,0,0,2006-07-04,,S-055,Westfalenstadion,Dortmund,Germany,T-29,Germany,DEU,T-39,Italy,ITA,0–2,0,2,-2,2,1,0,0-0,0,0,0,1,0
+2006,WC-2006,M-2006-62,semi-finals,,0,0,2006-07-05,,S-064,Allianz Arena,Munich,Germany,T-56,Portugal,PRT,T-28,France,FRA,0–1,0,1,-1,1,0,0,0-0,0,0,0,1,0
+2006,WC-2006,M-2006-63,third-place match,,0,0,2006-07-08,,S-067,Neckarstadion,Stuttgart,Germany,T-29,Germany,DEU,T-56,Portugal,PRT,3–1,3,1,2,-2,0,0,0-0,0,0,1,0,0
+2006,WC-2006,M-2006-64,final,,0,0,2006-07-09,,S-053,Olympiastadion,Berlin,Germany,T-39,Italy,ITA,T-28,France,FRA,1–1,1,1,0,0,1,1,5–3,5,3,1,0,0
+2010,WC-2010,M-2010-01,group stage,Group A,0,0,2010-06-11,,S-123,Soccer City,Johannesburg,South Africa,T-67,South Africa,ZAF,T-44,Mexico,MEX,1–1,1,1,0,0,0,0,0-0,0,0,0,0,1
+2010,WC-2010,M-2010-02,group stage,Group A,0,0,2010-06-11,,S-120,Cape Town Stadium,Cape Town,South Africa,T-80,Uruguay,URY,T-28,France,FRA,0–0,0,0,0,0,0,0,0-0,0,0,0,0,1
+2010,WC-2010,M-2010-03,group stage,Group B,0,0,2010-06-12,,S-126,Nelson Mandela Bay Stadium,Port Elizabeth,South Africa,T-68,South Korea,KOR,T-31,Greece,GRC,2–0,2,0,2,-2,0,0,0-0,0,0,1,0,0
+2010,WC-2010,M-2010-04,group stage,Group B,0,0,2010-06-12,,S-122,Ellis Park Stadium,Johannesburg,South Africa,T-03,Argentina,ARG,T-48,Nigeria,NGA,1–0,1,0,1,-1,0,0,0-0,0,0,1,0,0
+2010,WC-2010,M-2010-05,group stage,Group C,0,0,2010-06-12,,S-128,Royal Bafokeng Stadium,Rustenburg,South Africa,T-27,England,ENG,T-79,United States,USA,1–1,1,1,0,0,0,0,0-0,0,0,0,0,1
+2010,WC-2010,M-2010-06,group stage,Group C,0,0,2010-06-13,,S-125,Peter Mokaba Stadium,Polokwane,South Africa,T-01,Algeria,DZA,T-66,Slovenia,SVN,0–1,0,1,-1,1,0,0,0-0,0,0,0,1,0
+2010,WC-2010,M-2010-07,group stage,Group D,0,0,2010-06-13,,S-127,Loftus Versfeld Stadium,Pretoria,South Africa,T-63,Serbia,SRB,T-30,Ghana,GHA,0–1,0,1,-1,1,0,0,0-0,0,0,0,1,0
+2010,WC-2010,M-2010-08,group stage,Group D,0,0,2010-06-13,,S-121,Moses Mabhida Stadium,Durban,South Africa,T-29,Germany,DEU,T-04,Australia,AUS,4–0,4,0,4,-4,0,0,0-0,0,0,1,0,0
+2010,WC-2010,M-2010-09,group stage,Group E,0,0,2010-06-14,,S-123,Soccer City,Johannesburg,South Africa,T-46,Netherlands,NLD,T-21,Denmark,DNK,2–0,2,0,2,-2,0,0,0-0,0,0,1,0,0
+2010,WC-2010,M-2010-10,group stage,Group E,0,0,2010-06-14,,S-119,Free State Stadium,Bloemfontein,South Africa,T-42,Japan,JPN,T-11,Cameroon,CMR,1–0,1,0,1,-1,0,0,0-0,0,0,1,0,0
+2010,WC-2010,M-2010-11,group stage,Group F,0,0,2010-06-14,,S-120,Cape Town Stadium,Cape Town,South Africa,T-39,Italy,ITA,T-53,Paraguay,PRY,1–1,1,1,0,0,0,0,0-0,0,0,0,0,1
+2010,WC-2010,M-2010-12,group stage,Group F,0,0,2010-06-15,,S-128,Royal Bafokeng Stadium,Rustenburg,South Africa,T-47,New Zealand,NZL,T-65,Slovakia,SVK,1–1,1,1,0,0,0,0,0-0,0,0,0,0,1
+2010,WC-2010,M-2010-13,group stage,Group G,0,0,2010-06-15,,S-126,Nelson Mandela Bay Stadium,Port Elizabeth,South Africa,T-40,Ivory Coast,CIV,T-56,Portugal,PRT,0–0,0,0,0,0,0,0,0-0,0,0,0,0,1
+2010,WC-2010,M-2010-14,group stage,Group G,0,0,2010-06-15,,S-122,Ellis Park Stadium,Johannesburg,South Africa,T-09,Brazil,BRA,T-49,North Korea,PRK,2–1,2,1,1,-1,0,0,0-0,0,0,1,0,0
+2010,WC-2010,M-2010-15,group stage,Group H,0,0,2010-06-16,,S-124,Mbombela Stadium,Nelspruit,South Africa,T-33,Honduras,HND,T-13,Chile,CHL,0–1,0,1,-1,1,0,0,0-0,0,0,0,1,0
+2010,WC-2010,M-2010-16,group stage,Group H,0,0,2010-06-16,,S-121,Moses Mabhida Stadium,Durban,South Africa,T-70,Spain,ESP,T-72,Switzerland,CHE,0–1,0,1,-1,1,0,0,0-0,0,0,0,1,0
+2010,WC-2010,M-2010-17,group stage,Group A,0,0,2010-06-16,,S-127,Loftus Versfeld Stadium,Pretoria,South Africa,T-67,South Africa,ZAF,T-80,Uruguay,URY,0–3,0,3,-3,3,0,0,0-0,0,0,0,1,0
+2010,WC-2010,M-2010-18,group stage,Group B,0,0,2010-06-17,,S-123,Soccer City,Johannesburg,South Africa,T-03,Argentina,ARG,T-68,South Korea,KOR,4–1,4,1,3,-3,0,0,0-0,0,0,1,0,0
+2010,WC-2010,M-2010-19,group stage,Group B,0,0,2010-06-17,,S-119,Free State Stadium,Bloemfontein,South Africa,T-31,Greece,GRC,T-48,Nigeria,NGA,2–1,2,1,1,-1,0,0,0-0,0,0,1,0,0
+2010,WC-2010,M-2010-20,group stage,Group A,0,0,2010-06-17,,S-125,Peter Mokaba Stadium,Polokwane,South Africa,T-28,France,FRA,T-44,Mexico,MEX,0–2,0,2,-2,2,0,0,0-0,0,0,0,1,0
+2010,WC-2010,M-2010-21,group stage,Group D,0,0,2010-06-18,,S-126,Nelson Mandela Bay Stadium,Port Elizabeth,South Africa,T-29,Germany,DEU,T-63,Serbia,SRB,0–1,0,1,-1,1,0,0,0-0,0,0,0,1,0
+2010,WC-2010,M-2010-22,group stage,Group C,0,0,2010-06-18,,S-122,Ellis Park Stadium,Johannesburg,South Africa,T-66,Slovenia,SVN,T-79,United States,USA,2–2,2,2,0,0,0,0,0-0,0,0,0,0,1
+2010,WC-2010,M-2010-23,group stage,Group C,0,0,2010-06-18,,S-120,Cape Town Stadium,Cape Town,South Africa,T-27,England,ENG,T-01,Algeria,DZA,0–0,0,0,0,0,0,0,0-0,0,0,0,0,1
+2010,WC-2010,M-2010-24,group stage,Group E,0,0,2010-06-19,,S-121,Moses Mabhida Stadium,Durban,South Africa,T-46,Netherlands,NLD,T-42,Japan,JPN,1–0,1,0,1,-1,0,0,0-0,0,0,1,0,0
+2010,WC-2010,M-2010-25,group stage,Group D,0,0,2010-06-19,,S-128,Royal Bafokeng Stadium,Rustenburg,South Africa,T-30,Ghana,GHA,T-04,Australia,AUS,1–1,1,1,0,0,0,0,0-0,0,0,0,0,1
+2010,WC-2010,M-2010-26,group stage,Group E,0,0,2010-06-19,,S-127,Loftus Versfeld Stadium,Pretoria,South Africa,T-11,Cameroon,CMR,T-21,Denmark,DNK,1–2,1,2,-1,1,0,0,0-0,0,0,0,1,0
+2010,WC-2010,M-2010-27,group stage,Group F,0,0,2010-06-20,,S-119,Free State Stadium,Bloemfontein,South Africa,T-65,Slovakia,SVK,T-53,Paraguay,PRY,0–2,0,2,-2,2,0,0,0-0,0,0,0,1,0
+2010,WC-2010,M-2010-28,group stage,Group F,0,0,2010-06-20,,S-124,Mbombela Stadium,Nelspruit,South Africa,T-39,Italy,ITA,T-47,New Zealand,NZL,1–1,1,1,0,0,0,0,0-0,0,0,0,0,1
+2010,WC-2010,M-2010-29,group stage,Group G,0,0,2010-06-20,,S-123,Soccer City,Johannesburg,South Africa,T-09,Brazil,BRA,T-40,Ivory Coast,CIV,3–1,3,1,2,-2,0,0,0-0,0,0,1,0,0
+2010,WC-2010,M-2010-30,group stage,Group G,0,0,2010-06-21,,S-120,Cape Town Stadium,Cape Town,South Africa,T-56,Portugal,PRT,T-49,North Korea,PRK,7–0,7,0,7,-7,0,0,0-0,0,0,1,0,0
+2010,WC-2010,M-2010-31,group stage,Group H,0,0,2010-06-21,,S-126,Nelson Mandela Bay Stadium,Port Elizabeth,South Africa,T-13,Chile,CHL,T-72,Switzerland,CHE,1–0,1,0,1,-1,0,0,0-0,0,0,1,0,0
+2010,WC-2010,M-2010-32,group stage,Group H,0,0,2010-06-21,,S-122,Ellis Park Stadium,Johannesburg,South Africa,T-70,Spain,ESP,T-33,Honduras,HND,2–0,2,0,2,-2,0,0,0-0,0,0,1,0,0
+2010,WC-2010,M-2010-33,group stage,Group A,0,0,2010-06-22,,S-119,Free State Stadium,Bloemfontein,South Africa,T-28,France,FRA,T-67,South Africa,ZAF,1–2,1,2,-1,1,0,0,0-0,0,0,0,1,0
+2010,WC-2010,M-2010-34,group stage,Group A,0,0,2010-06-22,,S-128,Royal Bafokeng Stadium,Rustenburg,South Africa,T-44,Mexico,MEX,T-80,Uruguay,URY,0–1,0,1,-1,1,0,0,0-0,0,0,0,1,0
+2010,WC-2010,M-2010-35,group stage,Group B,0,0,2010-06-22,,S-125,Peter Mokaba Stadium,Polokwane,South Africa,T-31,Greece,GRC,T-03,Argentina,ARG,0–2,0,2,-2,2,0,0,0-0,0,0,0,1,0
+2010,WC-2010,M-2010-36,group stage,Group B,0,0,2010-06-22,,S-121,Moses Mabhida Stadium,Durban,South Africa,T-48,Nigeria,NGA,T-68,South Korea,KOR,2–2,2,2,0,0,0,0,0-0,0,0,0,0,1
+2010,WC-2010,M-2010-37,group stage,Group C,0,0,2010-06-23,,S-126,Nelson Mandela Bay Stadium,Port Elizabeth,South Africa,T-66,Slovenia,SVN,T-27,England,ENG,0–1,0,1,-1,1,0,0,0-0,0,0,0,1,0
+2010,WC-2010,M-2010-38,group stage,Group C,0,0,2010-06-23,,S-127,Loftus Versfeld Stadium,Pretoria,South Africa,T-79,United States,USA,T-01,Algeria,DZA,1–0,1,0,1,-1,0,0,0-0,0,0,1,0,0
+2010,WC-2010,M-2010-39,group stage,Group D,0,0,2010-06-23,,S-124,Mbombela Stadium,Nelspruit,South Africa,T-04,Australia,AUS,T-63,Serbia,SRB,2–1,2,1,1,-1,0,0,0-0,0,0,1,0,0
+2010,WC-2010,M-2010-40,group stage,Group D,0,0,2010-06-23,,S-123,Soccer City,Johannesburg,South Africa,T-30,Ghana,GHA,T-29,Germany,DEU,0–1,0,1,-1,1,0,0,0-0,0,0,0,1,0
+2010,WC-2010,M-2010-41,group stage,Group F,0,0,2010-06-24,,S-125,Peter Mokaba Stadium,Polokwane,South Africa,T-53,Paraguay,PRY,T-47,New Zealand,NZL,0–0,0,0,0,0,0,0,0-0,0,0,0,0,1
+2010,WC-2010,M-2010-42,group stage,Group F,0,0,2010-06-24,,S-122,Ellis Park Stadium,Johannesburg,South Africa,T-65,Slovakia,SVK,T-39,Italy,ITA,3–2,3,2,1,-1,0,0,0-0,0,0,1,0,0
+2010,WC-2010,M-2010-43,group stage,Group E,0,0,2010-06-24,,S-120,Cape Town Stadium,Cape Town,South Africa,T-11,Cameroon,CMR,T-46,Netherlands,NLD,1–2,1,2,-1,1,0,0,0-0,0,0,0,1,0
+2010,WC-2010,M-2010-44,group stage,Group E,0,0,2010-06-24,,S-128,Royal Bafokeng Stadium,Rustenburg,South Africa,T-21,Denmark,DNK,T-42,Japan,JPN,1–3,1,3,-2,2,0,0,0-0,0,0,0,1,0
+2010,WC-2010,M-2010-45,group stage,Group G,0,0,2010-06-25,,S-124,Mbombela Stadium,Nelspruit,South Africa,T-49,North Korea,PRK,T-40,Ivory Coast,CIV,0–3,0,3,-3,3,0,0,0-0,0,0,0,1,0
+2010,WC-2010,M-2010-46,group stage,Group G,0,0,2010-06-25,,S-121,Moses Mabhida Stadium,Durban,South Africa,T-56,Portugal,PRT,T-09,Brazil,BRA,0–0,0,0,0,0,0,0,0-0,0,0,0,0,1
+2010,WC-2010,M-2010-47,group stage,Group H,0,0,2010-06-25,,S-127,Loftus Versfeld Stadium,Pretoria,South Africa,T-13,Chile,CHL,T-70,Spain,ESP,1–2,1,2,-1,1,0,0,0-0,0,0,0,1,0
+2010,WC-2010,M-2010-48,group stage,Group H,0,0,2010-06-25,,S-119,Free State Stadium,Bloemfontein,South Africa,T-72,Switzerland,CHE,T-33,Honduras,HND,0–0,0,0,0,0,0,0,0-0,0,0,0,0,1
+2010,WC-2010,M-2010-49,round of 16,,0,0,2010-06-26,,S-126,Nelson Mandela Bay Stadium,Port Elizabeth,South Africa,T-80,Uruguay,URY,T-68,South Korea,KOR,2–1,2,1,1,-1,0,0,0-0,0,0,1,0,0
+2010,WC-2010,M-2010-50,round of 16,,0,0,2010-06-26,,S-128,Royal Bafokeng Stadium,Rustenburg,South Africa,T-79,United States,USA,T-30,Ghana,GHA,1–2,1,2,-1,1,1,0,0-0,0,0,0,1,0
+2010,WC-2010,M-2010-51,round of 16,,0,0,2010-06-27,,S-119,Free State Stadium,Bloemfontein,South Africa,T-29,Germany,DEU,T-27,England,ENG,4–1,4,1,3,-3,0,0,0-0,0,0,1,0,0
+2010,WC-2010,M-2010-52,round of 16,,0,0,2010-06-27,,S-123,Soccer City,Johannesburg,South Africa,T-03,Argentina,ARG,T-44,Mexico,MEX,3–1,3,1,2,-2,0,0,0-0,0,0,1,0,0
+2010,WC-2010,M-2010-53,round of 16,,0,0,2010-06-28,,S-121,Moses Mabhida Stadium,Durban,South Africa,T-46,Netherlands,NLD,T-65,Slovakia,SVK,2–1,2,1,1,-1,0,0,0-0,0,0,1,0,0
+2010,WC-2010,M-2010-54,round of 16,,0,0,2010-06-28,,S-122,Ellis Park Stadium,Johannesburg,South Africa,T-09,Brazil,BRA,T-13,Chile,CHL,3–0,3,0,3,-3,0,0,0-0,0,0,1,0,0
+2010,WC-2010,M-2010-55,round of 16,,0,0,2010-06-29,,S-127,Loftus Versfeld Stadium,Pretoria,South Africa,T-53,Paraguay,PRY,T-42,Japan,JPN,0–0,0,0,0,0,1,1,5–3,5,3,1,0,0
+2010,WC-2010,M-2010-56,round of 16,,0,0,2010-06-29,,S-120,Cape Town Stadium,Cape Town,South Africa,T-70,Spain,ESP,T-56,Portugal,PRT,1–0,1,0,1,-1,0,0,0-0,0,0,1,0,0
+2010,WC-2010,M-2010-57,quarter-finals,,0,0,2010-07-02,,S-126,Nelson Mandela Bay Stadium,Port Elizabeth,South Africa,T-46,Netherlands,NLD,T-09,Brazil,BRA,2–1,2,1,1,-1,0,0,0-0,0,0,1,0,0
+2010,WC-2010,M-2010-58,quarter-finals,,0,0,2010-07-02,,S-123,Soccer City,Johannesburg,South Africa,T-80,Uruguay,URY,T-30,Ghana,GHA,1–1,1,1,0,0,1,1,4–2,4,2,1,0,0
+2010,WC-2010,M-2010-59,quarter-finals,,0,0,2010-07-03,,S-120,Cape Town Stadium,Cape Town,South Africa,T-03,Argentina,ARG,T-29,Germany,DEU,0–4,0,4,-4,4,0,0,0-0,0,0,0,1,0
+2010,WC-2010,M-2010-60,quarter-finals,,0,0,2010-07-03,,S-122,Ellis Park Stadium,Johannesburg,South Africa,T-53,Paraguay,PRY,T-70,Spain,ESP,0–1,0,1,-1,1,0,0,0-0,0,0,0,1,0
+2010,WC-2010,M-2010-61,semi-finals,,0,0,2010-07-06,,S-120,Cape Town Stadium,Cape Town,South Africa,T-80,Uruguay,URY,T-46,Netherlands,NLD,2–3,2,3,-1,1,0,0,0-0,0,0,0,1,0
+2010,WC-2010,M-2010-62,semi-finals,,0,0,2010-07-07,,S-121,Moses Mabhida Stadium,Durban,South Africa,T-29,Germany,DEU,T-70,Spain,ESP,0–1,0,1,-1,1,0,0,0-0,0,0,0,1,0
+2010,WC-2010,M-2010-63,third-place match,,0,0,2010-07-10,,S-126,Nelson Mandela Bay Stadium,Port Elizabeth,South Africa,T-80,Uruguay,URY,T-29,Germany,DEU,2–3,2,3,-1,1,0,0,0-0,0,0,0,1,0
+2010,WC-2010,M-2010-64,final,,0,0,2010-07-11,,S-123,Soccer City,Johannesburg,South Africa,T-46,Netherlands,NLD,T-70,Spain,ESP,0–1,0,1,-1,1,1,0,0-0,0,0,0,1,0
+2014,WC-2014,M-2014-01,group stage,Group A,0,0,2014-06-12,,S-022,Arena Corinthians,São Paulo,Brazil,T-09,Brazil,BRA,T-17,Croatia,HRV,3–1,3,1,2,-2,0,0,0-0,0,0,1,0,0
+2014,WC-2014,M-2014-02,group stage,Group A,0,0,2014-06-13,,S-015,Arena das Dunas,Natal,Brazil,T-44,Mexico,MEX,T-11,Cameroon,CMR,1–0,1,0,1,-1,0,0,0-0,0,0,1,0,0
+2014,WC-2014,M-2014-03,group stage,Group B,0,0,2014-06-13,,S-021,Arena Fonte Nova,Salvador,Brazil,T-70,Spain,ESP,T-46,Netherlands,NLD,1–5,1,5,-4,4,0,0,0-0,0,0,0,1,0
+2014,WC-2014,M-2014-04,group stage,Group B,0,0,2014-06-13,,S-010,Arena Pantanal,Cuiabá,Brazil,T-13,Chile,CHL,T-04,Australia,AUS,3–1,3,1,2,-2,0,0,0-0,0,0,1,0,0
+2014,WC-2014,M-2014-05,group stage,Group C,0,0,2014-06-14,,S-008,Estádio Mineirão,Belo Horizonte,Brazil,T-15,Colombia,COL,T-31,Greece,GRC,3–0,3,0,3,-3,0,0,0-0,0,0,1,0,0
+2014,WC-2014,M-2014-06,group stage,Group D,0,0,2014-06-14,,S-013,Estádio Castelão,Fortaleza,Brazil,T-80,Uruguay,URY,T-16,Costa Rica,CRI,1–3,1,3,-2,2,0,0,0-0,0,0,0,1,0
+2014,WC-2014,M-2014-07,group stage,Group D,0,0,2014-06-14,,S-014,Arena da Amazônia,Manaus,Brazil,T-27,England,ENG,T-39,Italy,ITA,1–2,1,2,-1,1,0,0,0-0,0,0,0,1,0
+2014,WC-2014,M-2014-08,group stage,Group C,0,0,2014-06-14,,S-018,Arena Pernambuco,Recife,Brazil,T-40,Ivory Coast,CIV,T-42,Japan,JPN,2–1,2,1,1,-1,0,0,0-0,0,0,1,0,0
+2014,WC-2014,M-2014-09,group stage,Group E,0,0,2014-06-15,,S-009,Estádio Nacional,Brasília,Brazil,T-72,Switzerland,CHE,T-24,Ecuador,ECU,2–1,2,1,1,-1,0,0,0-0,0,0,1,0,0
+2014,WC-2014,M-2014-10,group stage,Group E,0,0,2014-06-15,,S-016,Estádio Beira-Rio,Porto Alegre,Brazil,T-28,France,FRA,T-33,Honduras,HND,3–0,3,0,3,-3,0,0,0-0,0,0,1,0,0
+2014,WC-2014,M-2014-11,group stage,Group F,0,0,2014-06-15,,S-020,Estádio do Maracanã,Rio de Janeiro,Brazil,T-03,Argentina,ARG,T-08,Bosnia and Herzegovina,BIH,2–1,2,1,1,-1,0,0,0-0,0,0,1,0,0
+2014,WC-2014,M-2014-12,group stage,Group G,0,0,2014-06-16,,S-021,Arena Fonte Nova,Salvador,Brazil,T-29,Germany,DEU,T-56,Portugal,PRT,4–0,4,0,4,-4,0,0,0-0,0,0,1,0,0
+2014,WC-2014,M-2014-13,group stage,Group F,0,0,2014-06-16,,S-011,Arena da Baixada,Curitiba,Brazil,T-36,Iran,IRN,T-48,Nigeria,NGA,0–0,0,0,0,0,0,0,0-0,0,0,0,0,1
+2014,WC-2014,M-2014-14,group stage,Group G,0,0,2014-06-16,,S-015,Arena das Dunas,Natal,Brazil,T-30,Ghana,GHA,T-79,United States,USA,1–2,1,2,-1,1,0,0,0-0,0,0,0,1,0
+2014,WC-2014,M-2014-15,group stage,Group H,0,0,2014-06-17,,S-008,Estádio Mineirão,Belo Horizonte,Brazil,T-06,Belgium,BEL,T-01,Algeria,DZA,2–1,2,1,1,-1,0,0,0-0,0,0,1,0,0
+2014,WC-2014,M-2014-16,group stage,Group A,0,0,2014-06-17,,S-013,Estádio Castelão,Fortaleza,Brazil,T-09,Brazil,BRA,T-44,Mexico,MEX,0–0,0,0,0,0,0,0,0-0,0,0,0,0,1
+2014,WC-2014,M-2014-17,group stage,Group H,0,0,2014-06-17,,S-010,Arena Pantanal,Cuiabá,Brazil,T-59,Russia,RUS,T-68,South Korea,KOR,1–1,1,1,0,0,0,0,0-0,0,0,0,0,1
+2014,WC-2014,M-2014-18,group stage,Group B,0,0,2014-06-18,,S-016,Estádio Beira-Rio,Porto Alegre,Brazil,T-04,Australia,AUS,T-46,Netherlands,NLD,2–3,2,3,-1,1,0,0,0-0,0,0,0,1,0
+2014,WC-2014,M-2014-19,group stage,Group B,0,0,2014-06-18,,S-020,Estádio do Maracanã,Rio de Janeiro,Brazil,T-70,Spain,ESP,T-13,Chile,CHL,0–2,0,2,-2,2,0,0,0-0,0,0,0,1,0
+2014,WC-2014,M-2014-20,group stage,Group A,0,0,2014-06-18,,S-014,Arena da Amazônia,Manaus,Brazil,T-11,Cameroon,CMR,T-17,Croatia,HRV,0–4,0,4,-4,4,0,0,0-0,0,0,0,1,0
+2014,WC-2014,M-2014-21,group stage,Group C,0,0,2014-06-19,,S-009,Estádio Nacional,Brasília,Brazil,T-15,Colombia,COL,T-40,Ivory Coast,CIV,2–1,2,1,1,-1,0,0,0-0,0,0,1,0,0
+2014,WC-2014,M-2014-22,group stage,Group D,0,0,2014-06-19,,S-022,Arena Corinthians,São Paulo,Brazil,T-80,Uruguay,URY,T-27,England,ENG,2–1,2,1,1,-1,0,0,0-0,0,0,1,0,0
+2014,WC-2014,M-2014-23,group stage,Group C,0,0,2014-06-19,,S-015,Arena das Dunas,Natal,Brazil,T-42,Japan,JPN,T-31,Greece,GRC,0–0,0,0,0,0,0,0,0-0,0,0,0,0,1
+2014,WC-2014,M-2014-24,group stage,Group D,0,0,2014-06-20,,S-018,Arena Pernambuco,Recife,Brazil,T-39,Italy,ITA,T-16,Costa Rica,CRI,0–1,0,1,-1,1,0,0,0-0,0,0,0,1,0
+2014,WC-2014,M-2014-25,group stage,Group E,0,0,2014-06-20,,S-021,Arena Fonte Nova,Salvador,Brazil,T-72,Switzerland,CHE,T-28,France,FRA,2–5,2,5,-3,3,0,0,0-0,0,0,0,1,0
+2014,WC-2014,M-2014-26,group stage,Group E,0,0,2014-06-20,,S-011,Arena da Baixada,Curitiba,Brazil,T-33,Honduras,HND,T-24,Ecuador,ECU,1–2,1,2,-1,1,0,0,0-0,0,0,0,1,0
+2014,WC-2014,M-2014-27,group stage,Group F,0,0,2014-06-21,,S-008,Estádio Mineirão,Belo Horizonte,Brazil,T-03,Argentina,ARG,T-36,Iran,IRN,1–0,1,0,1,-1,0,0,0-0,0,0,1,0,0
+2014,WC-2014,M-2014-28,group stage,Group G,0,0,2014-06-21,,S-013,Estádio Castelão,Fortaleza,Brazil,T-29,Germany,DEU,T-30,Ghana,GHA,2–2,2,2,0,0,0,0,0-0,0,0,0,0,1
+2014,WC-2014,M-2014-29,group stage,Group F,0,0,2014-06-21,,S-010,Arena Pantanal,Cuiabá,Brazil,T-48,Nigeria,NGA,T-08,Bosnia and Herzegovina,BIH,1–0,1,0,1,-1,0,0,0-0,0,0,1,0,0
+2014,WC-2014,M-2014-30,group stage,Group H,0,0,2014-06-22,,S-020,Estádio do Maracanã,Rio de Janeiro,Brazil,T-06,Belgium,BEL,T-59,Russia,RUS,1–0,1,0,1,-1,0,0,0-0,0,0,1,0,0
+2014,WC-2014,M-2014-31,group stage,Group H,0,0,2014-06-22,,S-016,Estádio Beira-Rio,Porto Alegre,Brazil,T-68,South Korea,KOR,T-01,Algeria,DZA,2–4,2,4,-2,2,0,0,0-0,0,0,0,1,0
+2014,WC-2014,M-2014-32,group stage,Group G,0,0,2014-06-22,,S-014,Arena da Amazônia,Manaus,Brazil,T-79,United States,USA,T-56,Portugal,PRT,2–2,2,2,0,0,0,0,0-0,0,0,0,0,1
+2014,WC-2014,M-2014-33,group stage,Group B,0,0,2014-06-23,,S-011,Arena da Baixada,Curitiba,Brazil,T-04,Australia,AUS,T-70,Spain,ESP,0–3,0,3,-3,3,0,0,0-0,0,0,0,1,0
+2014,WC-2014,M-2014-34,group stage,Group B,0,0,2014-06-23,,S-022,Arena Corinthians,São Paulo,Brazil,T-46,Netherlands,NLD,T-13,Chile,CHL,2–0,2,0,2,-2,0,0,0-0,0,0,1,0,0
+2014,WC-2014,M-2014-35,group stage,Group A,0,0,2014-06-23,,S-009,Estádio Nacional,Brasília,Brazil,T-11,Cameroon,CMR,T-09,Brazil,BRA,1–4,1,4,-3,3,0,0,0-0,0,0,0,1,0
+2014,WC-2014,M-2014-36,group stage,Group A,0,0,2014-06-23,,S-018,Arena Pernambuco,Recife,Brazil,T-17,Croatia,HRV,T-44,Mexico,MEX,1–3,1,3,-2,2,0,0,0-0,0,0,0,1,0
+2014,WC-2014,M-2014-37,group stage,Group D,0,0,2014-06-24,,S-008,Estádio Mineirão,Belo Horizonte,Brazil,T-16,Costa Rica,CRI,T-27,England,ENG,0–0,0,0,0,0,0,0,0-0,0,0,0,0,1
+2014,WC-2014,M-2014-38,group stage,Group D,0,0,2014-06-24,,S-015,Arena das Dunas,Natal,Brazil,T-39,Italy,ITA,T-80,Uruguay,URY,0–1,0,1,-1,1,0,0,0-0,0,0,0,1,0
+2014,WC-2014,M-2014-39,group stage,Group C,0,0,2014-06-24,,S-010,Arena Pantanal,Cuiabá,Brazil,T-42,Japan,JPN,T-15,Colombia,COL,1–4,1,4,-3,3,0,0,0-0,0,0,0,1,0
+2014,WC-2014,M-2014-40,group stage,Group C,0,0,2014-06-24,,S-013,Estádio Castelão,Fortaleza,Brazil,T-31,Greece,GRC,T-40,Ivory Coast,CIV,2–1,2,1,1,-1,0,0,0-0,0,0,1,0,0
+2014,WC-2014,M-2014-41,group stage,Group F,0,0,2014-06-25,,S-021,Arena Fonte Nova,Salvador,Brazil,T-08,Bosnia and Herzegovina,BIH,T-36,Iran,IRN,3–1,3,1,2,-2,0,0,0-0,0,0,1,0,0
+2014,WC-2014,M-2014-42,group stage,Group F,0,0,2014-06-25,,S-016,Estádio Beira-Rio,Porto Alegre,Brazil,T-48,Nigeria,NGA,T-03,Argentina,ARG,2–3,2,3,-1,1,0,0,0-0,0,0,0,1,0
+2014,WC-2014,M-2014-43,group stage,Group E,0,0,2014-06-25,,S-014,Arena da Amazônia,Manaus,Brazil,T-33,Honduras,HND,T-72,Switzerland,CHE,0–3,0,3,-3,3,0,0,0-0,0,0,0,1,0
+2014,WC-2014,M-2014-44,group stage,Group E,0,0,2014-06-25,,S-020,Estádio do Maracanã,Rio de Janeiro,Brazil,T-24,Ecuador,ECU,T-28,France,FRA,0–0,0,0,0,0,0,0,0-0,0,0,0,0,1
+2014,WC-2014,M-2014-45,group stage,Group G,0,0,2014-06-26,,S-009,Estádio Nacional,Brasília,Brazil,T-56,Portugal,PRT,T-30,Ghana,GHA,2–1,2,1,1,-1,0,0,0-0,0,0,1,0,0
+2014,WC-2014,M-2014-46,group stage,Group G,0,0,2014-06-26,,S-018,Arena Pernambuco,Recife,Brazil,T-79,United States,USA,T-29,Germany,DEU,0–1,0,1,-1,1,0,0,0-0,0,0,0,1,0
+2014,WC-2014,M-2014-47,group stage,Group H,0,0,2014-06-26,,S-011,Arena da Baixada,Curitiba,Brazil,T-01,Algeria,DZA,T-59,Russia,RUS,1–1,1,1,0,0,0,0,0-0,0,0,0,0,1
+2014,WC-2014,M-2014-48,group stage,Group H,0,0,2014-06-26,,S-022,Arena Corinthians,São Paulo,Brazil,T-68,South Korea,KOR,T-06,Belgium,BEL,0–1,0,1,-1,1,0,0,0-0,0,0,0,1,0
+2014,WC-2014,M-2014-49,round of 16,,0,0,2014-06-28,,S-008,Estádio Mineirão,Belo Horizonte,Brazil,T-09,Brazil,BRA,T-13,Chile,CHL,1–1,1,1,0,0,1,1,3–2,3,2,1,0,0
+2014,WC-2014,M-2014-50,round of 16,,0,0,2014-06-28,,S-020,Estádio do Maracanã,Rio de Janeiro,Brazil,T-15,Colombia,COL,T-80,Uruguay,URY,2–0,2,0,2,-2,0,0,0-0,0,0,1,0,0
+2014,WC-2014,M-2014-51,round of 16,,0,0,2014-06-29,,S-013,Estádio Castelão,Fortaleza,Brazil,T-46,Netherlands,NLD,T-44,Mexico,MEX,2–1,2,1,1,-1,0,0,0-0,0,0,1,0,0
+2014,WC-2014,M-2014-52,round of 16,,0,0,2014-06-29,,S-018,Arena Pernambuco,Recife,Brazil,T-16,Costa Rica,CRI,T-31,Greece,GRC,1–1,1,1,0,0,1,1,5–3,5,3,1,0,0
+2014,WC-2014,M-2014-53,round of 16,,0,0,2014-06-30,,S-009,Estádio Nacional,Brasília,Brazil,T-28,France,FRA,T-48,Nigeria,NGA,2–0,2,0,2,-2,0,0,0-0,0,0,1,0,0
+2014,WC-2014,M-2014-54,round of 16,,0,0,2014-06-30,,S-016,Estádio Beira-Rio,Porto Alegre,Brazil,T-29,Germany,DEU,T-01,Algeria,DZA,2–1,2,1,1,-1,1,0,0-0,0,0,1,0,0
+2014,WC-2014,M-2014-55,round of 16,,0,0,2014-07-01,,S-022,Arena Corinthians,São Paulo,Brazil,T-03,Argentina,ARG,T-72,Switzerland,CHE,1–0,1,0,1,-1,1,0,0-0,0,0,1,0,0
+2014,WC-2014,M-2014-56,round of 16,,0,0,2014-07-01,,S-021,Arena Fonte Nova,Salvador,Brazil,T-06,Belgium,BEL,T-79,United States,USA,2–1,2,1,1,-1,1,0,0-0,0,0,1,0,0
+2014,WC-2014,M-2014-57,quarter-finals,,0,0,2014-07-04,,S-020,Estádio do Maracanã,Rio de Janeiro,Brazil,T-28,France,FRA,T-29,Germany,DEU,0–1,0,1,-1,1,0,0,0-0,0,0,0,1,0
+2014,WC-2014,M-2014-58,quarter-finals,,0,0,2014-07-04,,S-013,Estádio Castelão,Fortaleza,Brazil,T-09,Brazil,BRA,T-15,Colombia,COL,2–1,2,1,1,-1,0,0,0-0,0,0,1,0,0
+2014,WC-2014,M-2014-59,quarter-finals,,0,0,2014-07-05,,S-009,Estádio Nacional,Brasília,Brazil,T-03,Argentina,ARG,T-06,Belgium,BEL,1–0,1,0,1,-1,0,0,0-0,0,0,1,0,0
+2014,WC-2014,M-2014-60,quarter-finals,,0,0,2014-07-05,,S-021,Arena Fonte Nova,Salvador,Brazil,T-46,Netherlands,NLD,T-16,Costa Rica,CRI,0–0,0,0,0,0,1,1,4–3,4,3,1,0,0
+2014,WC-2014,M-2014-61,semi-finals,,0,0,2014-07-08,,S-008,Estádio Mineirão,Belo Horizonte,Brazil,T-09,Brazil,BRA,T-29,Germany,DEU,1–7,1,7,-6,6,0,0,0-0,0,0,0,1,0
+2014,WC-2014,M-2014-62,semi-finals,,0,0,2014-07-09,,S-022,Arena Corinthians,São Paulo,Brazil,T-46,Netherlands,NLD,T-03,Argentina,ARG,0–0,0,0,0,0,1,1,2–4,2,4,0,1,0
+2014,WC-2014,M-2014-63,third-place match,,0,0,2014-07-12,,S-009,Estádio Nacional,Brasília,Brazil,T-09,Brazil,BRA,T-46,Netherlands,NLD,0–3,0,3,-3,3,0,0,0-0,0,0,0,1,0
+2014,WC-2014,M-2014-64,final,,0,0,2014-07-13,,S-020,Estádio do Maracanã,Rio de Janeiro,Brazil,T-29,Germany,DEU,T-03,Argentina,ARG,1–0,1,0,1,-1,1,0,0-0,0,0,1,0,0
+2018,WC-2018,M-2018-01,group stage,Group A,0,0,2018-06-14,,S-109,Luzhniki Stadium,Moscow,Russia,T-59,Russia,RUS,T-60,Saudi Arabia,SAU,5–0,5,0,5,-5,0,0,0-0,0,0,1,0,0
+2018,WC-2018,M-2018-02,group stage,Group A,0,0,2018-06-15,,S-118,Central Stadium,Yekaterinburg,Russia,T-25,Egypt,EGY,T-80,Uruguay,URY,0–1,0,1,-1,1,0,0,0-0,0,0,0,1,0
+2018,WC-2018,M-2018-03,group stage,Group B,0,0,2018-06-15,,S-113,Krestovsky Stadium,Saint Petersburg,Russia,T-45,Morocco,MAR,T-36,Iran,IRN,0–1,0,1,-1,1,0,0,0-0,0,0,0,1,0
+2018,WC-2018,M-2018-04,group stage,Group B,0,0,2018-06-15,,S-116,Fisht Olympic Stadium,Sochi,Russia,T-56,Portugal,PRT,T-70,Spain,ESP,3–3,3,3,0,0,0,0,0-0,0,0,0,0,1
+2018,WC-2018,M-2018-05,group stage,Group C,0,0,2018-06-16,,S-108,Kazan Arena,Kazan,Russia,T-28,France,FRA,T-04,Australia,AUS,2–1,2,1,1,-1,0,0,0-0,0,0,1,0,0
+2018,WC-2018,M-2018-06,group stage,Group D,0,0,2018-06-16,,S-110,Otkritie Arena,Moscow,Russia,T-03,Argentina,ARG,T-35,Iceland,ISL,1–1,1,1,0,0,0,0,0-0,0,0,0,0,1
+2018,WC-2018,M-2018-07,group stage,Group C,0,0,2018-06-16,,S-115,Mordovia Arena,Saransk,Russia,T-54,Peru,PER,T-21,Denmark,DNK,0–1,0,1,-1,1,0,0,0-0,0,0,0,1,0
+2018,WC-2018,M-2018-08,group stage,Group D,0,0,2018-06-16,,S-107,Kaliningrad Stadium,Kaliningrad,Russia,T-17,Croatia,HRV,T-48,Nigeria,NGA,2–0,2,0,2,-2,0,0,0-0,0,0,1,0,0
+2018,WC-2018,M-2018-09,group stage,Group E,0,0,2018-06-17,,S-114,Samara Arena,Samara,Russia,T-16,Costa Rica,CRI,T-63,Serbia,SRB,0–1,0,1,-1,1,0,0,0-0,0,0,0,1,0
+2018,WC-2018,M-2018-10,group stage,Group F,0,0,2018-06-17,,S-109,Luzhniki Stadium,Moscow,Russia,T-29,Germany,DEU,T-44,Mexico,MEX,0–1,0,1,-1,1,0,0,0-0,0,0,0,1,0
+2018,WC-2018,M-2018-11,group stage,Group E,0,0,2018-06-17,,S-112,Rostov Arena,Rostov-on-Don,Russia,T-09,Brazil,BRA,T-72,Switzerland,CHE,1–1,1,1,0,0,0,0,0-0,0,0,0,0,1
+2018,WC-2018,M-2018-12,group stage,Group F,0,0,2018-06-18,,S-111,Nizhny Novgorod Stadium,Nizhny Novgorod,Russia,T-71,Sweden,SWE,T-68,South Korea,KOR,1–0,1,0,1,-1,0,0,0-0,0,0,1,0,0
+2018,WC-2018,M-2018-13,group stage,Group G,0,0,2018-06-18,,S-116,Fisht Olympic Stadium,Sochi,Russia,T-06,Belgium,BEL,T-52,Panama,PAN,3–0,3,0,3,-3,0,0,0-0,0,0,1,0,0
+2018,WC-2018,M-2018-14,group stage,Group G,0,0,2018-06-18,,S-117,Volgograd Arena,Volgograd,Russia,T-75,Tunisia,TUN,T-27,England,ENG,1–2,1,2,-1,1,0,0,0-0,0,0,0,1,0
+2018,WC-2018,M-2018-15,group stage,Group H,0,0,2018-06-19,,S-115,Mordovia Arena,Saransk,Russia,T-15,Colombia,COL,T-42,Japan,JPN,1–2,1,2,-1,1,0,0,0-0,0,0,0,1,0
+2018,WC-2018,M-2018-16,group stage,Group H,0,0,2018-06-19,,S-110,Otkritie Arena,Moscow,Russia,T-55,Poland,POL,T-62,Senegal,SEN,1–2,1,2,-1,1,0,0,0-0,0,0,0,1,0
+2018,WC-2018,M-2018-17,group stage,Group A,0,0,2018-06-19,,S-113,Krestovsky Stadium,Saint Petersburg,Russia,T-59,Russia,RUS,T-25,Egypt,EGY,3–1,3,1,2,-2,0,0,0-0,0,0,1,0,0
+2018,WC-2018,M-2018-18,group stage,Group B,0,0,2018-06-20,,S-109,Luzhniki Stadium,Moscow,Russia,T-56,Portugal,PRT,T-45,Morocco,MAR,1–0,1,0,1,-1,0,0,0-0,0,0,1,0,0
+2018,WC-2018,M-2018-19,group stage,Group A,0,0,2018-06-20,,S-112,Rostov Arena,Rostov-on-Don,Russia,T-80,Uruguay,URY,T-60,Saudi Arabia,SAU,1–0,1,0,1,-1,0,0,0-0,0,0,1,0,0
+2018,WC-2018,M-2018-20,group stage,Group B,0,0,2018-06-20,,S-108,Kazan Arena,Kazan,Russia,T-36,Iran,IRN,T-70,Spain,ESP,0–1,0,1,-1,1,0,0,0-0,0,0,0,1,0
+2018,WC-2018,M-2018-21,group stage,Group C,0,0,2018-06-21,,S-114,Samara Arena,Samara,Russia,T-21,Denmark,DNK,T-04,Australia,AUS,1–1,1,1,0,0,0,0,0-0,0,0,0,0,1
+2018,WC-2018,M-2018-22,group stage,Group C,0,0,2018-06-21,,S-118,Central Stadium,Yekaterinburg,Russia,T-28,France,FRA,T-54,Peru,PER,1–0,1,0,1,-1,0,0,0-0,0,0,1,0,0
+2018,WC-2018,M-2018-23,group stage,Group D,0,0,2018-06-21,,S-111,Nizhny Novgorod Stadium,Nizhny Novgorod,Russia,T-03,Argentina,ARG,T-17,Croatia,HRV,0–3,0,3,-3,3,0,0,0-0,0,0,0,1,0
+2018,WC-2018,M-2018-24,group stage,Group E,0,0,2018-06-22,,S-113,Krestovsky Stadium,Saint Petersburg,Russia,T-09,Brazil,BRA,T-16,Costa Rica,CRI,2–0,2,0,2,-2,0,0,0-0,0,0,1,0,0
+2018,WC-2018,M-2018-25,group stage,Group D,0,0,2018-06-22,,S-117,Volgograd Arena,Volgograd,Russia,T-48,Nigeria,NGA,T-35,Iceland,ISL,2–0,2,0,2,-2,0,0,0-0,0,0,1,0,0
+2018,WC-2018,M-2018-26,group stage,Group E,0,0,2018-06-22,,S-107,Kaliningrad Stadium,Kaliningrad,Russia,T-63,Serbia,SRB,T-72,Switzerland,CHE,1–2,1,2,-1,1,0,0,0-0,0,0,0,1,0
+2018,WC-2018,M-2018-27,group stage,Group G,0,0,2018-06-23,,S-110,Otkritie Arena,Moscow,Russia,T-06,Belgium,BEL,T-75,Tunisia,TUN,5–2,5,2,3,-3,0,0,0-0,0,0,1,0,0
+2018,WC-2018,M-2018-28,group stage,Group F,0,0,2018-06-23,,S-112,Rostov Arena,Rostov-on-Don,Russia,T-68,South Korea,KOR,T-44,Mexico,MEX,1–2,1,2,-1,1,0,0,0-0,0,0,0,1,0
+2018,WC-2018,M-2018-29,group stage,Group F,0,0,2018-06-23,,S-116,Fisht Olympic Stadium,Sochi,Russia,T-29,Germany,DEU,T-71,Sweden,SWE,2–1,2,1,1,-1,0,0,0-0,0,0,1,0,0
+2018,WC-2018,M-2018-30,group stage,Group G,0,0,2018-06-24,,S-111,Nizhny Novgorod Stadium,Nizhny Novgorod,Russia,T-27,England,ENG,T-52,Panama,PAN,6–1,6,1,5,-5,0,0,0-0,0,0,1,0,0
+2018,WC-2018,M-2018-31,group stage,Group H,0,0,2018-06-24,,S-118,Central Stadium,Yekaterinburg,Russia,T-42,Japan,JPN,T-62,Senegal,SEN,2–2,2,2,0,0,0,0,0-0,0,0,0,0,1
+2018,WC-2018,M-2018-32,group stage,Group H,0,0,2018-06-24,,S-108,Kazan Arena,Kazan,Russia,T-55,Poland,POL,T-15,Colombia,COL,0–3,0,3,-3,3,0,0,0-0,0,0,0,1,0
+2018,WC-2018,M-2018-33,group stage,Group A,0,0,2018-06-25,,S-117,Volgograd Arena,Volgograd,Russia,T-60,Saudi Arabia,SAU,T-25,Egypt,EGY,2–1,2,1,1,-1,0,0,0-0,0,0,1,0,0
+2018,WC-2018,M-2018-34,group stage,Group A,0,0,2018-06-25,,S-114,Samara Arena,Samara,Russia,T-80,Uruguay,URY,T-59,Russia,RUS,3–0,3,0,3,-3,0,0,0-0,0,0,1,0,0
+2018,WC-2018,M-2018-35,group stage,Group B,0,0,2018-06-25,,S-107,Kaliningrad Stadium,Kaliningrad,Russia,T-70,Spain,ESP,T-45,Morocco,MAR,2–2,2,2,0,0,0,0,0-0,0,0,0,0,1
+2018,WC-2018,M-2018-36,group stage,Group B,0,0,2018-06-25,,S-115,Mordovia Arena,Saransk,Russia,T-36,Iran,IRN,T-56,Portugal,PRT,1–1,1,1,0,0,0,0,0-0,0,0,0,0,1
+2018,WC-2018,M-2018-37,group stage,Group C,0,0,2018-06-26,,S-116,Fisht Olympic Stadium,Sochi,Russia,T-04,Australia,AUS,T-54,Peru,PER,0–2,0,2,-2,2,0,0,0-0,0,0,0,1,0
+2018,WC-2018,M-2018-38,group stage,Group C,0,0,2018-06-26,,S-109,Luzhniki Stadium,Moscow,Russia,T-21,Denmark,DNK,T-28,France,FRA,0–0,0,0,0,0,0,0,0-0,0,0,0,0,1
+2018,WC-2018,M-2018-39,group stage,Group D,0,0,2018-06-26,,S-112,Rostov Arena,Rostov-on-Don,Russia,T-35,Iceland,ISL,T-17,Croatia,HRV,1–2,1,2,-1,1,0,0,0-0,0,0,0,1,0
+2018,WC-2018,M-2018-40,group stage,Group D,0,0,2018-06-26,,S-113,Krestovsky Stadium,Saint Petersburg,Russia,T-48,Nigeria,NGA,T-03,Argentina,ARG,1–2,1,2,-1,1,0,0,0-0,0,0,0,1,0
+2018,WC-2018,M-2018-41,group stage,Group F,0,0,2018-06-27,,S-108,Kazan Arena,Kazan,Russia,T-68,South Korea,KOR,T-29,Germany,DEU,2–0,2,0,2,-2,0,0,0-0,0,0,1,0,0
+2018,WC-2018,M-2018-42,group stage,Group F,0,0,2018-06-27,,S-118,Central Stadium,Yekaterinburg,Russia,T-44,Mexico,MEX,T-71,Sweden,SWE,0–3,0,3,-3,3,0,0,0-0,0,0,0,1,0
+2018,WC-2018,M-2018-43,group stage,Group E,0,0,2018-06-27,,S-110,Otkritie Arena,Moscow,Russia,T-63,Serbia,SRB,T-09,Brazil,BRA,0–2,0,2,-2,2,0,0,0-0,0,0,0,1,0
+2018,WC-2018,M-2018-44,group stage,Group E,0,0,2018-06-27,,S-111,Nizhny Novgorod Stadium,Nizhny Novgorod,Russia,T-72,Switzerland,CHE,T-16,Costa Rica,CRI,2–2,2,2,0,0,0,0,0-0,0,0,0,0,1
+2018,WC-2018,M-2018-45,group stage,Group H,0,0,2018-06-28,,S-117,Volgograd Arena,Volgograd,Russia,T-42,Japan,JPN,T-55,Poland,POL,0–1,0,1,-1,1,0,0,0-0,0,0,0,1,0
+2018,WC-2018,M-2018-46,group stage,Group H,0,0,2018-06-28,,S-114,Samara Arena,Samara,Russia,T-62,Senegal,SEN,T-15,Colombia,COL,0–1,0,1,-1,1,0,0,0-0,0,0,0,1,0
+2018,WC-2018,M-2018-47,group stage,Group G,0,0,2018-06-28,,S-107,Kaliningrad Stadium,Kaliningrad,Russia,T-27,England,ENG,T-06,Belgium,BEL,0–1,0,1,-1,1,0,0,0-0,0,0,0,1,0
+2018,WC-2018,M-2018-48,group stage,Group G,0,0,2018-06-28,,S-115,Mordovia Arena,Saransk,Russia,T-52,Panama,PAN,T-75,Tunisia,TUN,1–2,1,2,-1,1,0,0,0-0,0,0,0,1,0
+2018,WC-2018,M-2018-49,round of 16,,0,0,2018-06-30,,S-108,Kazan Arena,Kazan,Russia,T-28,France,FRA,T-03,Argentina,ARG,4–3,4,3,1,-1,0,0,0-0,0,0,1,0,0
+2018,WC-2018,M-2018-50,round of 16,,0,0,2018-06-30,,S-116,Fisht Olympic Stadium,Sochi,Russia,T-80,Uruguay,URY,T-56,Portugal,PRT,2–1,2,1,1,-1,0,0,0-0,0,0,1,0,0
+2018,WC-2018,M-2018-51,round of 16,,0,0,2018-07-01,,S-109,Luzhniki Stadium,Moscow,Russia,T-70,Spain,ESP,T-59,Russia,RUS,1–1,1,1,0,0,1,1,3–4,3,4,0,1,0
+2018,WC-2018,M-2018-52,round of 16,,0,0,2018-07-01,,S-111,Nizhny Novgorod Stadium,Nizhny Novgorod,Russia,T-17,Croatia,HRV,T-21,Denmark,DNK,1–1,1,1,0,0,1,1,3–2,3,2,1,0,0
+2018,WC-2018,M-2018-53,round of 16,,0,0,2018-07-02,,S-114,Samara Arena,Samara,Russia,T-09,Brazil,BRA,T-44,Mexico,MEX,2–0,2,0,2,-2,0,0,0-0,0,0,1,0,0
+2018,WC-2018,M-2018-54,round of 16,,0,0,2018-07-02,,S-112,Rostov Arena,Rostov-on-Don,Russia,T-06,Belgium,BEL,T-42,Japan,JPN,3–2,3,2,1,-1,0,0,0-0,0,0,1,0,0
+2018,WC-2018,M-2018-55,round of 16,,0,0,2018-07-03,,S-113,Krestovsky Stadium,Saint Petersburg,Russia,T-71,Sweden,SWE,T-72,Switzerland,CHE,1–0,1,0,1,-1,0,0,0-0,0,0,1,0,0
+2018,WC-2018,M-2018-56,round of 16,,0,0,2018-07-03,,S-110,Otkritie Arena,Moscow,Russia,T-15,Colombia,COL,T-27,England,ENG,1–1,1,1,0,0,1,1,3–4,3,4,0,1,0
+2018,WC-2018,M-2018-57,quarter-finals,,0,0,2018-07-06,,S-111,Nizhny Novgorod Stadium,Nizhny Novgorod,Russia,T-80,Uruguay,URY,T-28,France,FRA,0–2,0,2,-2,2,0,0,0-0,0,0,0,1,0
+2018,WC-2018,M-2018-58,quarter-finals,,0,0,2018-07-06,,S-108,Kazan Arena,Kazan,Russia,T-09,Brazil,BRA,T-06,Belgium,BEL,1–2,1,2,-1,1,0,0,0-0,0,0,0,1,0
+2018,WC-2018,M-2018-59,quarter-finals,,0,0,2018-07-07,,S-114,Samara Arena,Samara,Russia,T-71,Sweden,SWE,T-27,England,ENG,0–2,0,2,-2,2,0,0,0-0,0,0,0,1,0
+2018,WC-2018,M-2018-60,quarter-finals,,0,0,2018-07-07,,S-116,Fisht Olympic Stadium,Sochi,Russia,T-59,Russia,RUS,T-17,Croatia,HRV,2–2,2,2,0,0,1,1,3–4,3,4,0,1,0
+2018,WC-2018,M-2018-61,semi-finals,,0,0,2018-07-10,,S-113,Krestovsky Stadium,Saint Petersburg,Russia,T-28,France,FRA,T-06,Belgium,BEL,1–0,1,0,1,-1,0,0,0-0,0,0,1,0,0
+2018,WC-2018,M-2018-62,semi-finals,,0,0,2018-07-11,,S-109,Luzhniki Stadium,Moscow,Russia,T-17,Croatia,HRV,T-27,England,ENG,2–1,2,1,1,-1,1,0,0-0,0,0,1,0,0
+2018,WC-2018,M-2018-63,third-place match,,0,0,2018-07-14,,S-113,Krestovsky Stadium,Saint Petersburg,Russia,T-06,Belgium,BEL,T-27,England,ENG,2–0,2,0,2,-2,0,0,0-0,0,0,1,0,0
+2018,WC-2018,M-2018-64,final,,0,0,2018-07-15,,S-109,Luzhniki Stadium,Moscow,Russia,T-28,France,FRA,T-17,Croatia,HRV,4–2,4,2,2,-2,0,0,0-0,0,0,1,0,0
