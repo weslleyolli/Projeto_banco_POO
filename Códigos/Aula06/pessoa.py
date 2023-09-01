@@ -6,7 +6,7 @@ class Config:
         self.config = {
             "postgres": {
                 "user": "postgres",
-                "password": "Asdasd123",
+                "password": "",
                 "host": "127.0.1",
                 "port": "5432",
                 "database": "pydb"
